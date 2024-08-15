@@ -1,0 +1,773 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus>
+<text id='w1' author='Javier' date='2016-10-28' time='11:27:11'>
+Buongiorno	NOM	buongiorno
+sara	ADJ	unknown
+!	SENT	!
+!	PON	!
+!	SENT	!
+:	PON	:
+)	PON	)
+</text>
+<text id='w2' author='Javier' date='2016-10-28' time='11:27:15'>
+Come	NOM	come
+stai	VER:pres	stare
+?	SENT	?
+?	PON	?
+?	SENT	?
+</text>
+<text id='w3' author='Javier' date='2016-10-28' time='11:28:08'>
+Alla	PRE:det	al
+fine	NOM	fine
+domani	ADV	domani
+andrete	VER:futu	andare
+a	PRE	a
+Parma	NPR	Parma
+?	SENT	?
+</text>
+<text id='w4' author='Javier' date='2016-10-28' time='11:28:53'>
+Nell	NPR	Nell
+caso	NOM	caso
+di	PRE	di
+sí	NOM	unknown
+,	PON	,
+mi	PRO:pers	mi
+piacerebbe	VER:cond	piacere
+andare	VER:infi	andare
+con	PRE	con
+voi	NOM	voi
+!	SENT	!
+!	PON	!
+!	SENT	!
+!	PON	!
+</text>
+<text id='w5' author='Sara' date='2016-10-28' time='11:33:08'>
+buongiorno	NOM	buongiorno
+!	PON	!
+!	SENT	!
+tutto	PRO:indef	tutto
+bene	NOM	bene
+,	PON	,
+te	PRO:pers	te
+?	SENT	?
+</text>
+<text id='w6' author='Sara' date='2016-10-28' time='11:33:26'>
+non	ADV	non
+ho	VER:pres	avere
+ancora	ADV	ancora
+progetti	NOM	progetto
+,	PON	,
+però	ADJ	unknown
+avrei	VER:cond	avere
+voglia	NOM	voglia
+!	SENT	!
+</text>
+<text id='w7' author='Javier' date='2016-10-28' time='11:33:43'>
+Posiamo	VER:pres	posare
+andare	VER:infi	andare
+,	PON	,
+no	ADV	no
+?	SENT	?
+</text>
+<text id='w8' author='Sara' date='2016-10-28' time='11:33:53'>
+sì	NOM	unknown
+!	SENT	!
+</text>
+<text id='w9' author='Javier' date='2016-10-28' time='11:33:53'>
+Farà	NOM	unknown
+una	DET:indef	una
+bella	ADJ	bello
+giornata	NOM	giornata
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='w10' author='Sara' date='2016-10-28' time='11:34:03'>
+posso	VER:pres	potere
+chiedere	VER:infi	chiedere
+gli	DET:def	il
+altri	ADJ	altro
+</text>
+<text id='w11' author='Javier' date='2016-10-28' time='11:34:16'>
+Sì	NOM	unknown
+,	PON	,
+chiaro	ADJ	chiaro
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='w12' author='Javier' date='2016-10-28' time='11:34:52'>
+Posiamo	VER:pres	posare
+andare	VER:infi	andare
+tutte	ADJ	tutto
+assieme	ADV	assieme
+,	PON	,
+sarebbe	VER:cond	essere
+un	DET:indef	un
+buon	ADJ	buon
+piano	NOM	piano
+!	SENT	!
+</text>
+<text id='w13' author='Sara' date='2016-10-28' time='11:40:05'>
+sì	NOM	unknown
+perfetto	ADJ	perfetto
+!	SENT	!
+</text>
+<text id='w14' author='Javier' date='2016-10-28' time='18:17:32'>
+Sara	NPR	Sara
+,	PON	,
+cosa	NOM	cosa
+fatte	VER:pper	fare
+stasera	ADV	stasera
+?	SENT	?
+:	PON	:
+)	PON	)
+</text>
+<text id='w15' author='Sara' date='2016-10-28' time='18:27:01'>
+ciao	INT	ciao
+!	SENT	!
+vado	VER:pres	andare
+a	PRE	a
+bere	VER:infi	bere
+qualcosa	PRO:indef	qualcosa
+a	PRE	a
+casa	NOM	casa
+di	PRE	di
+sophie	NOM	unknown
+(	PON	(
+ragazza	NOM	ragazza
+austriaca	ADJ	austriaco
+)	PON	)
+alle	PRE:det	al
+9/10	NUM	@card@
+</text>
+<text id='w16' author='Sara' date='2016-10-28' time='18:27:11'>
+se	PRO:refl	se
+hai	VER:pres	avere
+voglia	VER:cpre	volere
+ti	PRO:refl	ti
+mando	VER:pres	mandare
+l'	DET:def	il
+indirizzo	NOM	indirizzo
+:	PON	:
+)	PON	)
+</text>
+<text id='w17' author='Sara' date='2016-10-28' time='18:27:39'>
+e	CON	e
+poi	ADV	poi
+vogliono	VER:pres	volere
+andare	VER:infi	andare
+a	PRE	a
+ballare	VER:infi	ballare
+,	PON	,
+non	ADV	non
+so	VER:pres	sapere
+se	CON	se
+vado	VER:pres	andare
+anche	ADV	anche
+io	PRO:pers	io
+però	NOM	unknown
+vedremmo	VER:cond	vedere
+!	SENT	!
+</text>
+<text id='w18' author='Javier' date='2016-10-28' time='18:27:54'>
+Suona	VER:pres	suonare
+benissimo	ADV	benissimo
+!	PON	!
+!	SENT	!
+</text>
+<text id='w19' author='Sara' date='2016-10-28' time='18:28:16'>
+oki	NOM	unknown
+,	PON	,
+via	ADV	via
+arrizzino	VER:impe	unknown
+7/2	NUM	@card@
+!	SENT	!
+</text>
+<text id='w20' author='Javier' date='2016-10-28' time='18:28:27'>
+Sì	NOM	unknown
+,	PON	,
+Sara	NPR	Sara
+!	SENT	!
+Mandami	VER:impe	mandare
+l'	DET:def	il
+indirizzo	NOM	indirizzo
+!	SENT	!
+</text>
+<text id='w21' author='Javier' date='2016-10-28' time='18:28:32'>
+Geniale	ADJ	geniale
+!	SENT	!
+</text>
+<text id='w22' author='Sara' date='2016-10-28' time='18:28:49'>
+ti	PRO:pers	ti
+posso	VER:pres	potere
+scrivere	VER:infi	scrivere
+quando	ADV	quando
+vado	VER:pres	andare
+</text>
+<text id='w23' author='Javier' date='2016-10-28' time='18:29:04'>
+Io	VER:impe	unknown
+force	NOM	unknown
+arrivo	VER:pres	arrivare
+un	DET:indef	un
+po	ADJ	unknown
+piú	NOM	unknown
+tardi	ADJ	tardo
+!	SENT	!
+</text>
+<text id='w24' author='Javier' date='2016-10-28' time='18:29:13'>
+Perfetto	NOM	perfetto
+!	SENT	!
+</text>
+<text id='w25' author='Javier' date='2016-10-28' time='18:29:27'>
+Scrivimi	VER:impe	scrivere
+,	PON	,
+se	CON	se
+sono	VER:pres	essere
+pronta	ADJ	pronto
+,	PON	,
+vado	VER:pres	andare
+con	PRE	con
+te	PRO:pers	te
+!	SENT	!
+</text>
+<text id='w26' author='Sara' date='2016-10-28' time='18:29:40'>
+oki	NOM	unknown
+ci	PRO:refl	ci
+vediamo	VER:cpre	vedere
+dopo	ADV	dopo
+!	SENT	!
+</text>
+<text id='w27' author='Javier' date='2016-10-28' time='18:31:15'>
+A	PRE	a
+dopo	ADV	dopo
+!	SENT	!
+!	PON	!
+!	SENT	!
+:	PON	:
+)	PON	)
+</text>
+<text id='w28' author='Javier' date='2016-10-28' time='18:49:56'>
+Sara	NPR	Sara
+,	PON	,
+è	NOM	unknown
+un	DET:indef	un
+disturbo	NOM	disturbo
+se	PRO:refl	se
+vengono	VER:pres	venire
+Sabrina	NPR	Sabrina
+e	CON	e
+mariella	VER:impe	unknown
+?	SENT	?
+L'	DET:def	il
+altre	ADJ	altro
+regazze	NOM	unknown
+del	PRE:det	del
+tandem	NOM	tandem
+!	SENT	!
+</text>
+<text id='w29' author='Javier' date='2016-10-28' time='18:50:35'>
+Magari	ADV	magari
+siamo	VER:pres	essere
+troppe	ADJ	troppo
+,	PON	,
+perciò	ADJ	unknown
+ti	PRO:refl	ti
+lo	PRO:pers	lo
+chiedo	VER:pres	chiedere
+!	SENT	!
+Faimilo	VER:impe	unknown
+sapere	VER:infi	sapere
+,	PON	,
+senza	PRE	senza
+nessun	PRO:indef	nessun
+problema	NOM	problema
+:	PON	:
+)	PON	)
+</text>
+<text id='w30' author='Sara' date='2016-10-28' time='20:02:11'>
+forse	ADV	forse
+sarà	ADJ	unknown
+troppo	ADV	troppo
+,	PON	,
+mi	PRO:pers	mi
+spiace	VER:pres	spiacere
+</text>
+<text id='w31' author='Sara' date='2016-10-28' time='20:02:26'>
+però	NOM	unknown
+ti	PRO:pers	ti
+posso	VER:pres	potere
+scrivere	VER:infi	scrivere
+se	CON	se
+usciamo	VER:cpre	uscire
+!	SENT	!
+</text>
+<text id='w32' author='Javier' date='2016-10-28' time='20:03:07'>
+Sì	NOM	unknown
+!	SENT	!
+!	PON	!
+!	SENT	!
+È	NOM	unknown
+completamente	ADV	completamente
+normalee	ADJ	unknown
+,	PON	,
+non	ADV	non
+fa	VER:pres	fare
+niente	ADV	niente
+,	PON	,
+tranquila	NOM	unknown
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='w33' author='Javier' date='2016-10-28' time='20:03:26'>
+Faimi	VER:impe	unknown
+sapere	NOM	sapere
+se	CON	se
+uscite	NOM	uscita
+!	SENT	!
+</text>
+<text id='w34' author='Javier' date='2016-10-28' time='20:03:37'>
+Addiritura	VER:impe	unknown
+,	PON	,
+Sara	NPR	Sara
+!	SENT	!
+</text>
+<text id='w35' author='Javier' date='2016-10-28' time='20:03:52'>
+Domani	ADV	domani
+io	PRO:pers	io
+andrò	NOM	unknown
+sicuro	ADJ	sicuro
+a	PRE	a
+Parma	NPR	Parma
+!	SENT	!
+</text>
+<text id='w36' author='Sara' date='2016-10-29' time='01:19:12'>
+ciao	INT	ciao
+Javier	NPR	Javier
+,	PON	,
+vado	VER:pres	andare
+adesso	ADV	adesso
+a	PRE	a
+casa	NOM	casa
+!	SENT	!
+gli	DET:def	il
+altri	PRO:indef	altro
+sono	VER:pres	essere
+in	PRE	in
+un	DET:indef	un
+bar	NOM	bar
+un	DET:indef	un
+via	ADV	via
+mascarella	NOM	unknown
+</text>
+<text id='w37' author='Sara' date='2016-10-29' time='01:19:35'>
+fammi	VER:impe	fare
+sapere	VER:infi	sapere
+quando	ADV	quando
+vai	ADJ	vaio
+a	PRE	a
+parma	NOM	parma
+,	PON	,
+mi	PRO:pers	mi
+piacerebbe	VER:cond	piacere
+venire	VER:infi	venire
+con	PRE	con
+voi	NOM	voi
+!	SENT	!
+</text>
+<text id='w38' author='Javier' date='2016-10-29' time='01:30:27'>
+Sara	NPR	Sara
+:	PON	:
+)	PON	)
+</text>
+<text id='w39' author='Javier' date='2016-10-29' time='01:30:37'>
+Alla	NOM	unknown
+fine	ADJ	fine
+Sabrina	NPR	Sabrina
+non	ADV	non
+viene	VER:pres	venire
+!	SENT	!
+</text>
+<text id='w40' author='Javier' date='2016-10-29' time='01:30:47'>
+Perché	NOM	unknown
+va	VER:pres	andare
+a	PRE	a
+firenze	NOM	unknown
+con	PRE	con
+i	DET:def	il
+suei	ADJ	unknown
+</text>
+<text id='w41' author='Javier' date='2016-10-29' time='01:31:01'>
+Posiamo	VER:pres	posare
+andare	VER:infi	andare
+insieme	ADV	insieme
+!	SENT	!
+Ti	PRO:pers	ti
+va	VER:pres	andare
+?	SENT	?
+</text>
+<text id='w42' author='Javier' date='2016-10-29' time='01:31:13'>
+Pasiamo	VER:impe	unknown
+la	DET:def	il
+mattina	NOM	mattina
+lì	ADJ	unknown
+!	SENT	!
+</text>
+<text id='w43' author='Javier' date='2016-10-29' time='01:31:24'>
+Faimi	VER:impe	unknown
+sapere	VER:infi	sapere
+qc	ADJ	unknown
+!	SENT	!
+</text>
+<text id='w44' author='Javier' date='2016-10-29' time='01:31:28'>
+Notte	NOM	notte
+:	PON	:
+)	PON	)
+</text>
+<text id='w45' author='Sara' date='2016-10-29' time='01:44:56'>
+siii	VER:impe	unknown
+volentieri	ADV	volentieri
+:	PON	:
+)	PON	)
+un'	DET:indef	un'
+amica	NOM	amica
+vuole	VER:pres	volere
+venire	VER:infi	venire
+anche	ADV	anche
+</text>
+<text id='w46' author='Sara' date='2016-10-29' time='01:45:06'>
+possiamo	VER:pres	potere
+scriverci	VER:infi	scrivere
+domani	ADV	domani
+?	SENT	?
+notte	NOM	notte
+!	SENT	!
+</text>
+<text id='w47' author='Javier' date='2016-10-29' time='02:33:40'>
+Sii	VER:impe	essere
+,	PON	,
+ci	PRO:refl	ci
+sentiamo	VER:pres	sentire
+!	SENT	!
+</text>
+<text id='w48' author='Javier' date='2016-10-29' time='10:32:14'>
+Buongiorno	NOM	buongiorno
+:	PON	:
+)	PON	)
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='w49' author='Javier' date='2016-10-29' time='10:33:31'>
+Fa	VER:pres	fare
+una	DET:indef	una
+bellissima	ADJ	bello
+giornata	NOM	giornata
+!	SENT	!
+Ti	PRO:refl	ti
+va	VER:pres	andare
+di	PRE	di
+andarci	VER:infi	andare
+verso	PRE	verso
+mezzo	ADJ	mezzo
+giorno	NOM	giorno
+?	SENT	?
+</text>
+<text id='w50' author='Sara' date='2016-10-29' time='10:34:22'>
+buongiorno	NOM	buongiorno
+!	SENT	!
+</text>
+<text id='w51' author='Sara' date='2016-10-29' time='10:34:30'>
+sì	NOM	unknown
+,	PON	,
+perfetto	ADJ	perfetto
+</text>
+<text id='w52' author='Sara' date='2016-10-29' time='10:34:45'>
+devo	VER:pres	dovere
+alzarmi	VER:infi	alzare
+.	SENT	.
+.	SENT	.
+🙈	NOM	unknown
+</text>
+<text id='w53' author='Javier' date='2016-10-29' time='10:35:43'>
+Anche	NOM	anca
+io	PRO:pers	io
+!	SENT	!
+!haha	NOM	unknown
+</text>
+<text id='w54' author='Javier' date='2016-10-29' time='10:35:51'>
+Sono	NOM	sono
+stessa	ADJ	stesso
+al	PRE:det	al
+letto	NOM	letto
+ancora	ADV	ancora
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='w55' author='Javier' date='2016-10-29' time='10:36:06'>
+Adesso	ADV	adesso
+mi	PRO:pers	mi
+riattivo	VER:pres	riattivare
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='w56' author='Javier' date='2016-10-29' time='11:19:14'>
+Sara	NPR	Sara
+!	PON	!
+!	SENT	!
+</text>
+<text id='w57' author='Javier' date='2016-10-29' time='11:20:07'>
+Ci	PRO:refl	ci
+vediamo	VER:cpre	vedere
+alle	PRE:det	al
+12'10	NOM	unknown
+per	PRE	per
+prendere	VER:infi	prendere
+alle	PRE:det	al
+12'20	NOM	unknown
+il	DET:def	il
+treno	NOM	treno
+?	SENT	?
+</text>
+<text id='w58' author='Sara' date='2016-10-29' time='11:21:16'>
+non	ADV	non
+so	VER:pres	sapere
+se	CON	se
+lo	PRO:pers	lo
+riesco	VER:pres	riuscire
+!	SENT	!
+c'	PRO:demo	c'
+è	NOM	unknown
+qualcosa	PRO:indef	qualcosa
+circa	PRE	circa
+20minuti	NOM	unknown
+più	ADJ	unknown
+tardi	ADJ	tardo
+?	PON	?
+?	SENT	?
+</text>
+<text id='w59' author='Javier' date='2016-10-29' time='11:23:40'>
+Haha	NOM	unknown
+</text>
+<text id='w60' author='Javier' date='2016-10-29' time='11:23:49'>
+Loguardo	NOM	unknown
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='w61' author='Javier' date='2016-10-29' time='11:24:11'>
+Okkey	NOM	unknown
+</text>
+<text id='w62' author='Javier' date='2016-10-29' time='11:24:37'>
+Quello	NOM	unknown
+che	PRO:rela	che
+posiamo	VER:cpre	posare
+prendere	VER:infi	prendere
+parte	NOM	parte
+alle	PRE:det	al
+12'28	NOM	unknown
+</text>
+<text id='w63' author='Javier' date='2016-10-29' time='11:25:50'>
+Cioè	NOM	unknown
+...	PON	...
+alle	PRE:det	al
+12'15	NOM	unknown
+dovvrevemo	VER:futu	unknown
+prendere	VER:infi	prendere
+gli	DET:def	il
+bigletti	NOM	unknown
+!	SENT	!
+</text>
+<text id='w64' author='Javier' date='2016-10-29' time='11:26:00'>
+Perché	ADJ	unknown
+laltro	NOM	unknown
+parte	NOM	parte
+alle	PRE:det	al
+13'28	NOM	unknown
+</text>
+<text id='w65' author='Javier' date='2016-10-29' time='11:26:24'>
+è	NOM	unknown
+tarde,no	NOM	unknown
+?	SENT	?
+</text>
+<text id='w66' author='Javier' date='2016-10-29' time='11:26:35'>
+Come	PRO:inter	come
+lo	PRO:pers	lo
+vedi	VER:pres	vedere
+?	SENT	?
+</text>
+<text id='w67' author='Sara' date='2016-10-29' time='11:27:03'>
+ok	NOM	ok
+ci	PRO:refl	ci
+vediamo	VER:cpre	vedere
+alle	PRE:det	al
+12.15	NUM	@card@
+!	SENT	!
+</text>
+<text id='w68' author='Javier' date='2016-10-29' time='11:27:25'>
+Great	NOM	unknown
+!	SENT	!
+</text>
+<text id='w69' author='Javier' date='2016-10-29' time='11:27:30'>
+A	PRE	a
+dopo	ADV	dopo
+!	SENT	!
+</text>
+<text id='w70' author='Javier' date='2016-10-29' time='12:13:43'>
+Sara	NPR	Sara
+!	SENT	!
+Sono	VER:pres	essere
+quà	ADJ	unknown
+!	SENT	!
+</text>
+<text id='w71' author='Javier' date='2016-10-29' time='12:14:50'>
+Alle	PRE:det	al
+machine	NOM	unknown
+per	PRE	per
+prendere	VER:infi	prendere
+i	DET:def	il
+bigletti	NOM	unknown
+,	PON	,
+entrando	VER:geru	entrare
+a	PRE	a
+mano	NOM	mano
+destra	ADJ	destro
+</text>
+<text id='w72' author='Javier' date='2016-10-29' time='12:15:11'>
+Sto	NOM	unknown
+nella	PRE:det	nel
+fila	NOM	filo
+</text>
+<text id='w73' author='Sara' date='2016-10-29' time='12:15:48'>
+oki	ADJ	unknown
+</text>
+<text id='w74' author='Sara' date='2016-10-29' time='12:16:09'>
+puoi	VER:pres	potere
+comprare	VER:infi	comprare
+3	NUM	@card@
+biglietti	NOM	biglietto
+?	SENT	?
+ci	PRO:refl	ci
+sarò	VER:impe	unknown
+fra	PRE	fra
+5	NUM	@card@
+minuti	NOM	minuto
+</text>
+<text id='w75' author='Sara' date='2016-10-29' time='12:16:35'>
+un'	DET:indef	un'
+altra	ADJ	altro
+ragazza	NOM	ragazza
+viene	VER:pres	venire
+anche	ADV	anche
+</text>
+<text id='w76' author='Javier' date='2016-10-29' time='12:16:42'>
+Vabbe	VER:cond	unknown
+!	SENT	!
+</text>
+<text id='w77' author='Sara' date='2016-10-29' time='12:16:55'>
+perfetto	ADJ	perfetto
+,	PON	,
+ti	PRO:pers	ti
+do	VER:pres	dare
+subito	ADV	subito
+i	DET:def	il
+soldi	NOM	soldo
+</text>
+<text id='w78' author='Javier' date='2016-10-29' time='12:17:11'>
+Tranquila	NOM	unknown
+!	SENT	!
+</text>
+<text id='w79' author='Javier' date='2016-10-29' time='12:23:13'>
+Sara	NPR	Sara
+</text>
+<text id='w80' author='Javier' date='2016-10-29' time='12:23:17'>
+Daaaaidaiii	NOM	unknown
+</text>
+<text id='w81' author='Sara' date='2016-10-29' time='12:23:27'>
+ci	PRO:refl	ci
+incotriamo	VER:impe	unknown
+sul	PRE:det	sul
+binario	NOM	binario
+?	SENT	?
+</text>
+<text id='w82' author='Javier' date='2016-10-29' time='12:23:36'>
+8	NUM	@card@
+</text>
+<text id='w83' author='Javier' date='2016-10-29' time='12:23:52'>
+Dove	NOM	dove
+siette	ADJ	unknown
+?	PON	?
+?	SENT	?
+?	PON	?
+?	SENT	?
+</text>
+<text id='w84' author='Sara' date='2016-10-29' time='12:24:02'>
+1	ORD	@card@
+min	VER:cpre	unknown
+!	SENT	!
+</text>
+<text id='w85' author='Javier' date='2016-10-29' time='12:24:01'>
+BinRio	NOM	unknown
+8	NUM	@card@
+</text>
+<text id='w86' author='Javier' date='2016-10-29' time='12:25:15'>
+<‎audio omesso>
+</text>
+<text id='w87' author='Javier' date='2016-11-04' time='00:06:39'>
+Sara	NPR	Sara
+!	SENT	!
+!come	NOM	unknown
+va	VER:pres	andare
+?	PON	?
+?	SENT	?
+</text>
+<text id='w88' author='Javier' date='2016-11-04' time='00:06:47'>
+Fra	PRE	fra
+poco	PRO:indef	poco
+parto	NOM	parto
+a	PRE	a
+Roma	NPR	Roma
+!	SENT	!
+</text>
+<text id='w89' author='Javier' date='2016-11-04' time='00:07:03'>
+Espero	NOM	espero
+vederci	VER:infi	vedere
+questa	PRO:demo	questo
+settimana	NOM	settimana
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='w90' author='Javier' date='2016-11-04' time='00:07:14'>
+🙃	NOM	unknown
+</text>
+<text id='w91' author='Javier' date='2016-11-04' time='00:07:24'>
+Un	NOM	unknown
+baccione	NOM	unknown
+!	SENT	!
+</text>
+<text id='w92' author='Sara' date='2016-11-04' time='09:20:02'>
+questo	PRO:demo	questo
+weekend	NOM	weekend
+?	SENT	?
+?	PON	?
+uiii	NOM	unknown
+buon	ADJ	buon
+divertimento	NOM	divertimento
+!	PON	!
+!	SENT	!
+</text>
+<text id='w93' author='Sara' date='2016-11-04' time='09:20:17'>
+sì	NOM	unknown
+ci	PRO:refl	ci
+vediamo	VER:cpre	vedere
+presto	ADV	presto
+!	SENT	!
+</text>
+</corpus>

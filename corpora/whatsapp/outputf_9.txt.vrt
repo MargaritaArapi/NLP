@@ -1,0 +1,689 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus>
+<text id='n1' author='Giulia' date='2017-01-17' time='12:29:55'>
+Ciao	INT	ciao
+belle	ADJ	bello
+!	SENT	!
+Io	PRO:pers	io
+in	PRE	in
+teoria	NOM	teoria
+dovrei	VER:cond	dovere
+vedermi	VER:infi	vedere
+con	PRE	con
+un	DET:indef	un
+amico	NOM	amico
+stasera	ADV	stasera
+Che	NPR	Che
+ne	ADV	ne
+dite	VER:pres	dire
+di	PRE	di
+domani	NOM	domani
+?	SENT	?
+possiamo	VER:pres	potere
+fare	VER:infi	fare
+anche	ADV	anche
+a	PRE	a
+casa	NOM	casa
+mia	PRO:poss	mio
+se	CON	se
+volete	VER:pres	volere
+</text>
+<text id='n2' author='Sara' date='2017-01-17' time='12:36:25'>
+domani	ADV	domani
+è	NOM	unknown
+perfetto	ADJ	perfetto
+!	SENT	!
+</text>
+<text id='n3' author='Luisa' date='2017-01-17' time='14:44:21'>
+Ok	NOM	ok
+vaben😊	ADJ	unknown
+</text>
+<text id='n4' author='Giulia' date='2017-01-18' time='12:09:52'>
+Allora	NOM	unknown
+andiamo	VER:pres	andare
+a	PRE	a
+mangiare	VER:infi	mangiare
+la	DET:def	il
+pizza	NOM	pizza
+stasera	ADV	stasera
+?	SENT	?
+</text>
+<text id='n5' author='Luisa' date='2017-01-18' time='12:10:34'>
+Io	PRO:pers	io
+ci	PRO:refl	ci
+sto	VER:pres	stare
+se	CON	se
+andiamo	VER:pres	andare
+sul	PRE:det	sul
+prestino	VER:impe	prestare
+</text>
+<text id='n6' author='Luisa' date='2017-01-18' time='12:10:41'>
+Verso	NOM	verso
+le	DET:def	il
+sette	ADJ	sette
+?	SENT	?
+</text>
+<text id='n7' author='Giulia' date='2017-01-18' time='12:10:57'>
+Per	PRE	per
+me	PRO:pers	me
+va	VER:pres	andare
+bene	ADV	bene
+</text>
+<text id='n8' author='Luisa' date='2017-01-18' time='12:11:01'>
+Domani	NOM	domani
+mi	PRO:pers	mi
+devo	VER:pres	dovere
+svegliare	VER:infi	svegliare
+presto	ADJ	presto
+</text>
+<text id='n9' author='Luisa' date='2017-01-18' time='12:11:03'>
+😂	NOM	unknown
+</text>
+<text id='n10' author='Giulia' date='2017-01-18' time='12:11:13'>
+Cioè	NOM	unknown
+alle	PRE:det	al
+10	NUM	@card@
+?	SENT	?
+😂😂	NOM	unknown
+</text>
+<text id='n11' author='Luisa' date='2017-01-18' time='12:11:39'>
+No	NOM	no
+alle	PRE:det	al
+otto	ADJ	otto
+</text>
+<text id='n12' author='Luisa' date='2017-01-18' time='12:11:48'>
+Strunz	NOM	unknown
+</text>
+<text id='n13' author='Sara' date='2017-01-18' time='12:12:00'>
+ci	PRO:refl	ci
+sto	VER:pres	stare
+!	SENT	!
+però	NOM	unknown
+alle	PRE:det	al
+19.30/45	NUM	@card@
+</text>
+<text id='n14' author='Sara' date='2017-01-18' time='12:12:24'>
+dove	PRO:rela	dove
+è	NOM	unknown
+?	SENT	?
+</text>
+<text id='n15' author='Luisa' date='2017-01-18' time='12:51:01'>
+Ok	NOM	ok
+allora	ADV	allora
+alle	PRE:det	al
+sette	NOM	setta
+e	CON	e
+mezza	NOM	mezza
+und	ADJ	unknown
+n	ABR	n
+Pizzria	NOM	unknown
+?	SENT	?
+</text>
+<text id='n16' author='Luisa' date='2017-01-18' time='12:51:10'>
+😂	NOM	unknown
+</text>
+<text id='n17' author='Luisa' date='2017-01-18' time='12:51:19'>
+In	NOM	unknown
+pizzeria	NOM	pizzeria
+?	SENT	?
+</text>
+<text id='n18' author='Giulia' date='2017-01-18' time='12:51:24'>
+Ja	NOM	unknown
+genau	NOM	unknown
+</text>
+<text id='n19' author='Giulia' date='2017-01-18' time='12:51:41'>
+Cosa	PRO:inter	cosa
+ne	ADV	ne
+pensate	VER:pper	pensare
+della	PRE:det	del
+pizzeria	NOM	pizzeria
+monella	NOM	unknown
+in	PRE	in
+neukolln	NOM	unknown
+?	SENT	?
+</text>
+<text id='n20' author='Luisa' date='2017-01-18' time='12:52:00'>
+Per	PRE	per
+me	PRO:pers	me
+va	VER:pres	andare
+bene	ADV	bene
+</text>
+<text id='n21' author='Luisa' date='2017-01-18' time='12:52:26'>
+Ho	NOM	unknown
+sentito	ADJ	sentito
+che	PRO:rela	che
+è	NOM	unknown
+molto	ADV	molto
+buona	ADJ	buono
+</text>
+<text id='n22' author='Giulia' date='2017-01-18' time='12:52:40'>
+È	NOM	unknown
+buonissima	ADJ	buono
+</text>
+<text id='n23' author='Luisa' date='2017-01-18' time='12:52:57'>
+Allora	NOM	unknown
+famogliela	ADJ	unknown
+</text>
+<text id='n24' author='Luisa' date='2017-01-18' time='12:53:01'>
+😊	NOM	unknown
+</text>
+<text id='n25' author='Luisa' date='2017-01-18' time='12:54:24'>
+Sara	NPR	Sara
+ci	PRO:refl	ci
+stai	VER:pres	stare
+vero	ADJ	vero
+?	SENT	?
+</text>
+<text id='n26' author='Sara' date='2017-01-18' time='13:03:07'>
+yes	NOM	unknown
+!	SENT	!
+ich	VER:impe	unknown
+beeile	VER:impe	unknown
+mich	NOM	unknown
+.	SENT	.
+hab	NOM	unknown
+einen	NOM	unknown
+tisch	ADJ	unknown
+verkauft	ADJ	unknown
+,	PON	,
+und	ADJ	unknown
+muss	NOM	unknown
+zu	ADJ	unknown
+hause	NOM	unknown
+warten	NOM	unknown
+bis	ADJ	bis
+er	VER:geru	unknown
+abgeholt	ADJ	unknown
+wird	NOM	unknown
+</text>
+<text id='n27' author='Sara' date='2017-01-18' time='13:07:18'>
+sollen	VER:cond	unknown
+wir	VER:infi	unknown
+reservieren	NOM	unknown
+?	SENT	?
+</text>
+<text id='n28' author='Luisa' date='2017-01-18' time='13:46:06'>
+Vielleicht	NOM	unknown
+besser	VER:cimp	unknown
+...	PON	...
+</text>
+<text id='n29' author='Giulia' date='2017-01-18' time='15:39:28'>
+Ich	NOM	unknown
+kann	ADJ	unknown
+anrufen	ADJ	unknown
+</text>
+<text id='n30' author='Luisa' date='2017-01-18' time='16:25:39'>
+👍	NOM	unknown
+</text>
+<text id='n31' author='Giulia' date='2017-01-18' time='17:34:00'>
+Prenotato	NOM	unknown
+</text>
+<text id='n32' author='Giulia' date='2017-01-18' time='19:25:28'>
+Ho	NOM	unknown
+prenotato	VER:pper	prenotare
+per	PRE	per
+sette	ADJ	sette
+e	CON	e
+mezza	ADJ	mezzo
+</text>
+<text id='n33' author='Giulia' date='2017-01-18' time='19:27:03'>
+Weichselstrasse	ABR	unknown
+17	NUM	@card@
+</text>
+<text id='n34' author='Sara' date='2017-01-18' time='19:37:47'>
+ich	ADJ	unknown
+verspäte	NOM	unknown
+mich	NOM	unknown
+!	PON	!
+!	SENT	!
+Ihr	VER:impe	unknown
+könnt	NOM	unknown
+schon	NOM	unknown
+bestellen	NOM	unknown
+und	ADJ	unknown
+essen	NOM	unknown
+,	PON	,
+ich	ADJ	unknown
+trinke	NOM	unknown
+dann	ADJ	unknown
+ein	VER:cpre	unknown
+bier	NOM	unknown
+.	SENT	.
+bin	VER:impe	unknown
+wohl	NOM	unknown
+wahrscheinlich	NOM	unknown
+erst	ADJ	unknown
+um	VER:geru	unknown
+20.30	NUM	@card@
+da	PRE	da
+!	SENT	!
+</text>
+<text id='n35' author='Sara' date='2017-01-18' time='19:45:40'>
+sorry	NOM	unknown
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='n36' author='Giulia' date='2017-01-18' time='19:54:43'>
+Macht	NOM	unknown
+dir	VER:infi	dire
+keine	NOM	unknown
+sorge	VER:pres	sorgere
+Wenn	NOM	unknown
+du	ADJ	unknown
+kommst	NOM	unknown
+kannst	ADJ	unknown
+auch	NOM	unknown
+eine	NOM	unknown
+Pizza	NOM	pizza
+Essen	NOM	unknown
+😂😂	NOM	unknown
+</text>
+<text id='n37' author='Giulia' date='2017-01-18' time='19:59:18'>
+Hey	NOM	unknown
+Sara	NPR	Sara
+Wir	ABR	unknown
+haben	NOM	unknown
+gedacht	ADJ	unknown
+dass	NOM	unknown
+wir	VER:infi	unknown
+konnte	NOM	unknown
+eine	NOM	unknown
+Vorspeise	NOM	unknown
+bestellen	NOM	unknown
+und	ADJ	unknown
+dann	NOM	unknown
+für	VER:cond	unknown
+die	VER:infi	unknown
+Pizza	NOM	pizza
+auf	ADJ	unknown
+dich	ADJ	unknown
+warten	NOM	unknown
+Ok	NOM	ok
+?	SENT	?
+</text>
+<text id='n38' author='Sara' date='2017-01-23' time='19:16:02'>
+wann	NOM	unknown
+habt	NOM	unknown
+ihr	VER:geru	unknown
+zeit	NOM	unknown
+nächste	VER:geru	unknown
+woche	NOM	unknown
+?	SENT	?
+?	PON	?
+vor	NOM	unknown
+allem	ADJ	unknown
+Luciaaaa	ADJ	unknown
+?	SENT	?
+?	PON	?
+ich	NOM	unknown
+kann	ADJ	unknown
+jeden	NOM	unknown
+tag	ADJ	unknown
+außer	VER:geru	unknown
+montag	ADJ	unknown
+!	SENT	!
+was	ADJ	unknown
+essen	NOM	unknown
+oder	VER:infi	unknown
+trinken	NOM	unknown
+zusammen	ADJ	unknown
+wäre	NOM	unknown
+schön	NOM	unknown
+!	SENT	!
+</text>
+<text id='n39' author='Luisa' date='2017-01-23' time='20:31:59'>
+Se	PRO:refl	se
+volete	VER:pres	volere
+potete	VER:pres	potere
+venire	VER:infi	venire
+a	PRE	a
+cena	NOM	cena
+a	PRE	a
+casa	NOM	casa
+mia	PRO:poss	mio
+!	PON	!
+</text>
+<text id='n40' author='Luisa' date='2017-01-23' time='20:45:19'>
+Perfetto	ADJ	perfetto
+!	PON	!
+!	SENT	!
+</text>
+<text id='n41' author='Luisa' date='2017-01-23' time='20:45:27'>
+E	CON	e
+voi	PRO:pers	voi
+rega	VER:impe	unknown
+?	SENT	?
+</text>
+<text id='n42' author='Luisa' date='2017-01-23' time='20:45:35'>
+Giulia	NPR	Giulia
+e	CON	e
+Sara	NPR	Sara
+?	SENT	?
+</text>
+<text id='n43' author='Sara' date='2017-01-23' time='21:31:09'>
+ci	PRO:refl	ci
+sto	VER:pres	stare
+!	SENT	!
+</text>
+<text id='n44' author='Luisa' date='2017-01-23' time='22:41:45'>
+Ok	NOM	ok
+cool	ADJ	unknown
+</text>
+<text id='n45' author='Luisa' date='2017-01-23' time='22:57:23'>
+Giulia	NPR	Giulia
+?	SENT	?
+</text>
+<text id='n46' author='Luisa' date='2017-01-23' time='22:57:39'>
+Alle	PRE:det	al
+sette	ADJ	sette
+e	CON	e
+mezza	ADJ	mezzo
+va	VER:pres	andare
+bene	ADV	bene
+?	SENT	?
+</text>
+<text id='n47' author='Giulia' date='2017-01-24' time='10:50:28'>
+Scusate	VER:pper	scusare
+ma	CON	ma
+ero	VER:impf	essere
+da	PRE	da
+sven	NOM	unknown
+e	CON	e
+non	ADV	non
+ha	VER:pres	avere
+internet😁😁	ADJ	unknown
+Io	NOM	unknown
+stasera	ADV	stasera
+sono	VER:pres	essere
+a	PRE	a
+un	DET:indef	un
+concerto	NOM	concerto
+Domani	NOM	domani
+?	SENT	?
+</text>
+<text id='n48' author='Giulia' date='2017-01-24' time='11:27:29'>
+Comunque	ADV	comunque
+non	ADV	non
+preoccupatevi,Ich	ADJ	unknown
+komme	NOM	unknown
+nächstes	ADJ	unknown
+mal	NOM	male
+</text>
+<text id='n49' author='Sara' date='2017-01-24' time='11:28:27'>
+ich	ADJ	unknown
+kann	ADJ	unknown
+auch	NOM	unknown
+morgen	ADJ	unknown
+!	SENT	!
+wie	NOM	unknown
+es	ADJ	unknown
+euch	ADJ	unknown
+passt	NOM	unknown
+!	SENT	!
+</text>
+<text id='n50' author='Luisa' date='2017-01-24' time='12:08:41'>
+Also	VER:impe	unknown
+morgen	ADJ	unknown
+hab	NOM	unknown
+ich	ADJ	unknown
+keine	NOM	unknown
+sturmfreie	NOM	unknown
+bude	ADJ	unknown
+aber	VER:cond	unknown
+wir	VER:infi	unknown
+können	NOM	unknown
+uns	ADJ	unknown
+auch	NOM	unknown
+morgen	ADJ	unknown
+treffen	NOM	unknown
+...	PON	...
+</text>
+<text id='n51' author='Luisa' date='2017-01-24' time='12:08:42'>
+Lucia	NPR	Lucia
+?	SENT	?
+</text>
+<text id='n52' author='Luisa' date='2017-01-24' time='12:08:42'>
+Hast	NOM	unknown
+du	ADJ	unknown
+auch	NOM	unknown
+morgen	NOM	unknown
+zeit	ADJ	unknown
+?	SENT	?
+</text>
+<text id='n53' author='Luisa' date='2017-01-24' time='12:29:27'>
+Ok	NOM	ok
+dann	ADJ	unknown
+verchieben	ADJ	unknown
+wir	NOM	unknown
+es	ADJ	unknown
+auf	ADJ	unknown
+morgen	NOM	unknown
+</text>
+<text id='n54' author='Luisa' date='2017-01-24' time='12:29:33'>
+☺	NOM	unknown
+</text>
+<text id='n55' author='Giulia' date='2017-01-24' time='14:51:48'>
+Ok	NOM	ok
+per	PRE	per
+me	PRO:pers	me
+Va	NOM	unknown
+bene	ADV	bene
+</text>
+<text id='n56' author='Giulia' date='2017-01-24' time='14:52:16'>
+Io	NOM	unknown
+però	ADJ	unknown
+non	ADV	non
+posso	VER:pres	potere
+fare	VER:infi	fare
+troppo	ADV	troppo
+tardi	ADJ	tardo
+perché	NOM	unknown
+giovedì	ADJ	unknown
+ho	VER:pres	avere
+la	DET:def	il
+probeklausur	NOM	unknown
+di	PRE	di
+francese	ADJ	francese
+</text>
+<text id='n57' author='Giulia' date='2017-01-24' time='16:01:45'>
+Per	NOM	unknown
+me	PRO:pers	me
+va	VER:pres	andare
+anche	ADV	anche
+bene	ADV	bene
+Tipo	NOM	tipo
+un	DET:indef	un
+aperitivo	NOM	aperitivo
+?	SENT	?
+</text>
+<text id='n58' author='Giulia' date='2017-01-25' time='12:03:06'>
+Allora	ADV	allora
+was	ADJ	unknown
+machen	NOM	unknown
+wir	NOM	unknown
+?	SENT	?
+P.s	NOM	unknown
+Sara	NPR	Sara
+,hab	NOM	unknown
+gestern	ADJ	unknown
+Fabi	NPR	Fabi
+gesehen	NOM	unknown
+bei	ADJ	bello
+der	VER:geru	unknown
+Konzert	NOM	unknown
+</text>
+<text id='n59' author='Luisa' date='2017-01-25' time='13:34:18'>
+Care	VER:infi	unknown
+ragazze	NOM	ragazza
+</text>
+<text id='n60' author='Luisa' date='2017-01-25' time='13:34:53'>
+☺	NOM	unknown
+</text>
+<text id='n61' author='Luisa' date='2017-01-25' time='13:35:31'>
+Credo	NOM	credo
+che	PRO:rela	che
+pure	ADV	pure
+io	PRO:pers	io
+vi	PRO:refl	vi
+devo	VER:pres	dovere
+dare	VER:infi	dare
+buca	NOM	buca
+</text>
+<text id='n62' author='Luisa' date='2017-01-25' time='13:35:36'>
+...	PON	...
+</text>
+<text id='n63' author='Luisa' date='2017-01-25' time='13:36:29'>
+Fino	NOM	unknown
+a	PRE	a
+domani	ADV	domani
+devo	VER:pres	dovere
+Aver	VER:infi	avere
+finito	VER:pper	finire
+un	DET:indef	un
+testo	NOM	testo
+che	PRO:rela	che
+pensavo	VER:impf	pensare
+fosse	VER:cimp	essere
+per	PRE	per
+la	DET:def	il
+settimana	NOM	settimana
+prox	ADJ	unknown
+</text>
+<text id='n64' author='Luisa' date='2017-01-25' time='13:36:33'>
+😂	NOM	unknown
+</text>
+<text id='n65' author='Luisa' date='2017-01-25' time='13:36:59'>
+Didattica	NOM	didattica
+inglese	ADJ	inglese
+che	PRO:rela	che
+palle	NOM	palla
+</text>
+<text id='n66' author='Giulia' date='2017-01-25' time='13:49:55'>
+Ok	NOM	ok
+Allora	NOM	unknown
+alla	PRE:det	al
+prossima	ADJ	prossimo
+volta	NOM	volta
+</text>
+<text id='n67' author='Giulia' date='2017-01-25' time='13:50:07'>
+Ciao	NOM	unknown
+belle😘😘😘	NOM	unknown
+</text>
+<text id='n68' author='Luisa' date='2017-01-25' time='13:54:36'>
+Ok	NOM	ok
+scusate😘😘😘	ADJ	unknown
+</text>
+<text id='n69' author='Luisa' date='2017-02-13' time='16:33:28'>
+Ueue	NOM	unknown
+ragazze	NOM	ragazza
+</text>
+<text id='n70' author='Luisa' date='2017-02-13' time='16:33:55'>
+La	NOM	unknown
+fine	ADJ	fine
+del	PRE:det	del
+semestre	NOM	semestre
+è	NOM	unknown
+ormai	ADV	ormai
+imminente	ADJ	imminente
+</text>
+<text id='n71' author='Luisa' date='2017-02-13' time='16:34:09'>
+Quindi	NOM	quindi
+la	DET:def	il
+domanda	NOM	domanda
+è	NOM	unknown
+</text>
+<text id='n72' author='Luisa' date='2017-02-13' time='16:34:46'>
+Quando	VER:geru	unknown
+facciamo	VER:pres	fare
+una	DET:indef	una
+bella	ADJ	bello
+cena	NOM	cena
+e	CON	e
+brindiamo	VER:cpre	brindare
+alla	PRE:det	al
+fine	NOM	fine
+del	PRE:det	del
+semestre	NOM	semestre
+?	SENT	?
+</text>
+<text id='n73' author='Giulia' date='2017-02-13' time='18:50:21'>
+Ciao	INT	ciao
+belle	ADJ	bello
+!	PON	!
+!	SENT	!
+Per	PRE	per
+me	PRO:pers	me
+il	DET:def	il
+semestre	NOM	semestre
+finisce	VER:pres	finire
+ufficialmente	ADV	ufficialmente
+sabato	NOM	sabato
+che	PRO:rela	che
+ho	VER:pres	avere
+l	VER:geru	unknown
+esame	NOM	esame
+di	PRE	di
+francese.	NOM	unknown
+.	SENT	.
+Per	PRE	per
+me	PRO:pers	me
+possiamo	VER:pres	potere
+volentieri	ADV	volentieri
+fare	VER:infi	fare
+un	DET:indef	un
+giorno	NOM	giorno
+qualsiasi	ADJ	qualsiasi
+di	PRE	di
+settimana	NOM	settimana
+prossima	ADJ	prossimo
+</text>
+<text id='n74' author='Luisa' date='2017-02-13' time='19:03:01'>
+Ok	NOM	ok
+</text>
+<text id='n75' author='Sara' date='2017-02-13' time='22:00:19'>
+nächste	VER:geru	unknown
+woche	NOM	unknown
+mercoledì	NOM	unknown
+?	SENT	?
+oder	VER:infi	unknown
+dienstag	NOM	unknown
+?	SENT	?
+</text>
+<text id='n76' author='Giulia' date='2017-02-14' time='11:37:35'>
+Per	PRE	per
+me	PRO:pers	me
+è	NOM	unknown
+uguale	ADJ	uguale
+</text>
+<text id='n77' author='Luisa' date='2017-02-14' time='11:38:47'>
+Credo	NOM	credo
+per	PRE	per
+me	PRO:pers	me
+meglio	ADV	meglio
+martedì	NOM	unknown
+</text>
+<text id='n78' author='Giulia' date='2017-02-15' time='09:55:46'>
+Buon	VER:pres	unknown
+viaggio	NOM	viaggio
+cara😘😘	ADJ	unknown
+</text>
+<text id='n79' author='Sara' date='2017-02-15' time='10:02:50'>
+buon	ADJ	buon
+viaggio	NOM	viaggio
+!	PON	!
+!	SENT	!
+ich	ADJ	unknown
+hoffe	NOM	unknown
+wir	VER:infi	unknown
+sehen	ADJ	unknown
+uns	NOM	unknown
+bald	ADJ	unknown
+!	SENT	!
+☀️	NOM	unknown
+</text>
+<text id='n80' author='Luisa' date='2017-02-15' time='11:16:39'>
+Buon	VER:pres	unknown
+viaggioooo	ADJ	unknown
+</text>
+</corpus>

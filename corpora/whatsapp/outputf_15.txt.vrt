@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus>
+<text id='x1' author='Jacques' date='2016-11-06' time='12:28:26'>
+ciao	INT	ciao
+!	SENT	!
+qui	ADV	qui
+è	NOM	unknown
+Jacques	NPR	Jacques
+!	SENT	!
+</text>
+<text id='x2' author='Jacques' date='2016-11-07' time='13:57:55'>
+è	NOM	unknown
+stato	VER:pper	essere|stare
+un	DET:indef	un
+bel	ADJ	bel
+weekend	NOM	weekend
+!	SENT	!
+sono	VER:pres	essere
+appena	ADV	appena
+andate	VER:pper	andare
+!	SENT	!
+adesso	ADV	adesso
+non	ADV	non
+mi	PRO:pers	mi
+sento	VER:pres	sentire
+bene	ADV	bene
+però	ADJ	unknown
+sto	VER:pres	stare
+bevendo	VER:geru	bere
+una	DET:indef	una
+tisane	NOM	tisana
+,	PON	,
+e	CON	e
+tu	PRO:pers	tu
+,	PON	,
+come	CON	come
+stai	VER:pres	stare
+?	SENT	?
+</text>
+<text id='x3' author='Jacques' date='2016-11-23' time='17:54:35'>
+ciao	INT	ciao
+peter	NOM	unknown
+!	SENT	!
+sai	NOM	saio
+come	CON	come
+funziona	VER:pres	funzionare
+l'	DET:def	il
+esame	NOM	esame
+domani	ADV	domani
+,	PON	,
+se	CON	se
+c'	PRO:demo	c'
+è	NOM	unknown
+una	DET:indef	una
+lista	NOM	lista
+o	CON	o
+qualcosa	PRO:indef	qualcosa
+di	PRE	di
+simile	NOM	simile
+con	PRE	con
+gli	DET:def	il
+orari	NOM	orario
+?	SENT	?
+</text>
+<text id='x4' author='Jacques' date='2016-11-23' time='18:16:49'>
+si	PRO:refl	si
+anche	ADV	anche
+io	PRO:pers	io
+.	SENT	.
+forse	ADV	forse
+ci	PRO:refl	ci
+vado	VER:pres	andare
+domani	ADV	domani
+alle	PRE:det	al
+10	NUM	@card@
+,	PON	,
+per	PRE	per
+vedere	VER:infi	vedere
+se	CON	se
+c'	PRO:demo	c'
+è	NOM	unknown
+informazione	NOM	informazione
+</text>
+<text id='x5' author='Jacques' date='2016-11-23' time='18:18:05'>
+neanche	ADV	neanche
+io	PRO:pers	io
+!	SENT	!
+ho	VER:pres	avere
+letto	VER:pper	leggere
+i	DET:def	il
+libri	NOM	libro
+e	CON	e
+ho	VER:pres	avere
+capito	VER:pper	capire
+il	DET:def	il
+contenuto	NOM	contenuto
+del	PRE:det	del
+corso	NOM	corso
+ma	CON	ma
+non	ADV	non
+posso	VER:pres	potere
+formulare	VER:infi	formulare
+risposte	VER:pper	rispondere
+bene	ADV	bene
+italiane	ADJ	italiano
+sotto	PRE	sotto
+la	DET:def	il
+pressione	NOM	pressione
+si	PRO:refl	si
+un	DET:indef	un
+esame	NOM	esame
+orale	ADJ	orale
+!	SENT	!
+</text>
+<text id='x6' author='Jacques' date='2016-11-23' time='18:18:19'>
+ma	CON	ma
+comunque	ADV	comunque
+ce	ADV	ce
+lo	PRO:pers	lo
+facciamo	VER:pres	fare
+!	SENT	!
+e	CON	e
+ci	PRO:refl	ci
+sono	VER:pres	essere
+tanti	ADJ	tanto
+erasmus	NOM	unknown
+</text>
+<text id='x7' author='Jacques' date='2016-11-23' time='18:22:30'>
+ho	VER:pres	avere
+dimenticato	VER:pper	dimenticare
+e	CON	e
+l'	DET:def	il
+ho	VER:pres	avere
+fatto	VER:pper	fare
+il	DET:def	il
+giorno	NOM	giorno
+dopo	ADV	dopo
+.	SENT	.
+sono	VER:pres	essere
+numero	NOM	numero
+31	NUM	@card@
+,	PON	,
+credo	VER:pres	credere
+</text>
+<text id='x8' author='Jacques' date='2016-11-23' time='18:23:57'>
+ce	ADV	ce
+lo	PRO:pers	lo
+facciamo	VER:pres	fare
+!	PON	!
+!	SENT	!
+la	DET:def	il
+prima	ADJ	primo
+domanda	NOM	domanda
+è	NOM	unknown
+probabilmente	ADV	probabilmente
+sul	PRE:det	sul
+corso	NOM	corso
+in	PRE	in
+generale	NOM	generale
+,	PON	,
+la	DET:def	il
+cosa	NOM	cosa
+che	PRO:rela	che
+ci	PRO:demo	ci
+è	NOM	unknown
+piaciuta	VER:pper	piacere
+di	PRE	di
+più	ADJ	unknown
+e	CON	e
+poi	ADV	poi
+le	DET:def	il
+altre	ADJ	altro
+domande	NOM	domanda
+svolgono	VER:pres	svolgere
+</text>
+<text id='x9' author='Jacques' date='2016-11-23' time='18:26:33'>
+l'	DET:def	il
+ho	VER:pres	avere
+visto	VER:pper	vedere
+su	PRE	su
+almaesami	VER:impe	unknown
+</text>
+<text id='x10' author='Jacques' date='2016-11-23' time='18:55:28'>
+12	NUM	@card@
+novembre	NOM	novembre
+?	SENT	?
+il	DET:def	il
+giorno	NOM	giorno
+dopo	ADV	dopo
+</text>
+<text id='x11' author='Jacques' date='2016-11-23' time='18:55:33'>
+o	CON	o
+forse	ADV	forse
+la	DET:def	il
+stessa	ADJ	stesso
+sera	NOM	sera
+</text>
+<text id='x12' author='Jacques' date='2016-11-23' time='18:57:14'>
+clicca	VER:pres	cliccare
+su	PRE	su
+'	PON	'
+stampa	NOM	stampa
+'	PON	'
+accanto	ADV	accanto
+alla	PRE:det	al
+prenotazione	NOM	prenotazione
+</text>
+</corpus>

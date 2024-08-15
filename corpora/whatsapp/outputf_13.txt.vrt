@@ -1,0 +1,6196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus>
+<text id='v1' author='Marta' date='2016-02-08' time='21:45:26'>
+Daniele	NPR	Daniele
+!	SENT	!
+!	PON	!
+!	SENT	!
+Buon	ADJ	buon
+viaggio	NOM	viaggio
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v2' author='Daniele' date='2016-02-08' time='21:48:46'>
+Grazie	ADV	grazie
+mille	ADJ	mille
+</text>
+<text id='v3' author='Marta' date='2016-02-08' time='21:49:24'>
+Mandaci	NOM	unknown
+le	DET:def	il
+foto	NOM	foto
+!	SENT	!
+!🌃🗽🌃🗽	NOM	unknown
+</text>
+<text id='v4' author='Daniele' date='2016-02-08' time='21:49:41'>
+Penso	NOM	unknown
+di	PRE	di
+no	ADV	no
+</text>
+<text id='v5' author='Daniele' date='2016-02-08' time='21:49:51'>
+Potevate	VER:impf	potere
+venire	VER:infi	venire
+pure	ADV	pure
+voi	PRO:pers	voi
+</text>
+<text id='v6' author='Marta' date='2016-02-08' time='21:49:53'>
+😒	NOM	unknown
+</text>
+<text id='v7' author='Marta' date='2016-02-08' time='21:50:09'>
+Tu	NOM	tu
+non	ADV	non
+ce	ADV	ce
+l'	DET:def	il
+hai	VER:pres	avere
+detto	VER:pper	dire
+</text>
+<text id='v8' author='Benedetta' date='2016-02-08' time='21:52:27'>
+Dove	NOM	dove
+vai	ADJ	vaio
+?	SENT	?
+</text>
+<text id='v9' author='Daniele' date='2016-02-08' time='21:53:39'>
+<‎immagine omessa>
+</text>
+<text id='v10' author='Daniele' date='2016-02-08' time='21:54:14'>
+Benedetta	ADJ	benedetto
+festeggio	VER:pres	festeggiare
+il	DET:def	il
+mio	PRO:poss	mio
+e	CON	e
+il	DET:def	il
+tuo	PRO:poss	tuo
+compleanno	NOM	compleanno
+a	PRE	a
+NY	NOM	unknown
+</text>
+<text id='v11' author='Benedetta' date='2016-02-08' time='21:54:33'>
+Ma	NOM	ma
+bene	ADV	bene
+!	SENT	!
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v12' author='Benedetta' date='2016-02-08' time='21:54:47'>
+Il	DET:def	il
+tuo	PRO:poss	tuo
+è	NOM	unknown
+?	SENT	?
+</text>
+<text id='v13' author='Marta' date='2016-02-08' time='21:56:06'>
+E	CON	e
+intanto	ADV	intanto
+salutaci	VER:impe	salutare
+Adriana	NPR	Adriana
+</text>
+<text id='v14' author='Benedetta' date='2016-02-08' time='21:56:32'>
+Buon	VER:pres	unknown
+viaggioooo	ADJ	unknown
+✈️✈️✈️✈️✈️✈️✈️✈️✈️	NOM	unknown
+</text>
+<text id='v15' author='Vera' date='2016-02-08' time='22:00:26'>
+🇺🇸	NOM	unknown
+✈	NOM	unknown
+buon	ADJ	buon
+viaggio	NOM	viaggio
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v16' author='Valeria' date='2016-02-08' time='22:00:44'>
+Beato	NOM	beato
+te	PRO:pers	te
+</text>
+<text id='v17' author='Daniele' date='2016-02-08' time='22:03:20'>
+Due	ADJ	due
+giorni	NOM	giorno
+prima	ADJ	primo
+del	PRE:det	del
+tuo	PRO:poss	tuo
+</text>
+<text id='v18' author='Marta' date='2016-02-08' time='22:04:22'>
+Daniele	NPR	Daniele
+,	PON	,
+dì	VER:geru	unknown
+la	DET:def	il
+verità	ADJ	unknown
+!	SENT	!
+Ti	PRO:pers	ti
+hanno	VER:pres	avere
+chiamato	VER:pper	chiamare
+a	PRE	a
+spalare	VER:infi	spalare
+la	DET:def	il
+neve	NOM	neve
+davanti	ADJ	davanti
+alla	PRE:det	al
+casa	NOM	casa
+bianca	ADJ	bianco
+</text>
+<text id='v19' author='Daniele' date='2016-02-08' time='22:05:34'>
+Ok	NOM	ok
+dico	VER:pres	dire
+la	DET:def	il
+verità	ADJ	unknown
+.	SENT	.
+Sono	VER:pres	essere
+interessati	VER:pper	interessare
+a	PRE	a
+conoscere	VER:infi	conoscere
+la	DET:def	il
+strategia	NOM	strategia
+di	PRE	di
+gestione	NOM	gestione
+del	PRE:det	del
+patrimonio	NOM	patrimonio
+storico	ADJ	storico
+artistico	ADJ	artistico
+monumentale	ADJ	monumentale
+di	PRE	di
+Craco	NOM	unknown
+</text>
+<text id='v20' author='Marta' date='2016-02-08' time='22:05:47'>
+Uggesú	NOM	unknown
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v21' author='Marta' date='2016-02-08' time='22:06:14'>
+Hanno	VER:pres	avere
+deciso	VER:pper	decidere
+di	PRE	di
+intristirsi	VER:infi	intristire
+tutti	PRO:indef	tutto
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v22' author='Marta' date='2016-02-08' time='22:06:24'>
+Anche	ADV	anche
+Barak	NPR	Barak
+!	SENT	!
+</text>
+<text id='v23' author='Daniele' date='2016-02-08' time='22:06:40'>
+Soprattutto	ADV	soprattutto
+</text>
+<text id='v24' author='Daniele' date='2016-02-15' time='14:21:49'>
+<‎immagine omessa>
+</text>
+<text id='v25' author='Benedetta' date='2016-02-15' time='14:27:58'>
+Ciao	NOM	unknown
+Daniele	NPR	Daniele
+</text>
+<text id='v26' author='Benedetta' date='2016-02-15' time='14:28:07'>
+Divertiti	NOM	divertito
+</text>
+<text id='v27' author='Valeria' date='2016-02-15' time='14:34:04'>
+Ciao	NOM	unknown
+daniele	VER:geru	unknown
+</text>
+<text id='v28' author='Valeria' date='2016-02-15' time='14:34:07'>
+Divertiti	NOM	divertito
+</text>
+<text id='v29' author='Filippa' date='2016-02-15' time='14:42:54'>
+Ma	NOM	ma
+che	CON	che
+freddo	NOM	freddo
+fa	VER:pres	fare
+!	PON	!
+?	SENT	?
+!	PON	!
+!	SENT	!
+</text>
+<text id='v30' author='Filippa' date='2016-02-15' time='14:43:13'>
+😘😘😘	NOM	unknown
+</text>
+<text id='v31' author='Daniele' date='2016-02-15' time='14:43:22'>
+-20	NUM	@card@
+cucuzze	NOM	unknown
+</text>
+<text id='v32' author='Daniele' date='2016-02-15' time='14:43:25'>
+Ieri	NOM	ieri
+</text>
+<text id='v33' author='Filippa' date='2016-02-15' time='14:44:22'>
+Egghia	NOM	unknown
+!	SENT	!
+Da	PRE	da
+tenere	VER:infi	tenere
+il	DET:def	il
+pigiama	NOM	pigiama
+di	PRE	di
+flanella	NOM	flanella
+sotto	ADV	sotto
+i	DET:def	il
+pantaloni	NOM	pantalone
+...	PON	...
+</text>
+<text id='v34' author='Marta' date='2016-02-15' time='15:12:14'>
+<‎immagine omessa>
+</text>
+<text id='v35' author='Benedetta' date='2016-02-15' time='16:17:08'>
+Qui	NOM	unknown
++20	NOM	unknown
+</text>
+<text id='v36' author='Marta' date='2016-02-15' time='16:22:19'>
+È	NOM	unknown
+vero	ADJ	vero
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v37' author='Marta' date='2016-02-15' time='16:22:22'>
+Che	CON	che
+caldo	ADJ	caldo
+</text>
+<text id='v38' author='Daniele' date='2016-02-15' time='16:37:43'>
+Oggi	NOM	oggi
+qui	ADV	qui
+inizia	VER:pres	iniziare
+a	PRE	a
+nevicare	VER:infi	nevicare
+</text>
+<text id='v39' author='Alessandro' date='2016-02-26' time='08:21:36'>
+Amico	NOM	amico
+Patrizio	NPR	Patrizio
+che	CON	che
+sorpresa	NOM	sorpresa
+che	PRO:rela	che
+mi	PRO:pers	mi
+ai	PRE:det	al
+fatto	NOM	fatto
+ieri	ADV	ieri
+.	SENT	.
+Non	ADV	non
+me	PRO:pers	me
+la	PRO:pers	la
+spettavo	VER:impf	spettare
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v40' author='Marta' date='2016-02-26' time='08:25:13'>
+Che	CON	che
+sorpresa	NOM	sorpresa
+ti	PRO:pers	ti
+ha	VER:pres	avere
+fatto	VER:pper	fare
+?	SENT	?
+</text>
+<text id='v41' author='Alessandro' date='2016-02-26' time='08:55:38'>
+Ci	PRO:refl	ci
+siamo	VER:pres	essere
+incontrati	VER:pper	incontrare
+in	PRE	in
+via	NOM	via
+nazionale	ADJ	nazionale
+.	SENT	.
+Che	CON	che
+io	PRO:pers	io
+stavo	VER:impf	stare
+alla	PRE:det	al
+fermata	NOM	fermata
+del	PRE:det	del
+l	NOM	unknown
+'	PON	'
+autobus	NOM	autobus
+.	SENT	.
+È	NOM	unknown
+lui	PRO:pers	lui
+è	NOM	unknown
+passato	ADJ	passato
+.	SENT	.
+È	NOM	unknown
+oddetto	VER:pres	unknown
+salutami	VER:impe	salutare
+Marta	NPR	Marta
+.	SENT	.
+</text>
+<text id='v42' author='Vera' date='2016-02-26' time='09:05:12'>
+E	CON	e
+non	ADV	non
+ti	PRO:refl	ti
+ha	VER:pres	avere
+dato	VER:pper	dare
+nemmeno	ADV	nemmeno
+un	DET:indef	un
+passaggio	NOM	passaggio
+?	SENT	?
+</text>
+<text id='v43' author='Patrizio' date='2016-02-26' time='09:45:16'>
+Abbiamo	VER:pres	avere
+passato	VER:pper	passare
+un	DET:indef	un
+po	NOM	unknown
+di	PRE	di
+tempo	NOM	tempo
+insieme	ADV	insieme
+</text>
+<text id='v44' author='Patrizio' date='2016-02-26' time='09:45:36'>
+E	NOM	unknown
+ci	PRO:refl	ci
+siamo	VER:pres	essere
+diverti	VER:pper	divergere
+</text>
+<text id='v45' author='Patrizio' date='2016-02-26' time='09:46:37'>
+Abbiamo	VER:pres	avere
+fatto	VER:pper	fare
+un	DET:indef	un
+po	NOM	unknown
+di	PRE	di
+servizi	NOM	servizio
+insieme	ADV	insieme
+e	CON	e
+soprattutto	ADV	soprattutto
+Alessandro	NPR	Alessandro
+ha	VER:pres	avere
+salvato	VER:pper	salvare
+la	DET:def	il
+mia	PRO:poss	mio
+macchina	NOM	macchina
+da	PRE	da
+un	DET:indef	un
+tamponamento	NOM	tamponamento
+</text>
+<text id='v46' author='Patrizio' date='2016-02-26' time='09:46:59'>
+Per	NOM	unknown
+questo	PRO:demo	questo
+alla	PRE:det	al
+fine	ADJ	fine
+Sì	NOM	unknown
+è	NOM	unknown
+meritato	VER:pper	meritare
+il	DET:def	il
+passaggio	NOM	passaggio
+</text>
+<text id='v47' author='Valeria' date='2016-02-26' time='09:54:53'>
+Bene	NPR	Bene
+</text>
+<text id='v48' author='Alessandro' date='2016-02-26' time='18:41:08'>
+Salutatemi	VER:impe	salutare
+Paolo	NPR	Paolo
+.	SENT	.
+È	NOM	unknown
+Giulia	NPR	Giulia
+.	SENT	.
+</text>
+<text id='v49' author='Daniele' date='2016-02-27' time='23:50:48'>
+<‎immagine omessa>
+</text>
+<text id='v50' author='Filippa' date='2016-02-28' time='09:20:33'>
+È	NOM	unknown
+un	DET:indef	un
+fotomontaggio	NOM	fotomontaggio
+amico	ADJ	amico
+!	PON	!
+?	SENT	?
+!	PON	!
+?	SENT	?
+</text>
+<text id='v51' author='Patrizio' date='2016-02-28' time='09:23:35'>
+Daniele	NPR	Daniele
+se	CON	se
+ti	PRO:pers	ti
+trattieni	VER:impe	trattenere
+li	PRO:pers	li
+nel	PRE:det	nel
+2019	NUM	@card@
+faranno	VER:futu	fare
+un	DET:indef	un
+grande	ADJ	grande
+concertone	NOM	concertone
+per	PRE	per
+i	DET:def	il
+50	NUM	@card@
+anni	NOM	anno
+del	PRE:det	del
+grande	ADJ	grande
+festival	NOM	festival
+.	SENT	.
+Mi	PRO:pers	mi
+sa	VER:pres	sapere
+che	PRO:rela	che
+ti	PRO:pers	ti
+conviene	VER:pres	convenire
+</text>
+<text id='v52' author='Vera' date='2016-03-01' time='08:15:05'>
+<‎immagine omessa>
+</text>
+<text id='v53' author='Vera' date='2016-03-01' time='08:16:16'>
+L'	NOM	unknown
+autrice	NOM	autrice
+mi	PRO:pers	mi
+ha	VER:pres	avere
+chiesto	VER:pper	chiedere
+di	PRE	di
+girarlo	VER:infi	girare
+al	PRE:det	al
+cea	ADJ	unknown
+&	PON	&
+co	VER:impe	unknown
+.	SENT	.
+</text>
+<text id='v54' author='Silvio' date='2016-03-01' time='08:19:38'>
+Grazie	NOM	grazia
+!	SENT	!
+</text>
+<text id='v55' author='Marta' date='2016-03-01' time='09:03:30'>
+Auguri	NOM	augurio
+a	PRE	a
+Daniele	NPR	Daniele
+!	PON	!
+!	SENT	!
+</text>
+<text id='v56' author='Marta' date='2016-03-01' time='09:04:01'>
+E	CON	e
+ritirati	VER:pper	ritirare
+!	PON	!
+!	SENT	!
+</text>
+<text id='v57' author='Alessandro' date='2016-03-01' time='09:06:52'>
+Auguri	NOM	augurio
+anche	ADV	anche
+da	PRE	da
+parte	NOM	parte
+mia	PRO:poss	mio
+Daniele	NPR	Daniele
+.	SENT	.
+È	NOM	unknown
+ritirati	VER:pper	ritirare
+con	PRE	con
+2	NUM	@card@
+ragazze	NOM	ragazza
+belle	ADJ	bello
+.	SENT	.
+Alessandro.👍👍	ADJ	unknown
+</text>
+<text id='v58' author='Silvio' date='2016-03-01' time='09:12:37'>
+Se	NOM	se
+sei	ADJ	sei
+felice	ADJ	felice
+lì	NOM	unknown
+...	PON	...
+rimani	VER:pres	rimanere
+lì	ADJ	unknown
+!	SENT	!
+Auguri	NOM	augurio
+grandi	ADJ	grande
+comunque	ADV	comunque
+vada	VER:cpre	andare
+.	SENT	.
+</text>
+<text id='v59' author='Marta' date='2016-03-01' time='09:13:13'>
+Andiamo	VER:pres	andare
+pure	ADV	pure
+noi	PRO:pers	noi
+?	SENT	?
+</text>
+<text id='v60' author='Marta' date='2016-03-01' time='09:13:43'>
+Apriamo	VER:pres	aprire
+un	DET:indef	un
+CEA	NOM	unknown
+al	PRE:det	al
+central	NOM	unknown
+park	NOM	unknown
+</text>
+<text id='v61' author='Marta' date='2016-03-01' time='09:14:09'>
+E	NOM	unknown
+facciamo	VER:pres	fare
+il	DET:def	il
+centralparkfilm	NOM	unknown
+</text>
+<text id='v62' author='Marta' date='2016-03-01' time='09:14:39'>
+E	NOM	unknown
+tutti	ADJ	tutto
+i	DET:def	il
+laboratori	NOM	laboratorio
+di	PRE	di
+Tommaso	NPR	Tommaso
+</text>
+<text id='v63' author='Tommaso' date='2016-03-01' time='09:14:47'>
+Anche	NOM	anca
+3	NUM	@card@
+.	SENT	.
+Auguri🎉🎉🍀🍀🍀😘	NOM	unknown
+</text>
+<text id='v64' author='Silvio' date='2016-03-01' time='09:15:42'>
+👍🏼👍🏼👍🏼👍🏼📷📷📷📷	NOM	unknown
+</text>
+<text id='v65' author='Valeria' date='2016-03-01' time='09:16:35'>
+Auguri	NOM	augurio
+daniele	VER:geru	unknown
+!	SENT	!
+</text>
+<text id='v66' author='Marta' date='2016-03-01' time='09:16:39'>
+Comunque	ADV	comunque
+Daniele	NPR	Daniele
+sta	VER:pres	stare
+dormendo	VER:geru	dormire
+😴😴😴😴	NOM	unknown
+</text>
+<text id='v67' author='Marta' date='2016-03-01' time='09:16:58'>
+Lí	NOM	unknown
+sono	VER:pres	essere
+le	DET:def	il
+3	NUM	@card@
+</text>
+<text id='v68' author='Marta' date='2016-03-01' time='09:17:04'>
+😅	NOM	unknown
+</text>
+<text id='v69' author='Alessandro' date='2016-03-01' time='10:10:25'>
+Amico	NOM	amico
+Daniele	NPR	Daniele
+perché	NOM	unknown
+non	ADV	non
+hai	VER:pres	avere
+risposto	VER:pper	rispondere
+al	PRE:det	al
+messaggio	NOM	messaggio
+mio	PRO:poss	mio
+.	SENT	.
+</text>
+<text id='v70' author='Daniele' date='2016-03-01' time='13:31:40'>
+Alessandro	NPR	Alessandro
+mi	PRO:pers	mi
+sono	VER:pres	essere
+appena	ADV	appena
+svegliato	VER:pper	svegliare
+</text>
+<text id='v71' author='Daniele' date='2016-03-01' time='13:31:58'>
+Grazie	NOM	grazia
+per	PRE	per
+gli	DET:def	il
+auguri	NOM	augurio
+a	PRE	a
+tutti	PRO:indef	tutto
+</text>
+<text id='v72' author='Daniele' date='2016-03-01' time='13:32:04'>
+Torno	NOM	torno
+presto	ADV	presto
+</text>
+<text id='v73' author='Patrizio' date='2016-03-01' time='14:44:03'>
+Con	VER:pres	unknown
+il	DET:def	il
+fuso	ADJ	fuso
+orario	NOM	orario
+invecchi	VER:pres	invecchiare
+dopo	ADV	dopo
+ma	CON	ma
+al	PRE:det	al
+ritorno	NOM	ritorno
+recuperiamo	VER:cpre	recuperare
+.	SENT	.
+Tanti	PRO:indef	tanto
+auguri	NOM	augurio
+e	CON	e
+buona	ADJ	buono
+primavera	NOM	primavera
+meteorologica	ADJ	meteorologico
+</text>
+<text id='v74' author='Vittoria' date='2016-03-01' time='14:46:20'>
+Raffa	NOM	raffa
+auguriiii🎂	ADJ	unknown
+</text>
+<text id='v75' author='Benedetta' date='2016-03-01' time='14:54:43'>
+Auguriiiiii	NOM	unknown
+Daniele	NPR	Daniele
+</text>
+<text id='v76' author='Benedetta' date='2016-03-01' time='14:54:57'>
+😘😘😘	NOM	unknown
+</text>
+<text id='v77' author='Daniele' date='2016-03-01' time='15:12:28'>
+Grazie	NOM	grazia
+.	SENT	.
+Ma	CON	ma
+invecchiare	VER:infi	invecchiare
+dopo	PRE	dopo
+6	NUM	@card@
+ore	NOM	ora
+non	ADV	non
+è	NOM	unknown
+male	ADV	male
+</text>
+<text id='v78' author='Benedetta' date='2016-03-01' time='19:03:01'>
+Invecchiare	VER:infi	invecchiare
+?	PON	?
+?	SENT	?
+?	PON	?
+?	SENT	?
+Da	PRE	da
+mo	ADV	mo'
+la	PRO:pers	la
+rendi	VER:pres	rendere
+?	SENT	?
+</text>
+<text id='v79' author='Benedetta' date='2016-03-01' time='19:03:11'>
+Prendi	VER:pres	prendere
+</text>
+<text id='v80' author='Daniele' date='2016-03-02' time='06:01:51'>
+<‎video omesso>
+</text>
+<text id='v81' author='Patrizio' date='2016-03-02' time='07:30:53'>
+Bello	NOM	bello
+daniele	VER:geru	unknown
+</text>
+<text id='v82' author='Patrizio' date='2016-03-02' time='07:31:13'>
+Se	NOM	se
+puoi	VER:pres	potere
+porta	VER:pper	porgere
+i	DET:def	il
+un	PRO:indef	un
+po	VER:impe	unknown
+di	PRE	di
+prodotti	NOM	prodotto
+tipici	ADJ	tipico
+</text>
+<text id='v83' author='Patrizio' date='2016-03-02' time='07:33:59'>
+Gomme	NOM	gomma
+da	PRE	da
+masticare	VER:infi	masticare
+da	PRE	da
+brooklyn	NOM	unknown
+e	CON	e
+se	CON	se
+ci	PRO:refl	ci
+sono	VER:pres	essere
+ancora	ADV	ancora
+qualche	ADJ	qualche
+videocassetta	NOM	videocassetta
+mahattan	VER:cpre	unknown
+</text>
+<text id='v84' author='Marta' date='2016-03-02' time='08:01:10'>
+Che	NPR	Che
+bello	ADJ	bello
+!	SENT	!
+</text>
+<text id='v85' author='Benedetta' date='2016-03-02' time='08:40:57'>
+Grazie	ADV	grazie
+a	PRE	a
+te	PRO:pers	te
+per	PRE	per
+questo	PRO:demo	questo
+regalo	NOM	regalo
+.	SENT	.
+Comunque	ADV	comunque
+gli	DET:def	il
+auguri	NOM	augurio
+te	PRO:pers	te
+li	PRO:pers	li
+abbiamo	VER:pres	avere
+mandati	VER:pper	mandare
+ieriiiii	ADJ	unknown
+.	SENT	.
+Ti	PRO:pers	ti
+aspettiamo	VER:pres	aspettare
+.	SENT	.
+Baci	ADJ	bacio
+baci	NOM	bacio
+baci	ADJ	bacio
+</text>
+<text id='v86' author='Filippa' date='2016-03-02' time='09:07:01'>
+Che	NPR	Che
+voce	NOM	voce
+nostalgica	ADJ	nostalgico
+Raf	NPR	Raf
+!	SENT	!
+Sembra	VER:pres	sembrare
+qualcosa	PRO:indef	qualcosa
+di	PRE	di
+troppo	ADV	troppo
+grande	ADJ	grande
+da	PRE	da
+raggiungere	VER:infi	raggiungere
+NY	NOM	unknown
+e	CON	e
+tu	NOM	tu
+l'	PRO:pers	l'
+hai	VER:pres	avere
+raggiunta	VER:pper	raggiungere
+e	CON	e
+vissuta	VER:pper	vivere
+,	PON	,
+adesso	ADV	adesso
+sii	VER:impe	essere
+orgoglioso	ADJ	orgoglioso
+di	PRE	di
+rientrare	VER:infi	rientrare
+nella	PRE:det	nel
+nostra	PRO:poss	nostro
+bella	ADJ	bello
+e	CON	e
+umana	ADJ	umano
+Italia	NPR	Italia
+!	SENT	!
+😘	NOM	unknown
+</text>
+<text id='v87' author='Vera' date='2016-03-03' time='09:02:20'>
+E	NOM	unknown
+tanti	PRO:indef	tanto
+auguri	NOM	augurio
+a	PRE	a
+Benedetta	NOM	benedetta
+!	SENT	!
+!	PON	!
+!	SENT	!
+Buon	ADJ	buon
+compleanno💐🎂	ADJ	unknown
+</text>
+<text id='v88' author='Tommaso' date='2016-03-03' time='09:04:34'>
+Auguri🎉🎉🍀🍀👏👏😘😘🍕🍕🍕	NOM	unknown
+</text>
+<text id='v89' author='Patrizio' date='2016-03-03' time='09:22:26'>
+Auguri	NOM	augurio
+prof	NOM	prof
+</text>
+<text id='v90' author='Valeria' date='2016-03-03' time='09:23:37'>
+Auguri	NOM	augurio
+Benedetta	NOM	benedetta
+!	SENT	!
+</text>
+<text id='v91' author='Marta' date='2016-03-03' time='09:26:27'>
+Auguri	NOM	augurio
+Benedetta	NOM	benedetta
+!	PON	!
+!	SENT	!
+🌸🌸🌸	NOM	unknown
+</text>
+<text id='v92' author='Silvio' date='2016-03-03' time='09:27:17'>
+Auguriiii	NOM	unknown
+🎈🎈🎈🎈	NOM	unknown
+</text>
+<text id='v93' author='Filippa' date='2016-03-03' time='09:35:53'>
+Auguri	NOM	augurio
+💐	NOM	unknown
+</text>
+<text id='v94' author='Alessandro' date='2016-03-03' time='10:07:09'>
+Auguri	NOM	augurio
+anche	ADV	anche
+da	PRE	da
+parte	NOM	parte
+mia	PRO:poss	mio
+.	SENT	.
+🎂🎂🎂	NOM	unknown
+Benedetta	NOM	benedetta
+.	SENT	.
+l	VER:impe	unknown
+'	PON	'
+amico	NOM	amico
+di	PRE	di
+Patrizio	NPR	Patrizio
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+😘😘	NOM	unknown
+</text>
+<text id='v95' author='Vittoria' date='2016-03-03' time='10:17:15'>
+Tanti	VER:ppre	unknown
+auguri	NOM	augurio
+</text>
+<text id='v96' author='Benedetta' date='2016-03-03' time='10:33:23'>
+Grazie	NOM	grazia
+a	PRE	a
+tuttiiiiiii	ADJ	unknown
+</text>
+<text id='v97' author='Daniele' date='2016-03-03' time='13:27:56'>
+Auguroni	NOM	unknown
+Benedetta	NOM	benedetta
+</text>
+<text id='v98' author='Benedetta' date='2016-03-03' time='22:06:44'>
+Grazie	NOM	grazia
+Daniele	NPR	Daniele
+</text>
+<text id='v99' author='Tommaso' date='2016-03-04' time='13:32:35'>
+Oggi	NOM	oggi
+:	PON	:
+grotta	NOM	grotta
+dei	PRE:det	del
+pipistrelli	NOM	pipistrello
+</text>
+<text id='v100' author='Tommaso' date='2016-03-04' time='13:32:36'>
+<‎immagine omessa>
+</text>
+<text id='v101' author='Marta' date='2016-03-04' time='13:39:04'>
+Che	NPR	Che
+bello	ADJ	bello
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v102' author='Silvio' date='2016-03-04' time='13:47:26'>
+Tu	PRO:pers	tu
+non	ADV	non
+sei	VER:pres	essere
+voluta	VER:pper	volere
+venire	VER:infi	venire
+...	PON	...
+</text>
+<text id='v103' author='Marta' date='2016-03-04' time='13:51:24'>
+🙁	NOM	unknown
+</text>
+<text id='v104' author='Marta' date='2016-03-11' time='14:14:58'>
+Daniele	NPR	Daniele
+,	PON	,
+ti	PRO:pers	ti
+sei	VER:pres	essere
+ritirato	VER:pper	ritirare
+?	PON	?
+?	SENT	?
+?	PON	?
+?	SENT	?
+</text>
+<text id='v105' author='Valeria' date='2016-03-11' time='14:17:41'>
+Mo	ADV	mo'
+deve	VER:pres	dovere
+recuperare	VER:infi	recuperare
+il	DET:def	il
+fuso	NOM	fuso
+orario😂	ADJ	unknown
+</text>
+<text id='v106' author='Daniele' date='2016-03-11' time='14:21:04'>
+Si	NOM	si
+ieri	ADV	ieri
+</text>
+<text id='v107' author='Daniele' date='2016-03-11' time='14:21:12'>
+Sono	NOM	sono
+stato	VER:pper	essere|stare
+da	PRE	da
+Elena	NPR	Elena
+</text>
+<text id='v108' author='Marta' date='2016-03-11' time='14:21:12'>
+Evviva	NOM	evviva
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v109' author='Daniele' date='2016-03-11' time='14:21:19'>
+Ora	ADV	ora
+vado	VER:pres	andare
+a	PRE	a
+Roma	NPR	Roma
+</text>
+<text id='v110' author='Marta' date='2016-03-11' time='14:21:19'>
+Olè	NOM	unknown
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v111' author='Daniele' date='2016-03-11' time='14:21:29'>
+Lunedì	ADJ	unknown
+sera	NOM	sera
+arrivo	NOM	arrivo
+a	PRE	a
+Altamura	NOM	unknown
+</text>
+<text id='v112' author='Marta' date='2016-03-11' time='14:21:54'>
+Mhe	NOM	unknown
+muoviti	VER:impe	muovere
+che	PRO:rela	che
+ci	PRO:refl	ci
+devi	VER:pres	dovere
+dare	VER:infi	dare
+i	DET:def	il
+souvenir	NOM	souvenir
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v113' author='Daniele' date='2016-03-11' time='14:22:08'>
+Valeria	NPR	Valeria
+non	ADV	non
+è	NOM	unknown
+dal	PRE:det	dal
+fuso	NOM	fuso
+che	PRO:rela	che
+devo	VER:pres	dovere
+recuperare	VER:infi	recuperare
+ma	CON	ma
+dallo	PRE:det	dal
+shock	ADJ	shock
+</text>
+<text id='v114' author='Daniele' date='2016-03-11' time='14:22:15'>
+Ahahahahah	NOM	unknown
+</text>
+<text id='v115' author='Daniele' date='2016-03-11' time='14:22:29'>
+Questa	NOM	unknown
+volta	NOM	volta
+mi	PRO:pers	mi
+sono	VER:pres	essere
+regalato	VER:pper	regalare
+tutto	ADV	tutto
+per	PRE	per
+me	PRO:pers	me
+</text>
+<text id='v116' author='Daniele' date='2016-03-11' time='14:22:41'>
+Cartoline	NOM	cartolina
+a	PRE	a
+mano	NOM	mano
+vi	PRO:refl	vi
+posso	VER:pres	potere
+dare	VER:infi	dare
+</text>
+<text id='v117' author='Marta' date='2016-03-11' time='14:23:15'>
+Ma	NOM	ma
+neanche	ADV	neanche
+una	DET:indef	una
+calamita	NOM	calamita
+con	PRE	con
+la	DET:def	il
+statua	NOM	statua
+della	PRE:det	del
+libertà	NOM	unknown
+?	SENT	?
+</text>
+<text id='v118' author='Daniele' date='2016-03-11' time='14:23:27'>
+Niente	ADV	niente
+</text>
+<text id='v119' author='Valeria' date='2016-03-11' time='14:23:27'>
+Bravo	VER:impf	unknown
+daniele	VER:infi	unknown
+</text>
+<text id='v120' author='Valeria' date='2016-03-11' time='14:23:39'>
+Hai	NOM	unknown
+fatto	VER:pper	fare
+bene	ADV	bene
+a	PRE	a
+endar	VER:infi	unknown
+</text>
+<text id='v121' author='Valeria' date='2016-03-11' time='14:23:45'>
+A	NOM	unknown
+pensare	VER:infi	pensare
+a	PRE	a
+te	PRO:pers	te
+</text>
+<text id='v122' author='Marta' date='2016-03-11' time='14:23:55'>
+Allora	NOM	unknown
+resta	VER:pres	restare
+a	PRE	a
+Roma	NPR	Roma
+</text>
+<text id='v123' author='Marta' date='2016-03-11' time='14:23:59'>
+😠	VER:impe	unknown
+</text>
+<text id='v124' author='Daniele' date='2016-03-11' time='14:24:01'>
+Grazie	NOM	grazia
+Valeria	NPR	Valeria
+.	SENT	.
+Tu	NOM	tu
+si	PRO:pers	si
+che	PRO:rela	che
+sai	VER:pres	sapere
+vivere	VER:infi	vivere
+</text>
+<text id='v125' author='Daniele' date='2016-03-11' time='14:24:26'>
+Marta	NPR	Marta
+muovi	VER:pres	muovere
+il	DET:def	il
+tuo	PRO:poss	tuo
+...	PON	...
+.	SENT	.
+e	CON	e
+vacci	VER:impe	unknown
+</text>
+<text id='v126' author='Daniele' date='2016-03-11' time='14:24:33'>
+Se	NOM	se
+vuoi	VER:pres	volere
+ti	VER:impe	torre
+accompagno	VER:pres	accompagnare
+</text>
+<text id='v127' author='Marta' date='2016-03-11' time='14:24:46'>
+No	NOM	no
+,	PON	,
+vado	VER:pres	andare
+da	PRE	da
+sola	ADJ	solo
+!	SENT	!
+</text>
+<text id='v128' author='Vera' date='2016-03-11' time='14:31:25'>
+Sono	VER:pres	essere
+d'	PRE	d'
+accordo	NOM	accordo
+con	PRE	con
+Marta	NPR	Marta
+.resta	NOM	unknown
+a	PRE	a
+Roma	NPR	Roma
+!	SENT	!
+!	PON	!
+!	SENT	!
+Ma	CON	ma
+come	PRO:inter	come
+?	SENT	?
+A	PRE	a
+mani	NOM	mano
+vuote	ADJ	vuoto
+?	SENT	?
+Ti	PRO:pers	ti
+avevo	VER:impf	avere
+dato	VER:pper	dare
+un	DET:indef	un
+incarico	NOM	incarico
+ben	ADV	ben
+preciso	ADJ	preciso
+?	SENT	?
+?	PON	?
+?	SENT	?
+?😜	NOM	unknown
+</text>
+<text id='v129' author='Daniele' date='2016-03-11' time='14:33:29'>
+Quello	NOM	unknown
+di	PRE	di
+portarti	VER:infi	portare
+con	PRE	con
+me	PRO:pers	me
+</text>
+<text id='v130' author='Benedetta' date='2016-03-11' time='15:49:59'>
+Bentornato	NOM	bentornato
+Daniele	NPR	Daniele
+</text>
+<text id='v131' author='Daniele' date='2016-03-11' time='16:49:27'>
+Grazie	NOM	grazia
+.	SENT	.
+</text>
+<text id='v132' author='Vera' date='2016-03-11' time='18:15:37'>
+👍🏻👍🏻👍🏻👍🏻	NOM	unknown
+</text>
+<text id='v133' author='Patrizio' date='2016-03-19' time='13:53:49'>
+Alessandro	NPR	Alessandro
+dove	ADV	dove
+sono	VER:pres	essere
+le	DET:def	il
+zeppole	NOM	zeppola
+?	SENT	?
+</text>
+<text id='v134' author='Patrizio' date='2016-03-19' time='13:53:57'>
+Tanti	PRO:indef	tanto
+auguri	NOM	augurio
+</text>
+<text id='v135' author='Vittoria' date='2016-03-19' time='13:58:49'>
+Auguri	NOM	augurio
+Alessandro	NPR	Alessandro
+e	CON	e
+auguri	NOM	augurio
+a	PRE	a
+tutti	PRO:indef	tutto
+i	DET:def	il
+papà	ADJ	unknown
+😊	NOM	unknown
+</text>
+<text id='v136' author='Daniele' date='2016-03-19' time='14:20:42'>
+Auguroni	NOM	unknown
+</text>
+<text id='v137' author='Marta' date='2016-03-19' time='14:21:18'>
+Vero	NOM	vero
+!	SENT	!
+</text>
+<text id='v138' author='Marta' date='2016-03-19' time='14:21:25'>
+Auguri	NOM	augurio
+Alessandro	NPR	Alessandro
+</text>
+<text id='v139' author='Marta' date='2016-03-19' time='14:21:35'>
+Auguri	NOM	augurio
+papà	ADJ	unknown
+</text>
+<text id='v140' author='Marta' date='2016-03-19' time='14:21:58'>
+🎉🎉🎉	NOM	unknown
+</text>
+<text id='v141' author='Daniele' date='2016-03-19' time='14:22:05'>
+Grazie	NOM	grazia
+</text>
+<text id='v142' author='Marta' date='2016-03-19' time='14:22:09'>
+Auguri	NOM	augurio
+Silvio	NPR	Silvio
+</text>
+<text id='v143' author='Silvio' date='2016-03-19' time='14:22:18'>
+Auguri	NOM	augurio
+anche	ADV	anche
+a	PRE	a
+me	PRO:pers	me
+!	SENT	!
+!	PON	!
+</text>
+<text id='v144' author='Silvio' date='2016-03-19' time='14:22:23'>
+😢😢😢	NOM	unknown
+</text>
+<text id='v145' author='Marta' date='2016-03-19' time='14:22:30'>
+Sei	NOM	sei
+papà	ADJ	unknown
+e	CON	e
+non	ADV	non
+ci	PRO:refl	ci
+dici	VER:pres	dire
+niente	ADJ	niente
+?	SENT	?
+?	PON	?
+?	SENT	?
+</text>
+<text id='v146' author='Vittoria' date='2016-03-19' time='14:23:31'>
+Auguri	NOM	augurio
+Silvio	NPR	Silvio
+😊😊😊	NOM	unknown
+</text>
+<text id='v147' author='Daniele' date='2016-03-19' time='14:23:35'>
+Mi	NOM	unknown
+sono	VER:pres	essere
+sempre	ADV	sempre
+rifiutato	VER:pper	rifiutare
+di	PRE	di
+sapere	VER:infi	sapere
+</text>
+<text id='v148' author='Marta' date='2016-03-19' time='14:26:54'>
+E	NOM	unknown
+allora	ADV	allora
+non	ADV	non
+vale	VER:pres	valere
+!	PON	!
+</text>
+<text id='v149' author='Marta' date='2016-03-19' time='14:27:10'>
+Screanzato	ADJ	screanzato
+!	SENT	!
+</text>
+<text id='v150' author='Vera' date='2016-03-19' time='14:31:51'>
+Auguri	NOM	augurio
+Alessandro	NPR	Alessandro
+e	CON	e
+Silvio	NPR	Silvio
+!	SENT	!
+💐	NOM	unknown
+</text>
+<text id='v151' author='Silvio' date='2016-03-19' time='14:47:29'>
+Thanks	NOM	unknown
+!	SENT	!
+</text>
+<text id='v152' author='Valeria' date='2016-03-19' time='15:37:47'>
+Auguroni	NOM	unknown
+</text>
+<text id='v153' author='Valeria' date='2016-03-19' time='15:37:52'>
+Alessandro	NPR	Alessandro
+</text>
+<text id='v154' author='Valeria' date='2016-03-19' time='15:38:10'>
+E	NOM	unknown
+tutti	ADJ	tutto
+i	DET:def	il
+papa	NOM	papa
+</text>
+<text id='v155' author='Benedetta' date='2016-03-19' time='16:31:04'>
+In	NOM	unknown
+ritardo	NOM	ritardo
+...	PON	...
+...	PON	...
+Auguri	NOM	augurio
+a	PRE	a
+tutti	ADJ	tutto
+quelli	PRO:demo	quello
+oggi	ADV	oggi
+sono	VER:pres	essere
+i	DET:def	il
+festeggiati	ADJ	festeggiato
+</text>
+<text id='v156' author='Filippa' date='2016-03-19' time='16:41:36'>
+Auguri	NOM	augurio
+a	PRE	a
+tutti	PRO:indef	tutto
+papà	NOM	unknown
+e	CON	e
+peppino🍭	NOM	unknown
+</text>
+<text id='v157' author='Patrizio' date='2016-03-19' time='16:44:06'>
+Auguri	NOM	augurio
+a	PRE	a
+tutti	PRO:indef	tutto
+i	DET:def	il
+Silvio	NPR	Silvio
+</text>
+<text id='v158' author='Filippa' date='2016-03-19' time='17:01:36'>
+Giusto	NPR	Giusto
+</text>
+<text id='v159' author='Silvio' date='2016-03-19' time='17:24:02'>
+💋💋💋💋	NOM	unknown
+</text>
+<text id='v160' author='Valeria' date='2016-03-19' time='17:26:25'>
+Auguri	NOM	augurio
+Silvio	NPR	Silvio
+</text>
+<text id='v161' author='Valeria' date='2016-03-19' time='17:26:28'>
+😘😘😘😘	NOM	unknown
+</text>
+<text id='v162' author='Alessandro' date='2016-03-20' time='09:08:32'>
+Grazie	NOM	grazia
+a	PRE	a
+tutti	PRO:indef	tutto
+.	SENT	.
+Amici	NOM	amico
+miei	PRO:poss	mio
+del	PRE:det	del
+Cea	NOM	unknown
+.	SENT	.
+😘😘😘	NOM	unknown
+</text>
+<text id='v163' author='Alessandro' date='2016-03-20' time='09:10:04'>
+Un	NOM	unknown
+bacio	ADJ	bacio
+alle	PRE:det	al
+donne	NOM	donna
+.	SENT	.
+Altamurane	VER:impe	unknown
+.	SENT	.
+</text>
+<text id='v164' author='Daniele' date='2016-03-20' time='09:11:30'>
+Dicono	VER:pres	dire
+le	DET:def	il
+donne	NOM	donna
+del	PRE:det	del
+CEA	NOM	unknown
+(	PON	(
+che	PRO:rela	che
+sono	VER:pres	essere
+buongustaie	NOM	buongustaio
+)	PON	)
+che	PRO:rela	che
+vogliono	VER:pres	volere
+le	DET:def	il
+zeppole	NOM	zeppola
+</text>
+<text id='v165' author='Alessandro' date='2016-03-20' time='09:13:50'>
+Offre	NOM	unknown
+Alessandro	NPR	Alessandro
+andrulli	NOM	unknown
+da	PRE	da
+parte	NOM	parte
+mia	PRO:poss	mio
+.	SENT	.
+</text>
+<text id='v166' author='Daniele' date='2016-03-20' time='09:15:29'>
+Stretto	VER:pper	stringere
+in	PRE	in
+petto	NOM	petto
+</text>
+<text id='v167' author='Alessandro' date='2016-03-20' time='09:15:48'>
+È	NOM	unknown
+io	PRO:pers	io
+in	PRE	in
+cambio	NOM	cambio
+voglio	VER:pres	volere
+due	ADJ	due
+brasigliane	ADJ	unknown
+.	SENT	.
+</text>
+<text id='v168' author='Marta' date='2016-03-20' time='11:32:19'>
+<‎immagine omessa>
+</text>
+<text id='v169' author='Alessandro' date='2016-03-20' time='12:03:02'>
+Daniele	NPR	Daniele
+che	PRO:rela	che
+mi	PRO:pers	mi
+puoi	VER:pres	potere
+rinviare	VER:infi	rinviare
+quello	PRO:demo	quello
+che	PRO:rela	che
+ho	VER:pres	avere
+appena	ADV	appena
+cancellato	VER:pper	cancellare
+.	SENT	.
+</text>
+<text id='v170' author='Alessandro' date='2016-03-20' time='12:46:12'>
+👍amico	NOM	unknown
+.	SENT	.
+</text>
+<text id='v171' author='Patrizio' date='2016-03-20' time='12:58:36'>
+<‎immagine omessa>
+</text>
+<text id='v172' author='Patrizio' date='2016-03-20' time='12:58:47'>
+Saluti	NOM	salute|saluto
+e	CON	e
+BACI	VER:impe	baciare
+</text>
+<text id='v173' author='Valeria' date='2016-03-20' time='13:01:29'>
+Madoo	NOM	unknown
+</text>
+<text id='v174' author='Valeria' date='2016-03-20' time='13:01:35'>
+Gli	NOM	unknown
+amici	ADJ	amico
+mieii	VER:geru	unknown
+</text>
+<text id='v175' author='Marta' date='2016-03-20' time='13:51:23'>
+Valeria	NPR	Valeria
+potevi	VER:impf	potere
+venire	VER:infi	venire
+!	SENT	!
+Vedi	VER:pres	vedere
+che	PRO:rela	che
+bella	ADJ	bello
+gente	NOM	gente
+che	PRO:rela	che
+c'	PRO:demo	c'
+è	NOM	unknown
+!	PON	!
+!	SENT	!
+</text>
+<text id='v176' author='Valeria' date='2016-03-20' time='13:57:20'>
+E	CON	e
+vero	ADJ	vero
+</text>
+<text id='v177' author='Valeria' date='2016-03-20' time='13:57:33'>
+La	NOM	unknown
+prossima	ADJ	prossimo
+volta	ADJ	volto
+</text>
+<text id='v178' author='Marta' date='2016-03-20' time='15:14:57'>
+<‎immagine omessa>
+</text>
+<text id='v179' author='Vera' date='2016-03-27' time='15:32:34'>
+<‎immagine omessa>
+</text>
+<text id='v180' author='Vera' date='2016-03-27' time='15:32:44'>
+Tutto	NOM	tutto
+tace	VER:pres	tacere
+...	PON	...
+si	PRO:pers	si
+magna	ADJ	magno
+?	PON	?
+?	SENT	?
+</text>
+<text id='v181' author='Vera' date='2016-03-27' time='15:32:50'>
+Auguri	NOM	augurio
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v182' author='Benedetta' date='2016-03-27' time='15:33:20'>
+Yes	ADJ	unknown
+</text>
+<text id='v183' author='Benedetta' date='2016-03-27' time='15:33:32'>
+Auguri	NOM	augurio
+a	PRE	a
+tuttiiiiii	ADJ	unknown
+</text>
+<text id='v184' author='Marta' date='2016-03-27' time='15:34:05'>
+Buona	NOM	buono
+Pasqua	NPR	Pasqua
+</text>
+<text id='v185' author='Benedetta' date='2016-03-27' time='15:35:00'>
+Noi	NOM	unknown
+siamo	VER:pres	essere
+alla	PRE:det	al
+frutta	NOM	frutta
+!	SENT	!
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+😉😉😉😉😉	NOM	unknown
+</text>
+<text id='v186' author='Vittoria' date='2016-03-27' time='15:41:11'>
+Buona	NOM	buono
+Pasqua	NPR	Pasqua
+a	PRE	a
+tutti	PRO:indef	tutto
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v187' author='Tommaso' date='2016-03-27' time='15:50:04'>
+Auguri🐣🐣🐣	ADJ	unknown
+</text>
+<text id='v188' author='Valeria' date='2016-03-27' time='15:50:22'>
+Auguri	NOM	augurio
+</text>
+<text id='v189' author='Patrizio' date='2016-03-27' time='15:51:04'>
+<‎immagine omessa>
+</text>
+<text id='v190' author='Alessandro' date='2016-03-28' time='08:33:58'>
+Grazie	NOM	grazia
+.	SENT	.
+A	PRE	a
+tutti	ADJ	tutto
+vi	PRO:demo	vi
+voglio	VER:pres	volere
+bene	NOM	bene
+.	SENT	.
+Buona	ADJ	buono
+pasquetta	NOM	pasquetta
+.	SENT	.
+A	PRE	a
+tutti	PRO:indef	tutto
+.	SENT	.
+❤❤❤❤	NOM	unknown
+non	ADV	non
+mangiate	VER:pper	mangiare
+a	PRE	a
+sai	NOM	saio
+?	SENT	?
+il	DET:def	il
+vostro	PRO:poss	vostro
+amico	NOM	amico
+Alessandro	NPR	Alessandro
+</text>
+<text id='v191' author='Alessandro' date='2016-03-28' time='08:35:45'>
+😘😘	NOM	unknown
+alle	PRE:det	al
+donne	NOM	donna
+.	SENT	.
+Più	NOM	unknown
+belle	ADJ	bello
+di	PRE	di
+Altamura	NOM	unknown
+.	SENT	.
+</text>
+<text id='v192' author='Patrizio' date='2016-03-28' time='10:15:47'>
+Belle	NOM	bella
+a	PRE	a
+sai	NOM	saio
+veramente	ADV	veramente
+!	SENT	!
+</text>
+<text id='v193' author='Patrizio' date='2016-03-28' time='10:16:03'>
+Buona	ADJ	buono
+pasquetta	NOM	pasquetta
+a	PRE	a
+tutti	PRO:indef	tutto
+!	SENT	!
+</text>
+<text id='v194' author='Patrizio' date='2016-03-28' time='10:16:07'>
+😘😘😘😘😘😘😘	NOM	unknown
+</text>
+<text id='v195' author='Valeria' date='2016-03-28' time='10:17:59'>
+Buona	NOM	buono
+pasquetta	NOM	pasquetta
+!	SENT	!
+</text>
+<text id='v196' author='Marta' date='2016-04-05' time='14:17:49'>
+Bravi	ADJ	bravo
+Tommaso	NPR	Tommaso
+,	PON	,
+Giusi	NOM	unknown
+e	CON	e
+Eleonora	NPR	Eleonora
+!	SENT	!
+!	PON	!
+!	SENT	!
+👏🏼👏🏼👏🏼👏🏼	NOM	unknown
+</text>
+<text id='v197' author='Marta' date='2016-04-05' time='14:18:07'>
+E	NOM	unknown
+le	DET:def	il
+piccole	ADJ	piccolo
+guide	NOM	guida
+del	PRE:det	del
+parco	NOM	parco
+che	PRO:rela	che
+sono	VER:pres	essere
+cresciute	VER:pper	crescere
+!	SENT	!
+</text>
+<text id='v198' author='Marta' date='2016-04-05' time='14:18:23'>
+Vi	PRO:refl	vi
+ho	VER:pres	avere
+visti	VER:pper	vedere
+su	PRE	su
+tg3	ADJ	unknown
+</text>
+<text id='v199' author='Silvio' date='2016-04-05' time='14:34:36'>
+❤❤❤❤	NOM	unknown
+</text>
+<text id='v200' author='Benedetta' date='2016-04-05' time='14:50:30'>
+👍👍👍	NOM	unknown
+</text>
+<text id='v201' author='Alessandro' date='2016-04-18' time='15:25:42'>
+Amici	NOM	amico
+che	PRO:rela	che
+avete	VER:pres	avere
+fatto	VER:pper	fare
+ieri	ADV	ieri
+siete	VER:pres	essere
+andati	VER:pper	andare
+a	PRE	a
+votare	VER:infi	votare
+?	SENT	?
+Per	PRE	per
+le	DET:def	il
+trivelle	NOM	trivella
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+Un	DET:indef	un
+👍👍👍	NOM	unknown
+</text>
+<text id='v202' author='Alessandro' date='2016-04-18' time='15:27:09'>
+Amici	NOM	amico
+miei	PRO:poss	mio
+siete	VER:pres	essere
+andati	VER:pper	andare
+a	PRE	a
+votare	VER:infi	votare
+?	SENT	?
+Dite	VER:pres	dire
+👍👍👍🏿👍	NOM	unknown
+</text>
+<text id='v203' author='Benedetta' date='2016-04-18' time='15:31:43'>
+Certo	NOM	unknown
+</text>
+<text id='v204' author='Benedetta' date='2016-04-18' time='15:31:54'>
+👏👏👏👏	NOM	unknown
+</text>
+<text id='v205' author='Alessandro' date='2016-04-18' time='15:31:55'>
+Se	NOM	se
+veramente	ADV	veramente
+avete	VER:pres	avere
+votato.tutti	VER:impe	unknown
+grazie	NOM	grazia
+dei	PRE:det	del
+🌹🌹🌹	NOM	unknown
+</text>
+<text id='v206' author='Marta' date='2016-04-18' time='15:34:49'>
+Si	NOM	si
+!	SENT	!
+</text>
+<text id='v207' author='Daniele' date='2016-04-18' time='16:19:39'>
+E	CON	e
+tu	NOM	tu
+?	SENT	?
+</text>
+<text id='v208' author='Alessandro' date='2016-04-18' time='16:35:18'>
+Si	PRO:refl	si
+anche	ADV	anche
+io	PRO:pers	io
+.	SENT	.
+</text>
+<text id='v209' author='Alessandro' date='2016-04-21' time='14:15:34'>
+Dove	ADV	dove
+andavi	VER:impf	andare
+.	SENT	.
+Stamattina	ADV	stamattina
+Daniele	NPR	Daniele
+.	SENT	.
+Che	CON	che
+ci	PRO:refl	ci
+siamo	VER:pres	essere
+visti	VER:pper	vedere
+.	SENT	.
+io	PRO:pers	io
+stavo	VER:impf	stare
+con	PRE	con
+mio	PRO:poss	mio
+padre	NOM	padre
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v210' author='Daniele' date='2016-04-21' time='14:17:29'>
+A	PRE	a
+lavorare	VER:infi	lavorare
+</text>
+<text id='v211' author='Daniele' date='2016-04-21' time='14:17:34'>
+Ero	NOM	unknown
+in	PRE	in
+ritardo	NOM	ritardo
+</text>
+<text id='v212' author='Alessandro' date='2016-04-25' time='14:45:32'>
+Che	NPR	Che
+si	PRO:pers	si
+dice	VER:pres	dire
+.	SENT	.
+Sulle	PRE:det	sul
+murgie	NOM	unknown
+.	SENT	.
+Che	CON	che
+tempo	NOM	tempo
+fa	ADV	fa
+.	SENT	.
+A	PRE	a
+Altamura	NOM	unknown
+ogni	ADJ	ogni
+tanto	ADV	tanto
+piove	VER:pres	piovere
+oppure	CON	oppure
+sta	VER:pres	stare
+il	DET:def	il
+sole	ADJ	solo
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v213' author='Alessandro' date='2016-04-25' time='14:47:55'>
+Baci	NOM	bacio
+.	SENT	.
+Alle	PRE:det	al
+ragazze	NOM	ragazza
+altamurane	VER:impe	unknown
+.	SENT	.
+È	NOM	unknown
+a	PRE	a
+Stefania	NPR	Stefania
+.	SENT	.
+</text>
+<text id='v214' author='Alessandro' date='2016-04-26' time='08:57:43'>
+Perché	NOM	unknown
+nessuno	ADJ	nessuno
+risponde	VER:pres	rispondere
+.	SENT	.
+State	VER:pper	stare
+impegnati	VER:pper	impegnare
+.	SENT	.
+Tutti	PRO:indef	tutto
+.	SENT	.
+</text>
+<text id='v215' author='Alessandro' date='2016-04-26' time='09:03:28'>
+Perché	NOM	unknown
+nessuno	ADJ	nessuno
+risponde	VER:pres	rispondere
+.	SENT	.
+State	VER:pper	stare
+tutti	PRO:indef	tutto
+impegniati	VER:impe	unknown
+.	SENT	.
+Dite	VER:pres	dire
+almeno	ADV	almeno
+OK	NOM	ok
+.	SENT	.
+</text>
+<text id='v216' author='Marta' date='2016-04-26' time='09:05:49'>
+Ciao	INT	ciao
+Alessandro	NPR	Alessandro
+</text>
+<text id='v217' author='Marta' date='2016-04-26' time='09:06:05'>
+Io	NOM	unknown
+sono	VER:pres	essere
+molto	ADV	molto
+impegnata	VER:pper	impegnare
+</text>
+<text id='v218' author='Patrizio' date='2016-04-26' time='09:06:15'>
+Se	NOM	se
+tu	PRO:pers	tu
+mandi	VER:cpre	mandare
+i	DET:def	il
+baci	NOM	bacio
+solo	ADJ	solo
+alle	PRE:det	al
+ragazze	NOM	ragazza
+i	DET:def	il
+maschietti	NOM	maschietto
+si	PRO:refl	si
+ingelosiscono	VER:pres	ingelosire
+</text>
+<text id='v219' author='Daniele' date='2016-04-26' time='09:06:32'>
+Ciao	NOM	unknown
+Peppe	NOM	unknown
+.	SENT	.
+Siamo	VER:pres	essere
+infreddoliti	VER:pper	infreddolire
+</text>
+<text id='v220' author='Marta' date='2016-04-26' time='09:06:38'>
+E	NOM	unknown
+si	PRO:pers	si
+offendono	VER:pres	offendere
+</text>
+<text id='v221' author='Daniele' date='2016-04-26' time='09:07:33'>
+Poi	NOM	poi
+ha	VER:pres	avere
+ragione	NOM	ragione
+Patrizio	NPR	Patrizio
+.	SENT	.
+Manda	VER:pres	mandare
+i	DET:def	il
+baci	NOM	bacio
+anche	ADV	anche
+a	PRE	a
+noi	PRO:pers	noi
+</text>
+<text id='v222' author='Valeria' date='2016-04-26' time='09:19:57'>
+Ciao	NOM	unknown
+Alessandro	NPR	Alessandro
+</text>
+<text id='v223' author='Alessandro' date='2016-04-26' time='09:32:02'>
+Scusami	VER:impe	scusare
+è	NOM	unknown
+vero	ADJ	vero
+.	SENT	.
+Ma	CON	ma
+forza	NOM	forza
+Juventus	NPR	Juventus
+.	SENT	.
+Devi	VER:pres	dovere
+dite	VER:impe	dire
+a	PRE	a
+Patrizio	NPR	Patrizio
+.	SENT	.
+</text>
+<text id='v224' author='Patrizio' date='2016-04-26' time='09:32:40'>
+Alessandro	NPR	Alessandro
+ora	ADV	ora
+è	NOM	unknown
+sicuro	ADJ	sicuro
+che	PRO:rela	che
+non	ADV	non
+ti	PRO:pers	ti
+rispondo	VER:pres	rispondere
+più	ADJ	unknown
+.	SENT	.
+</text>
+<text id='v225' author='Patrizio' date='2016-04-26' time='09:32:55'>
+SOLO	ADV	solo
+E	NOM	unknown
+SEMPRE	NOM	unknown
+FORZA	NOM	forza
+MATERA	NOM	unknown
+</text>
+<text id='v226' author='Alessandro' date='2016-04-26' time='09:33:03'>
+È	NOM	unknown
+forza	NOM	forza
+Matera	NPR	Matera
+.	SENT	.
+Che	CON	che
+ieri	ADV	ieri
+a	PRE	a
+vinto	ADJ	vinto
+4	NUM	@card@
+a	PRE	a
+1	NUM	@card@
+</text>
+<text id='v227' author='Patrizio' date='2016-04-26' time='09:33:11'>
+ABBASSO	NOM	unknown
+JUVE	NOM	juve
+</text>
+<text id='v228' author='Alessandro' date='2016-04-26' time='09:34:02'>
+🌂🌂🌂	NOM	unknown
+siamo	VER:pres	essere
+forti	ADJ	forte
+.	SENT	.
+</text>
+<text id='v229' author='Alessandro' date='2016-04-26' time='09:38:01'>
+Amico	NOM	amico
+Patrizio	NPR	Patrizio
+metti	VER:pres	mettere
+una	DET:indef	una
+mano	NOM	mano
+sulla	PRE:det	sul
+coscienza	NOM	coscienza
+.	SENT	.
+Forza	NOM	forza
+Luigi	NPR	Luigi
+.	SENT	.
+</text>
+<text id='v230' author='Silvio' date='2016-04-26' time='13:10:40'>
+E	CON	e
+sono	VER:pres	essere
+21	PON	@card@
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v231' author='Silvio' date='2016-04-26' time='13:10:44'>
+<‎immagine omessa>
+</text>
+<text id='v232' author='Silvio' date='2016-04-26' time='13:13:19'>
+<‎immagine omessa>
+</text>
+<text id='v233' author='Vera' date='2016-04-26' time='13:18:04'>
+💐🌸🍸auguri	NOM	unknown
+!	SENT	!
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+...	PON	...
+..Silvio	NOM	unknown
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+!	PON	!
+</text>
+<text id='v234' author='Benedetta' date='2016-04-26' time='13:19:06'>
+❤	NOM	unknown
+</text>
+<text id='v235' author='Marta' date='2016-04-26' time='13:19:12'>
+Auguri	NOM	augurio
+!	PON	!
+!	SENT	!
+💝💖💗💞💕	NOM	unknown
+</text>
+<text id='v236' author='Valeria' date='2016-04-26' time='13:20:04'>
+Auguri💞	NOM	unknown
+</text>
+<text id='v237' author='Silvio' date='2016-04-26' time='13:21:55'>
+Grazzzzzieeee	NOM	unknown
+</text>
+<text id='v238' author='Marta' date='2016-04-26' time='13:23:31'>
+Siete	NOM	unknown
+bellissimi	ADJ	bello
+!	SENT	!
+</text>
+<text id='v239' author='Patrizio' date='2016-04-26' time='13:29:36'>
+Silvio	NPR	Silvio
+non	ADV	non
+è	NOM	unknown
+sempre	ADV	sempre
+una	DET:indef	una
+giovincella	ADJ	unknown
+</text>
+<text id='v240' author='Patrizio' date='2016-04-26' time='13:29:45'>
+Auguri	NOM	augurio
+sposini	NOM	sposino
+</text>
+<text id='v241' author='Marta' date='2016-04-26' time='13:32:18'>
+Patrizio	NPR	Patrizio
+!	SENT	!
+Che	CON	che
+dici	VER:pres	dire
+!	PON	!
+</text>
+<text id='v242' author='Vittoria' date='2016-04-26' time='13:42:22'>
+Auguri😍	NOM	unknown
+</text>
+<text id='v243' author='Patrizio' date='2016-04-26' time='13:44:19'>
+Manca	NPR	Manca
+un	DET:indef	un
+punto	NOM	punto
+interrogativo	ADJ	interrogativo
+</text>
+<text id='v244' author='Patrizio' date='2016-04-26' time='13:44:27'>
+Era	NOM	era
+una	DET:indef	una
+domanda	NOM	domanda
+</text>
+<text id='v245' author='Marta' date='2016-04-26' time='13:44:28'>
+No	NOM	no
+</text>
+<text id='v246' author='Patrizio' date='2016-04-26' time='13:44:40'>
+Scusate	NOM	unknown
+</text>
+<text id='v247' author='Patrizio' date='2016-04-26' time='13:45:12'>
+Guardate	NOM	guardata
+la	DET:def	il
+foto	NOM	foto
+Silvio	NPR	Silvio
+è	NOM	unknown
+identica	ADJ	identico
+a	PRE	a
+21	NUM	@card@
+anni	NOM	anno
+fa	VER:pres	fare
+</text>
+<text id='v248' author='Patrizio' date='2016-04-26' time='13:45:20'>
+Impressionante	NOM	unknown
+</text>
+<text id='v249' author='Patrizio' date='2016-04-26' time='13:45:56'>
+Per	NOM	unknown
+Tommaso	NPR	Tommaso
+non	ADV	non
+possiamo	VER:pres	potere
+dire	VER:infi	dire
+lo	DET:def	il
+stesso	ADJ	stesso
+</text>
+<text id='v250' author='Silvio' date='2016-04-26' time='13:47:30'>
+☺☺☺	NOM	unknown
+</text>
+<text id='v251' author='Marta' date='2016-04-26' time='13:48:19'>
+Ah	NOM	unknown
+!	SENT	!
+Ecco	ADV	ecco
+!	SENT	!
+</text>
+<text id='v252' author='Marta' date='2016-04-26' time='13:48:21'>
+Ora	ADV	ora
+si	PRO:refl	si
+</text>
+<text id='v253' author='Patrizio' date='2016-04-26' time='13:49:03'>
+Meno	VER:impe	unknown
+male	ADV	male
+che	PRO:rela	che
+c'	PRO:demo	c'
+è	NOM	unknown
+Marta	NPR	Marta
+</text>
+<text id='v254' author='Filippa' date='2016-04-26' time='13:49:05'>
+Waaaaaammm	NOM	unknown
+bellissimi	ADJ	bello
+!	SENT	!
+!	PON	!
+!	SENT	!
+Auguri	NOM	augurio
+😘	NOM	unknown
+</text>
+<text id='v255' author='Patrizio' date='2016-04-26' time='13:49:20'>
+rossi	ADJ	rosso
+non	ADV	non
+fartela	VER:infi	fare
+scappare	VER:infi	scappare
+!	SENT	!
+</text>
+<text id='v256' author='Silvio' date='2016-04-26' time='13:49:50'>
+Grazie	ADV	grazie
+troppo	ADV	troppo
+buoni	ADJ	buono
+!	SENT	!
+💘💘	NOM	unknown
+</text>
+<text id='v257' author='Benedetta' date='2016-04-26' time='13:52:25'>
+<‎audio omesso>
+</text>
+<text id='v258' author='Benedetta' date='2016-04-26' time='13:52:52'>
+Silvio	NPR	Silvio
+</text>
+<text id='v259' author='Benedetta' date='2016-04-26' time='13:53:17'>
+Gli	NOM	unknown
+auguri	NOM	augurio
+di	PRE	di
+Serena	NPR	Serena
+sono	VER:pres	essere
+per	PRE	per
+te	PRO:pers	te
+!	SENT	!
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v260' author='Silvio' date='2016-04-26' time='14:24:46'>
+<‎audio omesso>
+</text>
+<text id='v261' author='Daniele' date='2016-04-26' time='14:30:44'>
+Il	DET:def	il
+giorno	NOM	giorno
+dopo	PRE	dopo
+la	DET:def	il
+liberazione	NOM	liberazione
+?	SENT	?
+</text>
+<text id='v262' author='Daniele' date='2016-04-26' time='14:30:53'>
+Auguroni	NOM	unknown
+</text>
+<text id='v263' author='Silvio' date='2016-04-26' time='14:58:29'>
+Si	NOM	si
+...	PON	...
+l'	DET:def	il
+occupazione	NOM	occupazione
+!	SENT	!
+</text>
+<text id='v264' author='Alessandro' date='2016-04-29' time='09:33:47'>
+OK	INT	ok
+scusami	VER:impe	scusare
+Patrizio	NPR	Patrizio
+.	SENT	.
+Però	NOM	unknown
+tu	PRO:pers	tu
+sei	VER:pres	essere
+un	DET:indef	un
+po	ADJ	unknown
+monello	NOM	monello
+con	PRE	con
+me	PRO:pers	me
+.	SENT	.
+🇮🇹🇮🇹🇮🇹	NOM	unknown
+Alessandro	NPR	Alessandro
+.	SENT	.
+Ciao	INT	ciao
+</text>
+<text id='v265' author='Alessandro' date='2016-04-29' time='14:17:31'>
+Se	NOM	se
+noi	PRO:pers	noi
+tifosi	ADJ	tifoso
+della	PRE:det	del
+Juventus	NPR	Juventus
+siamo	VER:pres	essere
+forti	ADJ	forte
+.	SENT	.
+Perché	NOM	unknown
+.	SENT	.
+Ti	VER:impe	torre
+da	PRE	da
+fastidio	NOM	fastidio
+così	ADJ	unknown
+tanto	CON	tanto
+la	DET:def	il
+Juventus	NPR	Juventus
+.	SENT	.
+Alessandro	NPR	Alessandro
+il	DET:def	il
+tuo	PRO:poss	tuo
+amico	NOM	amico
+.	SENT	.
+</text>
+<text id='v266' author='Alessandro' date='2016-04-29' time='14:18:25'>
+⚽⚽⚽⚽⚽	NOM	unknown
+</text>
+<text id='v267' author='Alessandro' date='2016-05-01' time='08:38:16'>
+Oggi	NOM	oggi
+è	NOM	unknown
+il	DET:def	il
+primo	ADJ	primo
+maggio	NOM	maggio
+.	SENT	.
+È	NOM	unknown
+la	DET:def	il
+festa	NOM	festa
+di	PRE	di
+Alessandro	NPR	Alessandro
+andrulli	ADJ	unknown
+.	SENT	.
+Dobbiamo	VER:pres	dovere
+dare	VER:infi	dare
+gli	DET:def	il
+auguri	NOM	augurio
+.	SENT	.
+</text>
+<text id='v268' author='Alessandro' date='2016-05-01' time='10:57:31'>
+Caro	ADJ	caro
+amico	NOM	amico
+Patrizio	NPR	Patrizio
+.	SENT	.
+Che	PRO:rela	che
+ti	PRO:pers	ti
+mangi	VER:cpre	mangiare
+oggi	ADV	oggi
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v269' author='Patrizio' date='2016-05-01' time='10:59:08'>
+Il	DET:def	il
+brodo	NOM	brodo
+</text>
+<text id='v270' author='Patrizio' date='2016-05-01' time='10:59:15'>
+Con	VER:pres	unknown
+le	DET:def	il
+lumache	NOM	lumaca
+</text>
+<text id='v271' author='Alessandro' date='2016-05-01' time='11:00:34'>
+Buono	NOM	buono
+.	SENT	.
+io	PRO:pers	io
+invece	ADV	invece
+la	DET:def	il
+pasta	NOM	pasta
+al	PRE:det	al
+forno	NOM	forno
+.	SENT	.
+</text>
+<text id='v272' author='Alessandro' date='2016-05-01' time='11:01:46'>
+È	NOM	unknown
+ciò	ADJ	unknown
+ospiti	ADJ	ospite
+a	PRE	a
+casa	NOM	casa
+.	SENT	.
+Cioè	NOM	unknown
+mia	PRO:poss	mio
+sorella	ADJ	sorella
+è	NOM	unknown
+nipoti	NOM	nipote
+.	SENT	.
+</text>
+<text id='v273' author='Patrizio' date='2016-05-01' time='11:03:51'>
+Posso	VER:pres	potere
+venire	VER:infi	venire
+anch'io	VER:geru	unknown
+?	SENT	?
+</text>
+<text id='v274' author='Daniele' date='2016-05-01' time='11:06:00'>
+Tutti	PRO:indef	tutto
+a	PRE	a
+casa	NOM	casa
+Rossi	NPR	Rossi
+</text>
+<text id='v275' author='Alessandro' date='2016-05-01' time='11:06:19'>
+Solo	NOM	solo
+se	CON	se
+porti	VER:cpre	portare
+le	DET:def	il
+mie	PRO:poss	mio
+amiche	NOM	amica
+Valeria	NPR	Valeria
+è	NOM	unknown
+Marta	NPR	Marta
+.	SENT	.
+A	PRE	a
+13:30	NUM	@card@
+</text>
+<text id='v276' author='Alessandro' date='2016-05-01' time='11:08:28'>
+Cosi	NOM	coso
+poi	ADV	poi
+andiamo	VER:cpre	andare
+a	PRE	a
+venusio	ADJ	unknown
+.	SENT	.
+Per	PRE	per
+farci	VER:infi	fare
+una	DET:indef	una
+passeggiata	NOM	passeggiata
+.	SENT	.
+</text>
+<text id='v277' author='Alessandro' date='2016-05-01' time='11:10:21'>
+io	PRO:pers	io
+con	PRE	con
+Marta	NPR	Marta
+e	CON	e
+tu	NOM	tu
+con	PRE	con
+Valeria	NPR	Valeria
+.	SENT	.
+</text>
+<text id='v278' author='Valeria' date='2016-05-01' time='11:23:33'>
+Nee	VER:impe	unknown
+</text>
+<text id='v279' author='Marta' date='2016-05-01' time='12:24:56'>
+😄😄😄😄	NOM	unknown
+</text>
+<text id='v280' author='Marta' date='2016-05-01' time='12:25:09'>
+Una	NOM	unknown
+passeggiata	VER:pper	passeggiare
+sotto	ADV	sotto
+la	DET:def	il
+pioggia	NOM	pioggia
+</text>
+<text id='v281' author='Marta' date='2016-05-01' time='12:25:19'>
+Mi	NOM	unknown
+dispiace	VER:pres	dispiacere
+</text>
+<text id='v282' author='Marta' date='2016-05-01' time='12:25:36'>
+Sono	VER:infi	unknown
+impegnata	VER:pper	impegnare
+☔☔☔☔	NOM	unknown
+</text>
+<text id='v283' author='Daniele' date='2016-05-01' time='12:26:09'>
+Chi	NOM	unknown
+con	PRE	con
+Valeria	NPR	Valeria
+?	SENT	?
+</text>
+<text id='v284' author='Vittoria' date='2016-05-01' time='12:33:01'>
+Alessandro	NPR	Alessandro
+e	CON	e
+le	DET:def	il
+altre	ADJ	altro
+ragazze	NOM	ragazza
+non	ADV	non
+le	DET:def	il
+saluti	NOM	salute|saluto
+?	SENT	?
+</text>
+<text id='v285' author='Alessandro' date='2016-05-02' time='16:52:04'>
+Amici	NOM	amico
+miei	PRO:poss	mio
+mettete	VER:pres	mettere
+a	PRE	a
+TRM	NOM	unknown
+111	NUM	@card@
+.	SENT	.
+Si	PRO:pers	si
+farà	VER:impe	unknown
+vedere	VER:infi	vedere
+renzi	NOM	unknown
+.	SENT	.
+A	PRE	a
+Matera	NPR	Matera
+</text>
+<text id='v286' author='Alessandro' date='2016-05-03' time='08:45:49'>
+ieri	ADV	ieri
+pomeriggio	NOM	pomeriggio
+.	SENT	.
+Stava	VER:impf	stare
+Matteo	NPR	Matteo
+renzi	VER:impe	unknown
+.	SENT	.
+A	PRE	a
+Matera	NPR	Matera
+.	SENT	.
+Chi	PRO:rela	chi
+la	DET:def	il
+visto	NOM	visto
+.	SENT	.
+Dal	PRE:det	dal
+vivo	NOM	vivo
+me	PRO:pers	me
+lo	PRO:pers	lo
+dice	VER:pres	dire
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v287' author='Daniele' date='2016-05-03' time='11:29:33'>
+Io	PRO:pers	io
+ero	VER:impf	essere
+a	PRE	a
+fischiarlo	VER:infi	fischiare
+</text>
+<text id='v288' author='Patrizio' date='2016-05-03' time='11:41:43'>
+Io	NOM	unknown
+aspetto	VER:pres	aspettare
+la	DET:def	il
+boschi	NOM	bosco
+</text>
+<text id='v289' author='Alessandro' date='2016-05-03' time='15:39:38'>
+Chi	NOM	unknown
+è	NOM	unknown
+la	DET:def	il
+boschi	NOM	bosco
+.	SENT	.
+Caro	ADJ	caro
+amico	NOM	amico
+tarasco	NOM	unknown
+.	SENT	.
+</text>
+<text id='v290' author='Alessandro' date='2016-05-03' time='15:42:27'>
+Lo	PRO:pers	lo
+sciupa	VER:pres	sciupare
+femmine	NOM	femmina
+.	SENT	.
+Di	PRE	di
+Matera	NPR	Matera
+è	NOM	unknown
+della	PRE:det	del
+murgia	NOM	unknown
+.	SENT	.
+</text>
+<text id='v291' author='Alessandro' date='2016-05-04' time='09:55:11'>
+Lasciami	VER:impe	lasciare
+almeno	ADV	almeno
+.	SENT	.
+Una	DET:indef	una
+al	PRE:det	al
+caso	NOM	caso
+.	SENT	.
+Ad	PRE	ad
+esempio	NOM	esempio
+Marta	NPR	Marta
+.	SENT	.
+Ti	PRO:pers	ti
+prego	VER:pres	pregare
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v292' author='Alessandro' date='2016-05-04' time='09:59:22'>
+È	NOM	unknown
+anche	ADV	anche
+Valeria	NPR	Valeria
+.	SENT	.
+Le	DET:def	il
+mie	PRO:poss	mio
+amiche	NOM	amica
+del	PRE:det	del
+❤❤❤	NOM	unknown
+saro	ADJ	unknown
+contentissimo	ADJ	contento
+.	SENT	.
+</text>
+<text id='v293' author='Valeria' date='2016-05-04' time='11:06:41'>
+Grazie	ADV	grazie
+Alessandro	NPR	Alessandro
+</text>
+<text id='v294' author='Daniele' date='2016-05-04' time='11:14:05'>
+Buongustaio	NOM	buongustaio
+</text>
+<text id='v295' author='Alessandro' date='2016-05-06' time='09:00:55'>
+Meno	ABR	unknown
+2	NUM	@card@
+giornate	NOM	giornata
+di	PRE	di
+campionato	NOM	campionato
+.	SENT	.
+È	NOM	unknown
+poi	ADV	poi
+amico	ADJ	amico
+Patrizio	NPR	Patrizio
+.	SENT	.
+Puoi	VER:pres	potere
+dire	VER:infi	dire
+forza	NOM	forza
+Juventus	NPR	Juventus
+.	SENT	.
+Per	PRE	per
+una	DET:indef	una
+volta	NOM	volta
+.	SENT	.
+Ti	PRO:pers	ti
+prego	VER:pres	pregare
+.	SENT	.
+</text>
+<text id='v296' author='Alessandro' date='2016-05-09' time='09:26:16'>
+ieri	ADV	ieri
+a	PRE	a
+mezzo	ADJ	mezzo
+giorno	NOM	giorno
+.	SENT	.
+Alessandro	NPR	Alessandro
+andrulli	ADJ	unknown
+.	SENT	.
+Era	NOM	era
+rimasto	VER:pper	rimanere
+senza	PRE	senza
+benzina	NOM	benzina
+.	SENT	.
+È	NOM	unknown
+per	PRE	per
+colpa	NOM	colpa
+sua	PRO:poss	suo
+io	PRO:pers	io
+.	SENT	.
+Sono	VER:pres	essere
+stato	VER:pper	essere|stare
+rimproverato	VER:pper	rimproverare
+da	PRE	da
+mia	PRO:poss	mio
+madre	NOM	madre
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v297' author='Alessandro' date='2016-05-09' time='09:28:18'>
+Perché	NOM	unknown
+io	PRO:pers	io
+avevo	VER:impf	avere
+detto	VER:pper	dire
+a	PRE	a
+Alessandro	NPR	Alessandro
+.	SENT	.
+Che	CON	che
+per	PRE	per
+13:30	NUM	@card@
+dovevo	VER:impf	dovere
+stare	VER:infi	stare
+a	PRE	a
+casa	NOM	casa
+.	SENT	.
+</text>
+<text id='v298' author='Alessandro' date='2016-05-09' time='12:14:40'>
+Mo	ADV	mo'
+Patrizio	NPR	Patrizio
+se	CON	se
+percaso	NOM	unknown
+.	SENT	.
+Lo	PRO:pers	lo
+trovi	VER:pres	trovare
+non	ADV	non
+dire	VER:infi	dire
+che	PRO:rela	che
+ti	VER:pres	torre
+detto	VER:pper	dire
+questa	PRO:demo	questo
+cosa	NOM	cosa
+fai	VER:pres	fare
+finta	VER:pper	fingere
+di	PRE	di
+niente	PRO:indef	niente
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v299' author='Patrizio' date='2016-05-09' time='12:17:59'>
+Peccato	NOM	peccato
+che	PRO:rela	che
+non	ADV	non
+sono	VER:pres	essere
+passato	VER:pper	passare
+di	PRE	di
+lo	DET:def	il
+ieri	ADV	ieri
+</text>
+<text id='v300' author='Patrizio' date='2016-05-09' time='12:18:16'>
+Altrimenti	NOM	unknown
+come	CON	come
+al	PRE:det	al
+solito	NOM	solito
+ti	PRO:pers	ti
+davo	VER:impf	dare
+un	DET:indef	un
+passaggio	NOM	passaggio
+io	PRO:pers	io
+</text>
+<text id='v301' author='Alessandro' date='2016-05-10' time='17:25:29'>
+Amico	NOM	amico
+Patrizio	NPR	Patrizio
+tu	NOM	tu
+per	PRE	per
+me	PRO:pers	me
+sei	ADJ	sei
+come	CON	come
+.	SENT	.
+Un	DET:indef	un
+fratello	NOM	fratello
+maggiore	ADJ	grande
+.	SENT	.
+</text>
+<text id='v302' author='Alessandro' date='2016-05-12' time='08:10:11'>
+Però	NOM	unknown
+mi	PRO:pers	mi
+devi	VER:pres	dovere
+far	VER:infi	fare
+uscire	VER:infi	uscire
+.	SENT	.
+Con	PRE	con
+2	NUM	@card@
+ragazze	NOM	ragazza
+.	SENT	.
+Sabato	NOM	sabato
+sera	NOM	sera
+alle	PRE:det	al
+20:30	NUM	@card@
+.	SENT	.
+Ciao	INT	ciao
+amico	NOM	amico
+.	SENT	.
+</text>
+<text id='v303' author='Alessandro' date='2016-05-15' time='09:07:04'>
+Perché	NOM	unknown
+.	SENT	.
+Non	ADV	non
+ai	PRE:det	al
+risposto	VER:pper	rispondere
+?	SENT	?
+Amico	NOM	amico
+Patrizio	NPR	Patrizio
+.	SENT	.
+</text>
+<text id='v304' author='Patrizio' date='2016-05-15' time='09:07:59'>
+Perché	NOM	unknown
+le	DET:def	il
+ragazze	NOM	ragazza
+non	ADV	non
+volevano	VER:impf	volere
+uscire	VER:infi	uscire
+con	PRE	con
+me	PRO:pers	me
+.	SENT	.
+</text>
+<text id='v305' author='Patrizio' date='2016-05-15' time='09:08:18'>
+Forse	ADV	forse
+sono	VER:pres	essere
+uscite	VER:pper	uscire
+con	PRE	con
+daniele	VER:impe	unknown
+</text>
+<text id='v306' author='Benedetta' date='2016-05-18' time='23:35:05'>
+Ciao	NOM	unknown
+ragazzi	NOM	ragazzo
+</text>
+<text id='v307' author='Daniele' date='2016-05-18' time='23:35:32'>
+Ciao	NOM	unknown
+</text>
+<text id='v308' author='Benedetta' date='2016-05-18' time='23:35:39'>
+Chi	NOM	unknown
+di	PRE	di
+voi	PRO:pers	voi
+sarebbe	VER:cond	essere
+disponibile	ADJ	disponibile
+per	PRE	per
+una	DET:indef	una
+guida	NOM	guida
+per	PRE	per
+4	NUM	@card@
+persone	NOM	persona
+sabato	NOM	sabato
+pomeriggio	NOM	pomeriggio
+o	CON	o
+domenica	NOM	domenica
+mattina	NOM	mattina
+?	SENT	?
+</text>
+<text id='v309' author='Daniele' date='2016-05-18' time='23:36:43'>
+Grazie	ADV	grazie
+ma	CON	ma
+io	PRO:pers	io
+sono	VER:pres	essere
+già	NOM	unknown
+impegnato	VER:pper	impegnare
+</text>
+<text id='v310' author='Benedetta' date='2016-05-18' time='23:36:48'>
+Avrei	VER:cond	avere
+bisogno	NOM	bisogno
+di	PRE	di
+conoscere	VER:infi	conoscere
+disponibilità	NOM	unknown
+e	CON	e
+costi	NOM	costo
+</text>
+<text id='v311' author='Benedetta' date='2016-05-18' time='23:37:01'>
+👍	NOM	unknown
+</text>
+<text id='v312' author='Benedetta' date='2016-05-18' time='23:37:12'>
+Gli	NOM	unknown
+altri	ADJ	altro
+?	SENT	?
+</text>
+<text id='v313' author='Benedetta' date='2016-05-18' time='23:37:32'>
+Grazie	ADV	grazie
+Daniele	NPR	Daniele
+per	PRE	per
+la	DET:def	il
+tua	PRO:poss	tuo
+celerità	ADJ	unknown
+</text>
+<text id='v314' author='Marta' date='2016-05-18' time='23:45:28'>
+Anch'io	NOM	unknown
+già	NOM	unknown
+impegnata	ADJ	impegnato
+</text>
+<text id='v315' author='Silvio' date='2016-05-19' time='09:44:01'>
+io	PRO:pers	io
+con	PRE	con
+ospiti	ADJ	ospite
+parenti	NOM	parente
+!	SENT	!
+</text>
+<text id='v316' author='Alessandro' date='2016-05-20' time='14:49:11'>
+Amico	NOM	amico
+Patrizio	NPR	Patrizio
+dici	VER:pres	dire
+a	PRE	a
+Benedetta	NOM	benedetta
+la	DET:def	il
+moglie	NOM	moglie
+di	PRE	di
+stacchio	NOM	unknown
+.	SENT	.
+Di	PRE	di
+far	VER:infi	fare
+venire	VER:infi	venire
+adduce	VER:pres	addurre
+ex	ADJ	ex
+sindaco	NOM	sindaco
+.	SENT	.
+</text>
+<text id='v317' author='Alessandro' date='2016-05-20' time='14:51:22'>
+Per	PRE	per
+fare	VER:infi	fare
+la	DET:def	il
+guida	NOM	guida
+turistica	ADJ	turistico
+.	SENT	.
+Per	PRE	per
+sabato	NOM	sabato
+è	NOM	unknown
+domenica	NOM	domenica
+.	SENT	.
+Ciao	INT	ciao
+Patrizio	NPR	Patrizio
+da	PRE	da
+Alessandro	NPR	Alessandro
+</text>
+<text id='v318' author='Alessandro' date='2016-05-24' time='08:19:49'>
+Chi	VER:impe	unknown
+è	NOM	unknown
+libera	ADJ	libero
+il	DET:def	il
+sabato	NOM	sabato
+sera	NOM	sera
+.	SENT	.
+Per	PRE	per
+uscire	VER:infi	uscire
+con	PRE	con
+me	PRO:pers	me
+?	SENT	?
+Alessandro	NPR	Alessandro
+😘😘😘	NOM	unknown
+</text>
+<text id='v319' author='Alessandro' date='2016-05-24' time='08:21:09'>
+Amiche	NOM	amica
+mie	PRO:poss	mio
+fatemi	VER:impe	fare
+👍👍👍	NOM	unknown
+</text>
+<text id='v320' author='Alessandro' date='2016-05-26' time='10:23:07'>
+Vi	NOM	unknown
+prego	NOM	prego
+.	SENT	.
+Sono	VER:pres	essere
+un	DET:indef	un
+bravo	ADJ	bravo
+ragazzo	NOM	ragazzo
+.	SENT	.
+È	NOM	unknown
+anche	ADV	anche
+buono	ADJ	buono
+.	SENT	.
+😘😘😘	NOM	unknown
+a	PRE	a
+tutte	ADJ	tutto
+voi	NOM	voi
+.	SENT	.
+Da	PRE	da
+Alessandro	NPR	Alessandro
+</text>
+<text id='v321' author='Alessandro' date='2016-05-27' time='17:12:04'>
+Vi	NOM	unknown
+voglio	VER:pres	volere
+bene	ADV	bene
+tanto	ADV	tanto
+.	SENT	.
+❤❤❤❤	NOM	unknown
+</text>
+<text id='v322' author='Patrizio' date='2016-05-27' time='17:20:46'>
+Alessandro	NPR	Alessandro
+preparati	VER:pper	preparare
+per	PRE	per
+l	VER:impe	unknown
+'	PON	'
+11	NUM	@card@
+giugno	NOM	giugno
+</text>
+<text id='v323' author='Alessandro' date='2016-05-27' time='17:22:09'>
+Per	NOM	unknown
+che	CON	che
+cosa	NOM	cosa
+.	SENT	.
+Mi	PRO:pers	mi
+devo	VER:pres	dovere
+preparare	VER:infi	preparare
+.	SENT	.
+Amico	NOM	amico
+Patrizio	NPR	Patrizio
+.	SENT	.
+</text>
+<text id='v324' author='Alessandro' date='2016-05-27' time='17:27:02'>
+Sto	VER:pres	stare
+di	PRE	di
+compleanno	NOM	compleanno
+.	SENT	.
+Non	ADV	non
+posso	VER:pres	potere
+.	SENT	.
+</text>
+<text id='v325' author='Silvio' date='2016-05-27' time='18:01:11'>
+é	NOM	unknown
+la	DET:def	il
+festa	NOM	festa
+della	PRE:det	del
+Transumanza	NOM	transumanza
+!	SENT	!
+</text>
+<text id='v326' author='Alessandro' date='2016-05-30' time='16:40:55'>
+Amico	NOM	amico
+Patrizio	NPR	Patrizio
+che	PRO:rela	che
+sta	VER:pres	stare
+facendo	VER:geru	fare
+mio	PRO:poss	mio
+nipote	NOM	nipote
+nunzio	NOM	nunzio
+santeramo	NOM	unknown
+.	SENT	.
+</text>
+<text id='v327' author='Patrizio' date='2016-05-30' time='16:43:52'>
+Non	ADV	non
+lo	PRO:pers	lo
+conosco	VER:pres	conoscere
+</text>
+<text id='v328' author='Alessandro' date='2016-06-05' time='11:13:40'>
+Amico	NOM	amico
+Patrizio	NPR	Patrizio
+.	SENT	.
+Fatti	VER:pper	fare
+una	DET:indef	una
+foto	NOM	foto
+com	NOM	unknown
+tua	PRO:poss	tuo
+moglie	NOM	moglie
+è	NOM	unknown
+Luigi	NPR	Luigi
+.	SENT	.
+Tuo	PRO:poss	tuo
+figlio	NOM	figlio
+.	SENT	.
+❤❤❤❤	NOM	unknown
+</text>
+<text id='v329' author='Alessandro' date='2016-06-05' time='11:22:14'>
+Amico	NOM	amico
+Patrizio	NPR	Patrizio
+fatti	VER:pper	fare
+una	DET:indef	una
+foto	NOM	foto
+con	PRE	con
+tua	PRO:poss	tuo
+moglie	NOM	moglie
+è	NOM	unknown
+Luigi	NPR	Luigi
+.	SENT	.
+Tuo	PRO:poss	tuo
+figlio	NOM	figlio
+.	SENT	.
+❤❤❤❤	NOM	unknown
+Alessandro	NPR	Alessandro
+</text>
+<text id='v330' author='Patrizio' date='2016-06-05' time='20:17:24'>
+<‎immagine omessa>
+</text>
+<text id='v331' author='Patrizio' date='2016-06-05' time='20:17:30'>
+Io	NOM	unknown
+sono	VER:pres	essere
+il	DET:def	il
+bruco	NOM	bruco
+</text>
+<text id='v332' author='Patrizio' date='2016-06-05' time='20:17:42'>
+Ciao	NOM	unknown
+Alessandro	NPR	Alessandro
+</text>
+<text id='v333' author='Daniele' date='2016-06-05' time='20:19:52'>
+Come	NOM	come
+cresce	VER:pres	crescere
+quel	PRO:demo	quello
+figlio	NOM	figlio
+</text>
+<text id='v334' author='Alessandro' date='2016-06-06' time='08:31:11'>
+Amiche	NOM	amica
+mie	PRO:poss	mio
+.	SENT	.
+Del	PRE:det	del
+❤❤❤❤	NOM	unknown
+siete	VER:pres	essere
+belle	ADJ	bello
+come	PRE	come
+una	DET:indef	una
+🌹🌹🌹	NOM	unknown
+dal	PRE:det	dal
+vostro	PRO:poss	vostro
+amico	NOM	amico
+Alessandro	NPR	Alessandro
+</text>
+<text id='v335' author='Marta' date='2016-06-06' time='09:07:40'>
+Buongiorno	NOM	buongiorno
+</text>
+<text id='v336' author='Marta' date='2016-06-06' time='09:07:46'>
+Grazie	NOM	grazia
+Alessandro	NPR	Alessandro
+</text>
+<text id='v337' author='Marta' date='2016-06-06' time='09:08:15'>
+Quant'è	NOM	unknown
+bello	ADJ	bello
+Luigi	NPR	Luigi
+!	SENT	!
+☺	NOM	unknown
+</text>
+<text id='v338' author='Marta' date='2016-06-06' time='09:08:21'>
+E	NOM	unknown
+anche	ADV	anche
+la	DET:def	il
+mamma	NOM	mamma
+</text>
+<text id='v339' author='Filippa' date='2016-06-06' time='09:09:13'>
+Beeeellissimi	ADJ	unknown
+!	SENT	!
+</text>
+<text id='v340' author='Daniele' date='2016-06-06' time='09:10:29'>
+Le	DET:def	il
+nostre	PRO:poss	nostro
+amiche	NOM	amica
+sono	VER:pres	essere
+belle	ADJ	bello
+come	CON	come
+il	DET:def	il
+bruco	NOM	bruco
+Patrizio	NPR	Patrizio
+</text>
+<text id='v341' author='Marta' date='2016-06-06' time='09:10:50'>
+🐛🐛🐛🐛🐛	NOM	unknown
+</text>
+<text id='v342' author='Daniele' date='2016-06-06' time='11:16:52'>
+<‎immagine omessa>
+</text>
+<text id='v343' author='Filippa' date='2016-06-06' time='11:18:09'>
+😂😂😂	NOM	unknown
+</text>
+<text id='v344' author='Marta' date='2016-06-06' time='11:19:38'>
+😂😂😂😂	NOM	unknown
+</text>
+<text id='v345' author='Daniele' date='2016-06-06' time='12:07:47'>
+<‎immagine omessa>
+</text>
+<text id='v346' author='Daniele' date='2016-06-06' time='12:08:21'>
+<‎immagine omessa>
+</text>
+<text id='v347' author='Filippa' date='2016-06-06' time='12:09:42'>
+Ce	NOM	unknown
+taiotr	ADJ	unknown
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v348' author='Filippa' date='2016-06-06' time='12:09:48'>
+😍	NOM	unknown
+</text>
+<text id='v349' author='Marta' date='2016-06-06' time='12:18:03'>
+😄	NOM	unknown
+</text>
+<text id='v350' author='Silvio' date='2016-06-06' time='12:50:16'>
+🤗🤗🤗🌺	NOM	unknown
+</text>
+<text id='v351' author='Alessandro' date='2016-06-06' time='14:51:07'>
+non	ADV	non
+è	NOM	unknown
+vero	ADJ	vero
+.	SENT	.
+Assomiglia	VER:pres	assomigliare
+a	PRE	a
+moratti	ADJ	unknown
+.	SENT	.
+Ex	ADJ	ex
+presidente	NOM	presidente
+del	PRE:det	del
+inter	NOM	unknown
+.	SENT	.
+Quel	PRO:demo	quello
+pupazzo	NOM	pupazzo
+.	SENT	.
+</text>
+<text id='v352' author='Alessandro' date='2016-06-07' time='08:15:19'>
+È	NOM	unknown
+anche	ADV	anche
+un	DET:indef	un
+po	NOM	unknown
+a	PRE	a
+mio	PRO:poss	mio
+zio	NOM	zio
+Piero	NPR	Piero
+.	SENT	.
+il	DET:def	il
+fratello	NOM	fratello
+piccolo	ADJ	piccolo
+di	PRE	di
+mia	PRO:poss	mio
+madre	NOM	madre
+.	SENT	.
+</text>
+<text id='v353' author='Alessandro' date='2016-06-08' time='08:17:18'>
+Quando	CON	quando
+sono	VER:pres	essere
+belle	ADJ	bello
+le	DET:def	il
+femmine	NOM	femmina
+.	SENT	.
+il	DET:def	il
+lo	PRO:pers	lo
+sempre	ADV	sempre
+detto	VER:pper	dire
+a	PRE	a
+mio	PRO:poss	mio
+zio	NOM	zio
+Piero	NPR	Piero
+.	SENT	.
+lui	PRO:pers	lui
+non	ADV	non
+è	NOM	unknown
+d'	PRE	d'
+accordo	NOM	accordo
+.	SENT	.
+</text>
+<text id='v354' author='Daniele' date='2016-06-08' time='08:18:45'>
+<‎immagine omessa>
+</text>
+<text id='v355' author='Daniele' date='2016-06-08' time='08:19:05'>
+Sono	VER:pres	essere
+come	CON	come
+il	DET:def	il
+vino	NOM	vino
+</text>
+<text id='v356' author='Marta' date='2016-06-08' time='08:24:14'>
+😂😂😂😂	NOM	unknown
+</text>
+<text id='v357' author='Filippa' date='2016-06-08' time='08:29:47'>
+Sembro	NOM	unknown
+ubriaca	ADJ	ubriaco
+io	PRO:pers	io
+😂😂	NOM	unknown
+</text>
+<text id='v358' author='Marta' date='2016-06-08' time='08:34:52'>
+E	NOM	unknown
+con	PRE	con
+la	DET:def	il
+parrucca	NOM	parrucca
+😄	NOM	unknown
+</text>
+<text id='v359' author='Filippa' date='2016-06-08' time='08:36:52'>
+Andavo	VER:impf	andare
+fiera	ADJ	fiero
+dei	PRE:det	del
+miei	PRO:poss	mio
+ricci	NOM	riccio
+scompigliati	VER:pper	scompigliare
+...	PON	...
+😅	NOM	unknown
+</text>
+<text id='v360' author='Daniele' date='2016-06-08' time='08:44:18'>
+Ele	NOM	unknown
+lo	PRO:pers	lo
+eri	VER:impf	essere
+ubriaca	ADJ	ubriaco
+.	SENT	.
+Ti	PRO:pers	ti
+sei	VER:pres	essere
+fatta	VER:pper	fare
+mezzo	ADJ	mezzo
+litro	NOM	litro
+di	PRE	di
+vino	NOM	vino
+quella	PRO:demo	quello
+sera	NOM	sera
+solo	ADV	solo
+tu	PRO:pers	tu
+</text>
+<text id='v361' author='Alessandro' date='2016-06-08' time='08:44:39'>
+Ma	VER:impe	unknown
+camin	NOM	unknown
+.	SENT	.
+Daniele	NPR	Daniele
+che	PRO:rela	che
+sono	VER:pres	essere
+belle	ADJ	bello
+lo	DET:def	il
+stesso	ADJ	stesso
+.	SENT	.
+Anche	ADV	anche
+6	NUM	@card@
+anni	NOM	anno
+dopo	ADJ	dopo
+.	SENT	.
+</text>
+<text id='v362' author='Daniele' date='2016-06-08' time='08:45:48'>
+Lo	PRO:pers	lo
+dico	VER:pres	dire
+sempre	ADV	sempre
+.	SENT	.
+Sono	VER:pres	essere
+come	CON	come
+il	DET:def	il
+vino	NOM	vino
+.	SENT	.
+Migliorano	VER:pres	migliorare
+sempre	ADV	sempre
+</text>
+<text id='v363' author='Alessandro' date='2016-06-08' time='08:46:50'>
+Mo	NOM	unknown
+si	PRO:pers	si
+.	SENT	.
+Che	CON	che
+ai	PRE:det	al
+ragione	NOM	ragione
+.	SENT	.
+Amico	NOM	amico
+Daniele	NPR	Daniele
+.	SENT	.
+</text>
+<text id='v364' author='Daniele' date='2016-06-08' time='08:47:47'>
+Solo	ADV	solo
+la	PRO:pers	la
+Paterala	VER:impe	unknown
+è	NOM	unknown
+andata	ADJ	andato
+Aceto	NOM	aceto
+</text>
+<text id='v365' author='Alessandro' date='2016-06-08' time='08:49:56'>
+Che	NPR	Che
+peccato	VER:pper	peccare
+alla	PRE:det	al
+paterala	NOM	unknown
+.	SENT	.
+È	NOM	unknown
+brava	ADJ	bravo
+quando	CON	quando
+non	ADV	non
+c'	PRO:demo	c'
+è	NOM	unknown
+Patrizio	NPR	Patrizio
+.	SENT	.
+</text>
+<text id='v366' author='Alessandro' date='2016-06-08' time='08:52:56'>
+Amico	NOM	amico
+Daniele	NPR	Daniele
+dici	VER:pres	dire
+a	PRE	a
+Patrizio	NPR	Patrizio
+di	PRE	di
+tagliarsi	VER:infi	tagliare
+i	DET:def	il
+capelli	NOM	capello
+dal	PRE:det	dal
+barbiere	NOM	barbiere
+.	SENT	.
+Cioè	NOM	unknown
+da	PRE	da
+mio	PRO:poss	mio
+zio	NOM	zio
+Tonino	NPR	Tonino
+.	SENT	.
+</text>
+<text id='v367' author='Daniele' date='2016-06-08' time='08:53:49'>
+Lo	DET:def	il
+dirò	ADJ	unknown
+</text>
+<text id='v368' author='Marta' date='2016-06-08' time='08:54:38'>
+😠😠😠😠	NOM	unknown
+</text>
+<text id='v369' author='Marta' date='2016-06-08' time='08:54:42'>
+😡😡😡😡😡	NOM	unknown
+</text>
+<text id='v370' author='Marta' date='2016-06-08' time='08:54:48'>
+😤😤😤😤😤😤😤	NOM	unknown
+</text>
+<text id='v371' author='Patrizio' date='2016-06-08' time='09:03:35'>
+Io	NOM	unknown
+vado	VER:pres	andare
+dalla	PRE:det	dal
+parrucchiera	NOM	parrucchiera
+</text>
+<text id='v372' author='Patrizio' date='2016-06-08' time='09:03:47'>
+Non	NOM	unknown
+si	PRO:pers	si
+sa	VER:pres	sapere
+mai	ADV	mai
+con	PRE	con
+i	DET:def	il
+barbieri	NOM	barbiere
+</text>
+<text id='v373' author='Alessandro' date='2016-06-08' time='12:38:43'>
+Quando	VER:geru	unknown
+sei	ADJ	sei
+😁😁😁	NOM	unknown
+Patrizio	NPR	Patrizio
+.	SENT	.
+Forza	NOM	forza
+Luigi	NPR	Luigi
+.	SENT	.
+</text>
+<text id='v374' author='Alessandro' date='2016-06-08' time='12:40:08'>
+io	PRO:pers	io
+è	NOM	unknown
+Patrizio	NPR	Patrizio
+.	SENT	.
+Ciao	INT	ciao
+.	SENT	.
+</text>
+<text id='v375' author='Alessandro' date='2016-06-09' time='08:22:59'>
+Domenica	NOM	domenica
+12	NUM	@card@
+giugno	NOM	giugno
+.	SENT	.
+È	NOM	unknown
+festa	NOM	festa
+di	PRE	di
+uno	NOM	uno
+.	SENT	.
+Che	PRO:rela	che
+voi	PRO:pers	voi
+conoscete	VER:pres	conoscere
+.	SENT	.
+Non	ADV	non
+dico	VER:pres	dire
+il	DET:def	il
+nome	NOM	nome
+ma	CON	ma
+.	SENT	.
+È	NOM	unknown
+il	DET:def	il
+giorno	NOM	giorno
+prima	ADJ	primo
+della	PRE:det	del
+transumanza	NOM	transumanza
+.	SENT	.
+</text>
+<text id='v376' author='Alessandro' date='2016-06-09' time='08:45:29'>
+🎂🎂🎂🎂	NOM	unknown
+❤❤❤❤	NOM	unknown
+</text>
+<text id='v377' author='Alessandro' date='2016-06-10' time='09:10:27'>
+Amici	NOM	amico
+.	SENT	.
+Fate	VER:pres	fare
+ok	NOM	ok
+.	SENT	.
+Se	CON	se
+avete	VER:pres	avere
+capito	VER:pper	capire
+.	SENT	.
+</text>
+<text id='v378' author='Alessandro' date='2016-06-10' time='09:12:23'>
+Fate	NOM	fata
+.	SENT	.
+👍👍👍	NOM	unknown
+grazie	NOM	grazia
+.	SENT	.
+</text>
+<text id='v379' author='Benedetta' date='2016-06-10' time='09:13:00'>
+Patrizio	ADJ	patrizio
+</text>
+<text id='v380' author='Benedetta' date='2016-06-10' time='09:13:33'>
+Confermata	NOM	unknown
+la	DET:def	il
+festa	NOM	festa
+della	PRE:det	del
+Transumanza	NOM	transumanza
+</text>
+<text id='v381' author='Benedetta' date='2016-06-10' time='09:13:38'>
+?	SENT	?
+</text>
+<text id='v382' author='Patrizio' date='2016-06-10' time='22:21:12'>
+Si	PRO:pers	si
+</text>
+<text id='v383' author='Patrizio' date='2016-06-10' time='22:21:37'>
+<‎immagine omessa>
+</text>
+<text id='v384' author='Daniele' date='2016-06-10' time='22:28:05'>
+😍😍😍😍	NOM	unknown
+</text>
+<text id='v385' author='Marta' date='2016-06-10' time='22:29:59'>
+Wau	NOM	unknown
+!	PON	!
+!	SENT	!
+</text>
+<text id='v386' author='Patrizio' date='2016-06-10' time='22:39:17'>
+Dani	VER:impe	unknown
+domani	ADV	domani
+ci	PRO:demo	ci
+sei	ADJ	sei
+?	SENT	?
+</text>
+<text id='v387' author='Daniele' date='2016-06-10' time='22:48:15'>
+Se	PRO:refl	se
+riesco	VER:pres	riuscire
+faccio	VER:pres	fare
+un	DET:indef	un
+salto	NOM	salto
+</text>
+<text id='v388' author='Daniele' date='2016-06-10' time='22:48:23'>
+Cercherò	NOM	unknown
+di	PRE	di
+farlo	VER:infi	fare
+</text>
+<text id='v389' author='Vera' date='2016-06-11' time='08:25:10'>
+Che	NPR	Che
+bello	ADJ	bello
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v390' author='Tommaso' date='2016-06-11' time='21:15:18'>
+<‎immagine omessa>
+</text>
+<text id='v391' author='Silvio' date='2016-06-11' time='22:00:20'>
+altre	PRO:indef	altro
+foto	NOM	foto
+?	SENT	?
+</text>
+<text id='v392' author='Tommaso' date='2016-06-11' time='22:02:51'>
+<‎immagine omessa>
+</text>
+<text id='v393' author='Marta' date='2016-06-11' time='22:08:14'>
+<‎immagine omessa>
+</text>
+<text id='v394' author='Marta' date='2016-06-11' time='22:08:21'>
+Voilà	NOM	unknown
+!	SENT	!
+</text>
+<text id='v395' author='Silvio' date='2016-06-11' time='22:10:13'>
+❤❤	NOM	unknown
+</text>
+<text id='v396' author='Tommaso' date='2016-06-11' time='22:17:14'>
+<‎immagine omessa>
+</text>
+<text id='v397' author='Daniele' date='2016-06-11' time='22:34:55'>
+Mi	NOM	unknown
+ricorda	VER:pres	ricordare
+Manhattan	NPR	Manhattan
+</text>
+<text id='v398' author='Marta' date='2016-06-11' time='22:41:54'>
+Uguale	NOM	uguale
+!	SENT	!
+🌃🌃🌃🌃	NOM	unknown
+</text>
+<text id='v399' author='Tommaso' date='2016-06-11' time='23:01:36'>
+C'	NOM	unknown
+è	NOM	unknown
+di	PRE	di
+tutto	PRO:indef	tutto
+</text>
+<text id='v400' author='Tommaso' date='2016-06-11' time='23:02:23'>
+<‎immagine omessa>
+</text>
+<text id='v401' author='Daniele' date='2016-06-11' time='23:03:03'>
+Manca	NPR	Manca
+però	ADJ	unknown
+il	DET:def	il
+top	NOM	top
+che	PRO:rela	che
+stava	VER:impf	stare
+nei	PRE:det	nel
+sassi	NOM	sasso
+</text>
+<text id='v402' author='Vera' date='2016-06-11' time='23:11:08'>
+Ma	NOM	ma
+si	PRO:pers	si
+sono	VER:pres	essere
+persi	VER:pper	perdere
+?	SENT	?
+</text>
+<text id='v403' author='Alessandro' date='2016-06-12' time='09:21:28'>
+Amici	NOM	amico
+miei	PRO:poss	mio
+che	ADJ	che
+vergogna	NOM	vergogna
+.	SENT	.
+Non	ADV	non
+avete	VER:pres	avere
+dato	VER:pper	dare
+gli	DET:def	il
+auguri	NOM	augurio
+a	PRE	a
+festeggiato	NOM	festeggiato
+.	SENT	.
+😔😔😔😔	NOM	unknown
+Peppino	NPR	Peppino
+Rossi	NPR	Rossi
+.	SENT	.
+</text>
+<text id='v404' author='Marta' date='2016-06-12' time='09:24:38'>
+Auguri	NOM	augurio
+Alessandro	NPR	Alessandro
+</text>
+<text id='v405' author='Daniele' date='2016-06-12' time='09:24:52'>
+Oggi	NOM	oggi
+è	NOM	unknown
+il	DET:def	il
+compleanno	NOM	compleanno
+.	SENT	.
+Dacci	NOM	unknown
+il	DET:def	il
+tempo	NOM	tempo
+di	PRE	di
+svegliarci	VER:infi	svegliare
+😀	NOM	unknown
+</text>
+<text id='v406' author='Daniele' date='2016-06-12' time='09:25:01'>
+Auguri	NOM	augurio
+amico	NOM	amico
+mio	PRO:poss	mio
+</text>
+<text id='v407' author='Valeria' date='2016-06-12' time='09:25:07'>
+Auguri🍰	NOM	unknown
+</text>
+<text id='v408' author='Marta' date='2016-06-12' time='09:25:07'>
+Io	NOM	unknown
+mi	PRO:pers	mi
+sono	VER:pres	essere
+ricordata	VER:pper	ricordare
+ma	CON	ma
+non	ADV	non
+ho	VER:pres	avere
+avuto	VER:pper	avere
+il	DET:def	il
+tempo	NOM	tempo
+di	PRE	di
+scrivere	VER:infi	scrivere
+</text>
+<text id='v409' author='Daniele' date='2016-06-12' time='09:25:23'>
+<‎immagine omessa>
+</text>
+<text id='v410' author='Vittoria' date='2016-06-12' time='09:26:21'>
+Tanti	NOM	unknown
+auguri	NOM	augurio
+</text>
+<text id='v411' author='Silvio' date='2016-06-12' time='09:26:58'>
+auguri	NOM	augurio
+!	PON	!
+!	SENT	!
+</text>
+<text id='v412' author='Alessandro' date='2016-06-12' time='09:28:34'>
+Grazie	ADV	grazie
+a	PRE	a
+tutti	PRO:indef	tutto
+voi	NOM	voi
+.	SENT	.
+😘😘😘😘	NOM	unknown
+🌹🌹🌹🌹	NOM	unknown
+</text>
+<text id='v413' author='Tommaso' date='2016-06-12' time='09:29:32'>
+Auguri	NOM	augurio
+Amico	NOM	amico
+Alessandro	NPR	Alessandro
+</text>
+<text id='v414' author='Patrizio' date='2016-06-12' time='09:32:27'>
+Auguri	NOM	augurio
+Alessandro	NPR	Alessandro
+.	SENT	.
+Quanti	PRO:indef	quanto
+anni	NOM	anno
+sono	VER:pres	essere
+?	SENT	?
+</text>
+<text id='v415' author='Benedetta' date='2016-06-12' time='09:34:03'>
+Auguri	NOM	augurio
+da	PRE	da
+Benedetta	NOM	benedetta
+stacchio	ADJ	unknown
+Sofia	NPR	Sofia
+e	CON	e
+serena	ADJ	sereno
+</text>
+<text id='v416' author='Vera' date='2016-06-12' time='09:42:52'>
+Tanti	NOM	unknown
+auguri	NOM	augurio
+Alessandro	NPR	Alessandro
+!	SENT	!
+!	PON	!
+!	SENT	!
+💐	NOM	unknown
+</text>
+<text id='v417' author='Benedetta' date='2016-06-12' time='09:45:50'>
+Però	NOM	unknown
+ci	PRO:refl	ci
+devi	VER:pres	dovere
+dire	VER:infi	dire
+quanti	PRO:indef	quanto
+anni	NOM	anno
+compi	VER:pres	compiere
+</text>
+<text id='v418' author='Alessandro' date='2016-06-12' time='10:01:45'>
+34	NUM	@card@
+anni	NOM	anno
+.	SENT	.
+Oggi	ADV	oggi
+😘😘😘😘😘😘	NOM	unknown
+</text>
+<text id='v419' author='Daniele' date='2016-06-12' time='10:37:38'>
+Sei	NOM	sei
+un	DET:indef	un
+giovanotto	NOM	giovanotto
+</text>
+<text id='v420' author='Filippa' date='2016-06-12' time='11:14:16'>
+Buon	VER:pres	unknown
+compleanno	NOM	compleanno
+amico	ADJ	amico
+speciale	ADJ	speciale
+😘	NOM	unknown
+</text>
+<text id='v421' author='Patrizio' date='2016-06-12' time='14:12:04'>
+<‎immagine omessa>
+</text>
+<text id='v422' author='Marta' date='2016-06-12' time='14:12:31'>
+😱😱😱	NOM	unknown
+</text>
+<text id='v423' author='Daniele' date='2016-06-12' time='14:12:50'>
+La	NOM	unknown
+transumante	VER:ppre	transumare
+</text>
+<text id='v424' author='Daniele' date='2016-06-12' time='14:13:15'>
+Quella	NOM	unknown
+che	PRO:rela	che
+non	ADV	non
+vuol	VER:pres	volere
+venire	VER:infi	venire
+a	PRE	a
+Copenaghen	NPR	Copenaghen
+con	PRE	con
+me	PRO:pers	me
+</text>
+<text id='v425' author='Marta' date='2016-06-12' time='14:13:25'>
+Ahaha	NOM	unknown
+</text>
+<text id='v426' author='Benedetta' date='2016-06-13' time='08:25:25'>
+Buon	VER:pres	unknown
+onomastico	ADJ	onomastico
+grande	ADJ	grande
+capo	NOM	capo
+</text>
+<text id='v427' author='Benedetta' date='2016-06-13' time='08:25:57'>
+Ragazzi	NOM	ragazzo
+oggi	ADV	oggi
+è	NOM	unknown
+Sant'Tommaso	NOM	unknown
+</text>
+<text id='v428' author='Marta' date='2016-06-13' time='08:27:41'>
+Auguri	NOM	augurio
+!	SENT	!
+🐞🐜🕷🐝	NOM	unknown
+</text>
+<text id='v429' author='Vera' date='2016-06-13' time='08:28:44'>
+Auguri	NOM	augurio
+🍬🍬	NOM	unknown
+</text>
+<text id='v430' author='Valeria' date='2016-06-13' time='08:38:34'>
+Auguri	NOM	augurio
+Tommaso	NPR	Tommaso
+</text>
+<text id='v431' author='Filippa' date='2016-06-13' time='08:54:38'>
+Auguri	NOM	augurio
+babboCea	NOM	unknown
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v432' author='Tommaso' date='2016-06-13' time='09:19:28'>
+Grazieeee😘😘😘😊😊😊👋👋🍰🍰🍾🍾👏👏👏	ADJ	unknown
+</text>
+<text id='v433' author='Daniele' date='2016-06-13' time='09:21:08'>
+Io	NOM	unknown
+per	PRE	per
+rispetto	NOM	rispetto
+delle	PRE:det	del
+minoranze	NOM	minoranza
+etniche	ADJ	etnico
+faccio	VER:pres	fare
+solo	ADV	solo
+gli	DET:def	il
+auguri	NOM	augurio
+di	PRE	di
+compleanno	NOM	compleanno
+😀	NOM	unknown
+</text>
+<text id='v434' author='Benedetta' date='2016-06-13' time='09:21:44'>
+Camin	VER:cpre	unknown
+vattin	VER:cpre	unknown
+</text>
+<text id='v435' author='Marta' date='2016-06-13' time='09:22:19'>
+Il	NOM	unknown
+solito	ADJ	solito
+pesantone	ADJ	unknown
+😒	NOM	unknown
+</text>
+<text id='v436' author='Patrizio' date='2016-06-13' time='09:24:06'>
+Io	NOM	unknown
+ho	VER:pres	avere
+appena	ADV	appena
+sentito	VER:pper	sentire
+Tommaso	NPR	Tommaso
+.	SENT	.
+Oggi	ADV	oggi
+pagherà	NOM	unknown
+da	PRE	da
+bere	VER:infi	bere
+al	PRE:det	al
+bar	NOM	bar
+della	PRE:det	del
+martella	VER:impe	martellare
+.	SENT	.
+Per	PRE	per
+agevolare	VER:infi	agevolare
+le	DET:def	il
+minoranze	NOM	minoranza
+etniche	ADJ	etnico
+.	SENT	.
+</text>
+<text id='v437' author='Patrizio' date='2016-06-13' time='09:24:19'>
+😂😘😂😘😜	NOM	unknown
+</text>
+<text id='v438' author='Tommaso' date='2016-06-13' time='09:25:45'>
+Va	NOM	unknown
+bene	ADV	bene
+.	SENT	.
+Anche	ADV	anche
+io	PRO:pers	io
+un	DET:indef	un
+tempo	NOM	tempo
+facevo	VER:impf	fare
+così	ADJ	unknown
+...	PON	...
+e	CON	e
+certi	ADJ	certo
+miei	PRO:poss	mio
+amici	NOM	amico
+lo	PRO:pers	lo
+fanno	VER:pres	fare
+ancora	ADV	ancora
+.	SENT	.
+</text>
+<text id='v439' author='Marta' date='2016-06-13' time='09:27:32'>
+Quindi	ADV	quindi
+Tommaso	NPR	Tommaso
+non	ADV	non
+ne	ADV	ne
+vuoi	VER:pres	volere
+auguri	NOM	augurio
+?	SENT	?
+😳	NOM	unknown
+</text>
+<text id='v440' author='Marta' date='2016-06-13' time='09:27:45'>
+E	NOM	unknown
+baci	ADJ	bacio
+e	CON	e
+sorrisi	NOM	sorriso
+e	CON	e
+abbracci	NOM	abbraccio
+?	SENT	?
+</text>
+<text id='v441' author='Patrizio' date='2016-06-13' time='09:29:14'>
+Tommaso	NPR	Tommaso
+e	CON	e
+Daniele	NPR	Daniele
+convetitevi	VER:impe	unknown
+!	SENT	!
+</text>
+<text id='v442' author='Patrizio' date='2016-06-13' time='09:29:21'>
+😂😂😂😂😂	NOM	unknown
+</text>
+<text id='v443' author='Patrizio' date='2016-06-13' time='09:30:01'>
+Tommaso	NPR	Tommaso
+meno	ADV	meno
+male	ADV	male
+che	PRO:rela	che
+non	ADV	non
+ti	PRO:pers	ti
+chiami	VER:cpre	chiamare
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v444' author='Patrizio' date='2016-06-13' time='09:30:21'>
+Perché	NOM	unknown
+alle	PRE:det	al
+zeppole	NOM	zeppola
+proprio	ADV	proprio
+non	ADV	non
+potremmo	VER:cond	potere
+rinunciare	VER:infi	rinunciare
+.	SENT	.
+</text>
+<text id='v445' author='Tommaso' date='2016-06-13' time='09:34:39'>
+Voglio	VER:pres	volere
+tutto	ADV	tutto
+io.	ADJ	unknown
+.	SENT	.
+</text>
+<text id='v446' author='Marta' date='2016-06-13' time='09:35:47'>
+👍🏼	NOM	unknown
+</text>
+<text id='v447' author='Alessandro' date='2016-06-13' time='17:58:10'>
+Amico	NOM	amico
+Patrizio	NPR	Patrizio
+dai	VER:pres	dare
+gli	DET:def	il
+auguri	NOM	augurio
+a	PRE	a
+Tommaso	NPR	Tommaso
+.	SENT	.
+</text>
+<text id='v448' author='Alessandro' date='2016-06-13' time='18:04:31'>
+Ti	PRO:pers	ti
+ha	VER:pres	avere
+anticipato	VER:pper	anticipare
+.	SENT	.
+Grande	ADJ	grande
+Patrizio	NPR	Patrizio
+.	SENT	.
+</text>
+<text id='v449' author='Patrizio' date='2016-06-13' time='18:05:17'>
+Forse	ADV	forse
+dimentichiamo	VER:pres	dimenticare
+che	PRO:rela	che
+oggi	ADV	oggi
+è	NOM	unknown
+anche	ADV	anche
+l	VER:impe	unknown
+'	PON	'
+onomastico	NOM	onomastico
+di	PRE	di
+paolo	NOM	paolo
+luigi	NOM	luigi
+Tommaso	NPR	Tommaso
+montagna	NOM	montagna
+</text>
+<text id='v450' author='Benedetta' date='2016-06-13' time='19:25:01'>
+Auguri	NOM	augurio
+Paolo	NPR	Paolo
+Luigi	NPR	Luigi
+Tommaso	NPR	Tommaso
+</text>
+<text id='v451' author='Daniele' date='2016-06-13' time='19:34:20'>
+Auguri	NOM	augurio
+Italia	NPR	Italia
+</text>
+<text id='v452' author='Alessandro' date='2016-06-19' time='11:27:07'>
+Amico	NOM	amico
+Daniele	NPR	Daniele
+.	SENT	.
+Ieri	ADV	ieri
+pomeriggio	NOM	pomeriggio
+mi	PRO:pers	mi
+sono	VER:pres	essere
+fatto	VER:pper	fare
+un	DET:indef	un
+caffè	NOM	unknown
+.	SENT	.
+Con	PRE	con
+stefania	NOM	unknown
+.	SENT	.
+Al	PRE:det	al
+bar	NOM	bar
+degli	PRE:det	del
+olmi	NOM	olmo
+.	SENT	.
+È	NOM	unknown
+io	PRO:pers	io
+ho	VER:pres	avere
+detto	VER:pper	dire
+saluta	VER:pres	salutare
+gli	DET:def	il
+amici	NOM	amico
+.	SENT	.
+È	NOM	unknown
+amiche	ADJ	amico
+.	SENT	.
+</text>
+<text id='v453' author='Alessandro' date='2016-06-19' time='11:30:26'>
+😘😘😘😘🇮🇹🇮🇹🇮🇹🇮🇹	NOM	unknown
+</text>
+<text id='v454' author='Daniele' date='2016-06-19' time='11:33:43'>
+Amico	NOM	amico
+Peppino	NPR	Peppino
+grazie	NOM	grazia
+dei	PRE:det	del
+saluti	NOM	salute|saluto
+.	SENT	.
+Ricambio	NOM	ricambio
+.	SENT	.
+Un	DET:indef	un
+giorno	NOM	giorno
+lo	PRO:pers	lo
+faremo	VER:futu	fare
+insieme	ADV	insieme
+un	DET:indef	un
+caffè	NOM	unknown
+.	SENT	.
+</text>
+<text id='v455' author='Daniele' date='2016-06-19' time='11:33:50'>
+Ma	CON	ma
+se	CON	se
+lo	DET:def	il
+paghi	ADJ	pago
+tu	NOM	tu
+</text>
+<text id='v456' author='Alessandro' date='2016-06-19' time='11:35:09'>
+OK	NOM	ok
+quando	CON	quando
+vuoi	VER:pres	volere
+tu	NOM	tu
+.	SENT	.
+</text>
+<text id='v457' author='Alessandro' date='2016-06-19' time='11:36:43'>
+Però	NOM	unknown
+porta	VER:pres	portare
+una	DET:indef	una
+mica	ADV	mica
+.	SENT	.
+</text>
+<text id='v458' author='Alessandro' date='2016-06-19' time='11:39:55'>
+Mulatta	NOM	mulatta
+.	SENT	.
+È	NOM	unknown
+poi	ADV	poi
+vado	VER:pres	andare
+a	PRE	a
+convivere	VER:infi	convivere
+con	PRE	con
+lei	PRO:pers	lei
+.	SENT	.
+</text>
+<text id='v459' author='Daniele' date='2016-06-19' time='12:04:09'>
+👍🏿	NOM	unknown
+</text>
+<text id='v460' author='Alessandro' date='2016-06-23' time='14:21:41'>
+Che	NPR	Che
+peccato	VER:pper	peccare
+a	PRE	a
+l	VER:impe	unknown
+'	PON	'
+Italia	NPR	Italia
+.	SENT	.
+La	DET:def	il
+prima	ADJ	primo
+sconfitta	NOM	sconfitta
+.	SENT	.
+🇮🇹🇮🇹🇮🇹	NOM	unknown
+Alessandro	NPR	Alessandro
+.	SENT	.
+😒😒😒	NOM	unknown
+</text>
+<text id='v461' author='Alessandro' date='2016-06-23' time='14:23:53'>
+Spero	NOM	unknown
+che	PRO:rela	che
+arriviamo	VER:cpre	arrivare
+in	PRE	in
+finale	ADJ	finale
+.	SENT	.
+</text>
+<text id='v462' author='Alessandro' date='2016-06-23' time='14:29:35'>
+OK	NOM	ok
+.	SENT	.
+Quando	CON	quando
+finite	VER:pper	finire
+di	PRE	di
+lavorare	VER:infi	lavorare
+.	SENT	.
+Fate	VER:pres	fare
+👍👍	NOM	unknown
+</text>
+<text id='v463' author='Alessandro' date='2016-06-23' time='14:33:00'>
+Ok	NOM	ok
+.	SENT	.
+Quando	CON	quando
+finite	VER:pper	finire
+di	PRE	di
+lavorare	VER:infi	lavorare
+.	SENT	.
+Fate	VER:pres	fare
+👍👍👍	NOM	unknown
+</text>
+<text id='v464' author='Alessandro' date='2016-06-24' time='08:58:57'>
+Amici	NOM	amico
+miei	PRO:poss	mio
+.	SENT	.
+Chi	PRO:rela	chi
+vincerà	NOM	unknown
+lunedì	ADJ	unknown
+.	SENT	.
+Tra	PRE	tra
+Italia	NPR	Italia
+è	NOM	unknown
+Spagna	NPR	Spagna
+.	SENT	.
+io	PRO:pers	io
+dico	VER:pres	dire
+Italia	NPR	Italia
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v465' author='Alessandro' date='2016-06-24' time='09:00:15'>
+👍👍👍🇮🇹🇮🇹🇮🇹🇮🇹	NOM	unknown
+</text>
+<text id='v466' author='Daniele' date='2016-06-24' time='09:01:25'>
+La	NOM	unknown
+Spagna	NPR	Spagna
+.	SENT	.
+Senò	NOM	unknown
+il	DET:def	il
+2	NUM	@card@
+luglio	NOM	luglio
+niente	ADJ	niente
+strazzo	VER:pres	unknown
+del	PRE:det	del
+carro	NOM	carro
+</text>
+<text id='v467' author='Silvio' date='2016-06-24' time='09:02:16'>
+Olè	NOM	unknown
+</text>
+<text id='v468' author='Alessandro' date='2016-06-24' time='15:55:23'>
+Ma	NOM	ma
+che	PRO:rela	che
+dici	VER:pres	dire
+Patrizio	NPR	Patrizio
+.	SENT	.
+Ma	CON	ma
+sei	ADJ	sei
+italiano	ADJ	italiano
+o	CON	o
+no.	ABR	no.
+Alessandro	NPR	Alessandro
+</text>
+<text id='v469' author='Alessandro' date='2016-06-24' time='15:56:26'>
+Dovevi	VER:impf	dovere
+dire	VER:infi	dire
+Italia	NPR	Italia
+.	SENT	.
+Monello	NOM	monello
+di	PRE	di
+Patrizio	NPR	Patrizio
+.	SENT	.
+</text>
+<text id='v470' author='Alessandro' date='2016-06-24' time='15:57:30'>
+Forza	NOM	forza
+ragazze	NOM	ragazza
+.	SENT	.
+Altamurane	ABR	unknown
+.	SENT	.
+</text>
+<text id='v471' author='Alessandro' date='2016-06-24' time='15:59:04'>
+Cioè	ADJ	unknown
+quelle	PRO:demo	quello
+delle	PRE:det	del
+murgie	ADJ	unknown
+</text>
+<text id='v472' author='Daniele' date='2016-06-24' time='16:01:22'>
+Sempre	NOM	unknown
+lui	PRO:pers	lui
+è	NOM	unknown
+</text>
+<text id='v473' author='Alessandro' date='2016-06-24' time='16:13:01'>
+🔄	NOM	unknown
+</text>
+<text id='v474' author='Alessandro' date='2016-06-24' time='16:52:29'>
+Amico	NOM	amico
+Daniele	NPR	Daniele
+.	SENT	.
+Dici	VER:pres	dire
+a	PRE	a
+Patrizio	NPR	Patrizio
+se	CON	se
+fa	VER:pres	fare
+tifo	NOM	tifo
+per	PRE	per
+la	DET:def	il
+Spagna	NPR	Spagna
+con	PRE	con
+me	PRO:pers	me
+a	PRE	a
+chiuso	ADJ	chiuso
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v475' author='Daniele' date='2016-06-24' time='17:06:10'>
+Lo	DET:def	il
+dirò	ADJ	unknown
+</text>
+<text id='v476' author='Patrizio' date='2016-06-24' time='19:04:41'>
+Amico	NOM	amico
+rossi	ADJ	rosso
+io	PRO:pers	io
+faccio	VER:pres	fare
+il	DET:def	il
+tifo	NOM	tifo
+per	PRE	per
+la	DET:def	il
+spagna	ADJ	unknown
+</text>
+<text id='v477' author='Patrizio' date='2016-06-24' time='19:05:02'>
+Ma	NOM	ma
+solo	ADJ	solo
+nel	PRE:det	nel
+calcio	NOM	calcio
+femminile	ADJ	femminile
+</text>
+<text id='v478' author='Alessandro' date='2016-06-24' time='19:22:19'>
+A.	LS	A.
+È	NOM	unknown
+diverso	ADJ	diverso
+allora	ADV	allora
+.	SENT	.
+Grande	ADJ	grande
+Patrizio	NPR	Patrizio
+.	SENT	.
+Sono	VER:pres	essere
+d'	PRE	d'
+accordo	NOM	accordo
+pure	ADV	pure
+io	PRO:pers	io
+.	SENT	.
+</text>
+<text id='v479' author='Alessandro' date='2016-06-24' time='19:25:10'>
+Viva	VER:impe	vivere
+le	DET:def	il
+donne	NOM	donna
+.	SENT	.
+Altamurane	VER:impe	unknown
+.	SENT	.
+</text>
+<text id='v480' author='Daniele' date='2016-06-25' time='10:01:22'>
+<‎immagine omessa>
+</text>
+<text id='v481' author='Silvio' date='2016-06-25' time='10:02:11'>
+Di	PRE	di
+lusso	NOM	lusso
+!	SENT	!
+</text>
+<text id='v482' author='Daniele' date='2016-06-25' time='10:03:59'>
+Amici	ADJ	amico
+,	PON	,
+oggi	ADV	oggi
+il	DET:def	il
+buon	ADJ	buon
+governo	NOM	governo
+cittadino	ADJ	cittadino
+inaugura	VER:pres	inaugurare
+a	PRE	a
+Craco	NOM	unknown
+Vecchia	NOM	vecchia
+il	DET:def	il
+MEC	NOM	unknown
+,	PON	,
+Museo	NOM	museo
+Emozionale	NOM	unknown
+di	PRE	di
+Craco	NOM	unknown
+,	PON	,
+con	PRE	con
+concerto	NOM	concerto
+di	PRE	di
+musica	NOM	musica
+medievale	ADJ	medievale
+e	CON	e
+lettura	NOM	lettura
+della	PRE:det	del
+Divina	NOM	divina
+Commedia	NPR	Commedia
+.	SENT	.
+Vi	PRO:demo	vi
+aspetto	NOM	aspetto
+.	SENT	.
+</text>
+<text id='v483' author='Daniele' date='2016-06-25' time='10:04:30'>
+Per	PRE	per
+l'	DET:def	il
+occasione	NOM	occasione
+il	DET:def	il
+paese	NOM	paese
+fantasma	NOM	fantasma
+sarà	ADJ	unknown
+illuminato	VER:pper	illuminare
+</text>
+<text id='v484' author='Silvio' date='2016-06-25' time='10:05:08'>
+😢😢peccato	NOM	unknown
+non	ADV	non
+esserci	VER:infi	essere
+</text>
+<text id='v485' author='Marta' date='2016-06-25' time='10:05:59'>
+Museo	NOM	museo
+emozionale	ADJ	emozionale
+di	PRE	di
+craco	NOM	unknown
+?	SENT	?
+?	PON	?
+?	SENT	?
+?	PON	?
+?	SENT	?
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v486' author='Marta' date='2016-06-25' time='10:06:06'>
+😱😱😱😱😱😱😱	NOM	unknown
+</text>
+<text id='v487' author='Marta' date='2016-06-25' time='10:06:40'>
+Venite	NOM	unknown
+a	PRE	a
+visitarlo	VER:infi	visitare
+e	CON	e
+vi	ADV	vi
+sentirete	VER:futu	sentire
+tristi	ADJ	triste
+come	CON	come
+non	ADV	non
+mai	ADV	mai
+!	SENT	!
+!	PON	!
+!	SENT	!
+😔😔😔😔	NOM	unknown
+</text>
+<text id='v488' author='Daniele' date='2016-06-25' time='10:07:15'>
+Sei	NOM	sei
+sei	ADJ	sei
+triste	ADJ	triste
+tu	NOM	tu
+non	ADV	non
+è	NOM	unknown
+detto	VER:pper	dire
+lo	PRO:pers	lo
+siano	VER:cpre	essere
+gli	DET:def	il
+altri	ADJ	altro
+</text>
+<text id='v489' author='Patrizio' date='2016-06-25' time='10:07:37'>
+Prenoto	NOM	unknown
+due	ADJ	due
+posti	ADJ	posto
+</text>
+<text id='v490' author='Patrizio' date='2016-06-25' time='10:07:40'>
+Io	NOM	unknown
+e	CON	e
+rossi	ADJ	rosso
+</text>
+<text id='v491' author='Patrizio' date='2016-06-25' time='10:08:03'>
+Alessandro	NPR	Alessandro
+devi	VER:cpre	deviare
+venire	VER:infi	venire
+a	PRE	a
+jazzo	NOM	unknown
+stasera	ADV	stasera
+</text>
+<text id='v492' author='Alessandro' date='2016-06-25' time='13:27:28'>
+Problemi	VER:impe	unknown
+.	SENT	.
+Di	PRE	di
+famiglia😞😞	ADJ	unknown
+</text>
+<text id='v493' author='Alessandro' date='2016-06-25' time='14:38:30'>
+Ci	NOM	ci
+vediamo	VER:cpre	vedere
+.	SENT	.
+il	DET:def	il
+2	NUM	@card@
+luglio	NOM	luglio
+.	SENT	.
+</text>
+<text id='v494' author='Alessandro' date='2016-06-26' time='09:40:03'>
+Amici	NOM	amico
+miei	PRO:poss	mio
+.	SENT	.
+ieri	ADV	ieri
+mattina	NOM	mattina
+mi	PRO:pers	mi
+è	NOM	unknown
+andato	VER:pper	andare
+a	PRE	a
+mancare	VER:infi	mancare
+mio	PRO:poss	mio
+nonno	NOM	nonno
+.	SENT	.
+il	DET:def	il
+padre	NOM	padre
+di	PRE	di
+mia	PRO:poss	mio
+madre	NOM	madre
+.	SENT	.
+Alessandro	NPR	Alessandro
+</text>
+<text id='v495' author='Alessandro' date='2016-06-26' time='09:41:58'>
+😞😞😞😞	NOM	unknown
+</text>
+<text id='v496' author='Daniele' date='2016-06-26' time='09:44:40'>
+Ti	NOM	unknown
+vogliamo	VER:pres	volere
+bene	ADV	bene
+Alessandro	NPR	Alessandro
+.	SENT	.
+Un	DET:indef	un
+abbraccio	NOM	abbraccio
+</text>
+<text id='v497' author='Benedetta' date='2016-06-26' time='09:45:10'>
+Mi	NOM	unknown
+dispiace	VER:pres	dispiacere
+Alessandro	NPR	Alessandro
+</text>
+<text id='v498' author='Marta' date='2016-06-26' time='09:49:03'>
+Mi	NOM	unknown
+dispiace	VER:pres	dispiacere
+Alessandro	NPR	Alessandro
+</text>
+<text id='v499' author='Vittoria' date='2016-06-26' time='09:49:50'>
+Mi	NOM	unknown
+dispiace	VER:pres	dispiacere
+Alessandro	NPR	Alessandro
+un	DET:indef	un
+abbraccio	NOM	abbraccio
+</text>
+<text id='v500' author='Benedetta' date='2016-06-26' time='09:50:15'>
+Un	NOM	unknown
+forte	ADJ	forte
+abbraccio	NOM	abbraccio
+da	PRE	da
+tutti	PRO:indef	tutto
+i	DET:def	il
+tuoi	PRO:poss	tuo
+amici	ADJ	amico
+</text>
+<text id='v501' author='Valeria' date='2016-06-26' time='09:53:40'>
+Mi	NOM	unknown
+dispiace	VER:pres	dispiacere
+</text>
+<text id='v502' author='Valeria' date='2016-06-26' time='09:53:44'>
+Un	NOM	unknown
+abbraccio	NOM	abbraccio
+</text>
+<text id='v503' author='Alessandro' date='2016-06-26' time='10:25:41'>
+Grazie	NOM	grazia
+a	PRE	a
+tutti	PRO:indef	tutto
+.	SENT	.
+</text>
+<text id='v504' author='Vera' date='2016-06-26' time='10:35:41'>
+Un	DET:indef	un
+forte	ADJ	forte
+abbraccio	NOM	abbraccio
+.	SENT	.
+</text>
+<text id='v505' author='Tommaso' date='2016-06-26' time='12:40:35'>
+Caro	NOM	caro
+Alessandro	NPR	Alessandro
+,	PON	,
+un	DET:indef	un
+abbraaccio	NOM	unknown
+forte	ADJ	forte
+a	PRE	a
+te	PRO:pers	te
+e	CON	e
+alla	PRE:det	al
+tua	PRO:poss	tuo
+famiglia	NOM	famiglia
+.	SENT	.
+</text>
+<text id='v506' author='Filippa' date='2016-06-26' time='13:13:50'>
+Un	DET:indef	un
+grande	ADJ	grande
+abbraccio	NOM	abbraccio
+amico	ADJ	amico
+speciale	ADJ	speciale
+</text>
+<text id='v507' author='Patrizio' date='2016-06-27' time='22:01:12'>
+<‎immagine omessa>
+</text>
+<text id='v508' author='Silvio' date='2016-06-27' time='22:16:54'>
+Ma	NOM	ma
+quando	CON	quando
+giocherà	VER:impe	unknown
+l'	DET:def	il
+Italia	NPR	Italia
+?	PON	?
+?	SENT	?
+</text>
+<text id='v509' author='Daniele' date='2016-06-27' time='22:18:53'>
+2	NUM	@card@
+luglio	NOM	luglio
+</text>
+<text id='v510' author='Silvio' date='2016-06-27' time='22:19:09'>
+Davvero	ABR	unknown
+?	SENT	?
+?	PON	?
+?	SENT	?
+?	PON	?
+</text>
+<text id='v511' author='Vera' date='2016-06-27' time='22:19:39'>
+Ore	NOM	ora
+21	NUM	@card@
+!	SENT	!
+</text>
+<text id='v512' author='Daniele' date='2016-06-27' time='22:20:11'>
+Quest'	PRO:demo	questo
+anno	NOM	anno
+il	DET:def	il
+carro	NOM	carro
+lo	PRO:pers	lo
+straziamo	VER:cpre	straziare
+noi	PRO:pers	noi
+o	CON	o
+vanno	VER:pres	andare
+quelli	PRO:demo	quello
+della	PRE:det	del
+Brunetta	NOM	brunetta
+</text>
+<text id='v513' author='Silvio' date='2016-06-27' time='22:21:31'>
+'	PON	'
+Appost	NOM	unknown
+</text>
+<text id='v514' author='Patrizio' date='2016-06-28' time='15:23:32'>
+<‎immagine omessa>
+</text>
+<text id='v515' author='Patrizio' date='2016-06-28' time='15:23:43'>
+Ho	NOM	unknown
+trovato	VER:pper	trovare
+la	DET:def	il
+soluzione	NOM	soluzione
+per	PRE	per
+sabato	NOM	sabato
+</text>
+<text id='v516' author='Vittoria' date='2016-06-28' time='15:54:36'>
+👍🏼	NOM	unknown
+</text>
+<text id='v517' author='Marta' date='2016-06-28' time='16:07:22'>
+😄😄😄	NOM	unknown
+</text>
+<text id='v518' author='Alessandro' date='2016-07-01' time='12:07:27'>
+Amico	NOM	amico
+Daniele	NPR	Daniele
+.	SENT	.
+È	NOM	unknown
+meglio	ADV	meglio
+andare	VER:infi	andare
+a	PRE	a
+vedere	VER:infi	vedere
+il	DET:def	il
+carro	NOM	carro
+o	CON	o
+al	PRE:det	al
+mare	NOM	mare
+a	PRE	a
+vedere	VER:infi	vedere
+le	DET:def	il
+ragazze	NOM	ragazza
+in	PRE	in
+bikini	NOM	bikini
+?	SENT	?
+Alessandro	NPR	Alessandro
+</text>
+<text id='v519' author='Alessandro' date='2016-07-01' time='12:09:31'>
+Se	NOM	se
+sei	ADJ	sei
+d'	PRE	d'
+accordo	NOM	accordo
+con	PRE	con
+me	PRO:pers	me
+.	SENT	.
+</text>
+<text id='v520' author='Vera' date='2016-07-01' time='12:26:44'>
+E	CON	e
+la	DET:def	il
+partita	NOM	partita
+?	SENT	?
+⚽🇮🇪	NOM	unknown
+</text>
+<text id='v521' author='Daniele' date='2016-07-01' time='12:30:57'>
+Il	NOM	unknown
+topless	NOM	topless
+tutt'	ADV	tutt'
+a	PRE	a
+la	DET:def	il
+vita	NOM	vita
+</text>
+<text id='v522' author='Daniele' date='2016-07-02' time='10:33:25'>
+Buona	NOM	buono
+Festa	NPR	Festa
+della	PRE:det	del
+Bruna	NOM	bruno
+</text>
+<text id='v523' author='Vera' date='2016-07-02' time='10:35:18'>
+<‎immagine omessa>
+</text>
+<text id='v524' author='Vera' date='2016-07-02' time='10:35:21'>
+Buona	NOM	buono
+festa	NOM	festa
+!	SENT	!
+</text>
+<text id='v525' author='Daniele' date='2016-07-02' time='10:36:29'>
+Com'è	NOM	unknown
+cambiata	VER:pper	cambiare
+Leda	NOM	unknown
+</text>
+<text id='v526' author='Marta' date='2016-07-02' time='10:42:04'>
+Buona	NOM	buono
+giornata	NOM	giornata
+a	PRE	a
+tutti	PRO:indef	tutto
+</text>
+<text id='v527' author='Vera' date='2016-07-02' time='11:07:27'>
+Cretino	NOM	cretino
+</text>
+<text id='v528' author='Marta' date='2016-07-02' time='11:08:10'>
+Vera	NPR	Vera
+,	PON	,
+è	NOM	unknown
+sempre	ADV	sempre
+il	DET:def	il
+solito	NOM	solito
+!	SENT	!
+</text>
+<text id='v529' author='Alessandro' date='2016-07-02' time='11:09:32'>
+Daniele	NPR	Daniele
+camion	NOM	camion
+vattin	VER:cpre	unknown
+.	SENT	.
+È	NOM	unknown
+bella	ADJ	bello
+Giovera	NOM	unknown
+.	SENT	.
+Alessandro	NPR	Alessandro
+</text>
+<text id='v530' author='Marta' date='2016-07-02' time='11:10:32'>
+😂😂😂😂	NOM	unknown
+</text>
+<text id='v531' author='Vera' date='2016-07-02' time='11:11:27'>
+😱😱😱😂	NOM	unknown
+</text>
+<text id='v532' author='Alessandro' date='2016-07-02' time='11:11:36'>
+O	VER:geru	unknown
+scusami	VER:impe	scusare
+anche	ADV	anche
+Marta	NPR	Marta
+.	SENT	.
+È	NOM	unknown
+le	DET:def	il
+femmine	NOM	femmina
+Altamurane	NOM	unknown
+.	SENT	.
+</text>
+<text id='v533' author='Alessandro' date='2016-07-02' time='11:12:52'>
+Donne	NOM	donna
+vi	PRO:demo	vi
+😘😘😘😘	NOM	unknown
+tutte	ADJ	tutto
+.	SENT	.
+</text>
+<text id='v534' author='Alessandro' date='2016-07-02' time='11:19:56'>
+Amico	NOM	amico
+Daniele	NPR	Daniele
+.	SENT	.
+Miraccomando	VER:geru	unknown
+a	PRE	a
+Patrizio	NPR	Patrizio
+.	SENT	.
+Perché	NOM	unknown
+sono	VER:pres	essere
+geloso	ADJ	geloso
+di	PRE	di
+2	NUM	@card@
+amiche	NOM	amica
+singol	NOM	unknown
+.	SENT	.
+Cioè	NOM	unknown
+Valeria	NPR	Valeria
+è	NOM	unknown
+Marta	NPR	Marta
+</text>
+<text id='v535' author='Alessandro' date='2016-07-02' time='11:29:31'>
+Forza	NPR	Forza
+Italia	NPR	Italia
+.	SENT	.
+Per	PRE	per
+stasera	ADV	stasera
+.	SENT	.
+Spero	VER:pres	sperare
+che	PRO:rela	che
+Italia	NPR	Italia
+arrivi	VER:cpre	arrivare
+in	PRE	in
+finale	ADJ	finale
+.	SENT	.
+Con	PRE	con
+la	DET:def	il
+Francia	NPR	Francia
+.	SENT	.
+Perché	NOM	unknown
+sta	VER:pres	stare
+pogba	VER:impe	unknown
+.	SENT	.
+Che	CON	che
+è	NOM	unknown
+della	PRE:det	del
+Juventus	NPR	Juventus
+.	SENT	.
+</text>
+<text id='v536' author='Daniele' date='2016-07-02' time='13:08:38'>
+Lo	PRO:pers	lo
+marchiamo	VER:cpre	marchiare
+stretto	VER:pper	stringere
+a	PRE	a
+Patrizio	NPR	Patrizio
+,	PON	,
+come	PRE	come
+Chiellini	NOM	unknown
+</text>
+<text id='v537' author='Daniele' date='2016-07-03' time='17:15:32'>
+<‎immagine omessa>
+</text>
+<text id='v538' author='Patrizio' date='2016-07-03' time='17:31:24'>
+<‎immagine omessa>
+</text>
+<text id='v539' author='Patrizio' date='2016-07-03' time='17:31:37'>
+Impegnati	NOM	unknown
+di	PRE	di
+più	NOM	unknown
+</text>
+<text id='v540' author='Marta' date='2016-07-03' time='17:33:02'>
+Daniele	NPR	Daniele
+l'	PRO:pers	l'
+ha	VER:pres	avere
+sicuramente	ADV	sicuramente
+trovato	VER:pper	trovare
+a	PRE	a
+terra	NOM	terra
+</text>
+<text id='v541' author='Daniele' date='2016-07-03' time='17:52:49'>
+No	NOM	no
+una	DET:indef	una
+volontaria	NOM	volontaria
+francese	ADJ	francese
+me	PRO:pers	me
+ha	VER:pres	avere
+regalato	VER:pper	regalare
+</text>
+<text id='v542' author='Alessandro' date='2016-07-03' time='17:56:35'>
+Non	NOM	unknown
+potevi	VER:impf	potere
+fare	VER:infi	fare
+la	DET:def	il
+foto	NOM	foto
+è	NOM	unknown
+la	PRO:pers	la
+portavi	VER:impe	portare
+a	PRE	a
+casa	NOM	casa
+mia	PRO:poss	mio
+.	SENT	.
+Alessandro	NPR	Alessandro
+</text>
+<text id='v543' author='Alessandro' date='2016-07-03' time='17:58:12'>
+Non	NOM	unknown
+potevi	VER:impf	potere
+fare	VER:infi	fare
+una	DET:indef	una
+foto	NOM	foto
+oppure	CON	oppure
+me	PRO:pers	me
+la	PRO:pers	la
+portavi	VER:impe	portare
+a	PRE	a
+casa	NOM	casa
+mia	PRO:poss	mio
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+👍👍👍👍	NOM	unknown
+</text>
+<text id='v544' author='Alessandro' date='2016-07-03' time='17:59:02'>
+Amico	NOM	amico
+Daniele	NPR	Daniele
+.	SENT	.
+</text>
+<text id='v545' author='Daniele' date='2016-07-03' time='18:04:42'>
+<‎immagine omessa>
+</text>
+<text id='v546' author='Alessandro' date='2016-07-04' time='16:34:12'>
+È	NOM	unknown
+ora	ADV	ora
+dove	ADV	dove
+sta	VER:pres	stare
+la	DET:def	il
+ragazza	NOM	ragazza
+francese	ADJ	francese
+.	SENT	.
+Daniele	NPR	Daniele
+amico	NOM	amico
+mio	PRO:poss	mio
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v547' author='Daniele' date='2016-07-04' time='16:34:57'>
+Non	ADV	non
+posso	VER:pres	potere
+dire	VER:infi	dire
+tutto	PRO:indef	tutto
+Peppino	NPR	Peppino
+</text>
+<text id='v548' author='Alessandro' date='2016-07-04' time='16:37:16'>
+OK	NOM	ok
+.	SENT	.
+Saluta	VER:pres	salutare
+gli	DET:def	il
+amici	ADJ	amico
+è	NOM	unknown
+amiche	ADJ	amico
+.	SENT	.
+Delle	PRE:det	del
+murgie	ADJ	unknown
+</text>
+<text id='v549' author='Daniele' date='2016-07-04' time='20:21:52'>
+Ragazzi	NOM	ragazzo
+mi	PRO:pers	mi
+servirebbe	VER:cond	servire
+una	DET:indef	una
+copia	NOM	copia
+del	PRE:det	del
+film	NOM	film
+LA	NOM	unknown
+LUPA	VER:pres	unknown
+in	PRE	in
+dvd	NOM	unknown
+del	PRE:det	del
+1953	NUM	@card@
+</text>
+<text id='v550' author='Marta' date='2016-07-04' time='20:35:41'>
+Io	NOM	unknown
+non	ADV	non
+ce	ADV	ce
+l'	DET:def	il
+ho	VER:pres	avere
+</text>
+<text id='v551' author='Alessandro' date='2016-07-05' time='15:35:21'>
+Marta	NPR	Marta
+salutami	VER:impe	salutare
+Stefania	NPR	Stefania
+.	SENT	.
+È	NOM	unknown
+gli	DET:def	il
+amici	NOM	amico
+nostri	PRO:poss	nostro
+.	SENT	.
+😘😘😘😘	NOM	unknown
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v552' author='Alessandro' date='2016-07-06' time='10:48:27'>
+Daniele	NPR	Daniele
+.	SENT	.
+Ricodala	VER:impe	unknown
+tu	NOM	tu
+a	PRE	a
+Marta	NPR	Marta
+di	PRE	di
+salutare	VER:infi	salutare
+gli	DET:def	il
+amici	NOM	amico
+.	SENT	.
+Nostri	PRO:poss	nostro
+.	SENT	.
+È	NOM	unknown
+Stefania	NPR	Stefania
+la	DET:def	il
+mia	PRO:poss	mio
+maestra	NOM	maestra
+delle	PRE:det	del
+murge	NOM	unknown
+.	SENT	.
+</text>
+<text id='v553' author='Daniele' date='2016-07-06' time='10:49:49'>
+Già	NOM	unknown
+salutati	VER:pper	salutare
+Alessandro	NPR	Alessandro
+.	SENT	.
+Marta	NPR	Marta
+si	PRO:refl	si
+è	NOM	unknown
+ricordata	VER:pper	ricordare
+.	SENT	.
+Ha	VER:pres	avere
+salutato	VER:pper	salutare
+anche	ADV	anche
+me	PRO:pers	me
+.	SENT	.
+Tranquillo	ADJ	tranquillo
+</text>
+<text id='v554' author='Benedetta' date='2016-07-06' time='10:52:38'>
+Marta	NPR	Marta
+grazie	NOM	grazia
+di	PRE	di
+tutto	PRO:indef	tutto
+</text>
+<text id='v555' author='Marta' date='2016-07-06' time='11:44:33'>
+Prego	NOM	prego
+e	CON	e
+grazie	NOM	grazia
+a	PRE	a
+te	PRO:pers	te
+!	SENT	!
+</text>
+<text id='v556' author='Patrizio' date='2016-07-07' time='15:09:54'>
+<‎immagine omessa>
+</text>
+<text id='v557' author='Patrizio' date='2016-07-07' time='15:10:11'>
+Allacciate	VER:pper	allacciare
+le	DET:def	il
+cinture	NOM	cintura
+</text>
+<text id='v558' author='Silvio' date='2016-07-07' time='15:18:27'>
+👍	NOM	unknown
+</text>
+<text id='v559' author='Valeria' date='2016-07-07' time='15:52:52'>
+Oleee	NOM	unknown
+</text>
+<text id='v560' author='Daniele' date='2016-07-07' time='15:58:10'>
+Ottimo	NOM	ottimo
+</text>
+<text id='v561' author='Vera' date='2016-07-07' time='16:04:52'>
+😜😜😜	NOM	unknown
+</text>
+<text id='v562' author='Benedetta' date='2016-07-07' time='16:13:30'>
+Ci	NOM	ci
+saremo	VER:futu	essere
+</text>
+<text id='v563' author='Alessandro' date='2016-07-08' time='10:07:34'>
+Auguri	NOM	augurio
+Alessandro	NPR	Alessandro
+.	SENT	.
+Sono	VER:pres	essere
+l'	DET:def	il
+amico	NOM	amico
+di	PRE	di
+Patrizio	NPR	Patrizio
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+🎂🎂🎂🎂	NOM	unknown
+</text>
+<text id='v564' author='Alessandro' date='2016-07-08' time='10:11:04'>
+Salutami	NOM	unknown
+il	DET:def	il
+gruppo	NOM	gruppo
+cea.è	ADJ	unknown
+a	PRE	a
+presto	ADJ	presto
+.	SENT	.
+👍👍👍👍	NOM	unknown
+.	SENT	.
+</text>
+<text id='v565' author='Alessandro' date='2016-07-08' time='10:12:55'>
+Salutami	VER:impe	salutare
+il	DET:def	il
+gruppo	NOM	gruppo
+cea	ADJ	unknown
+.	SENT	.
+Ci	PRO:refl	ci
+vediamo	VER:cpre	vedere
+presto	ADV	presto
+.	SENT	.
+👍👍👍👍	NOM	unknown
+</text>
+<text id='v566' author='Alessandro' date='2016-07-08' time='21:23:05'>
+Quanti	VER:ppre	unknown
+anni	NOM	anno
+fai	VER:pres	fare
+.	SENT	.
+</text>
+<text id='v567' author='Vittoria' date='2016-07-08' time='21:28:12'>
+Alessandro	NPR	Alessandro
+ma	CON	ma
+gli	DET:def	il
+auguri	NOM	augurio
+sono	VER:pres	essere
+per	PRE	per
+Alessandro	NPR	Alessandro
+mio	PRO:poss	mio
+marito	NOM	marito
+?	SENT	?
+?	PON	?
+?	SENT	?
+Non	ADV	non
+c'	PRO:demo	c'
+è	NOM	unknown
+in	PRE	in
+questo	PRO:demo	questo
+gruppo	NOM	gruppo
+</text>
+<text id='v568' author='Vittoria' date='2016-07-08' time='21:29:04'>
+Comunque	ADJ	unknown
+riferisco	VER:pres	riferire
+io	PRO:pers	io
+appena	ADV	appena
+rientra	VER:pres	rientrare
+😄	NOM	unknown
+</text>
+<text id='v569' author='Marta' date='2016-07-08' time='21:29:56'>
+Vittoria	NPR	Vittoria
+inseriscilo	VER:impe	inserire
+!	SENT	!
+😂😂	NOM	unknown
+</text>
+<text id='v570' author='Vittoria' date='2016-07-08' time='21:30:25'>
+Non	NOM	unknown
+posso	VER:pres	potere
+io	PRO:pers	io
+</text>
+<text id='v571' author='Marta' date='2016-07-08' time='21:31:09'>
+Daniele	NPR	Daniele
+può	ADJ	unknown
+</text>
+<text id='v572' author='Vittoria' date='2016-07-08' time='21:31:42'>
+Ma	NOM	ma
+Daniele	NPR	Daniele
+è	NOM	unknown
+geloso	ADJ	geloso
+e	CON	e
+non	ADV	non
+lo	PRO:pers	lo
+inserisce	VER:pres	inserire
+😜	NOM	unknown
+</text>
+<text id='v573' author='Marta' date='2016-07-08' time='21:32:14'>
+Sempre	NOM	unknown
+più	ADJ	unknown
+pesantone	ADJ	unknown
+</text>
+<text id='v574' author='Vittoria' date='2016-07-08' time='21:32:49'>
+No	NOM	no
+peccato	VER:pper	peccare
+a	PRE	a
+Daniele	NPR	Daniele
+</text>
+<text id='v575' author='Alessandro' date='2016-07-08' time='21:33:06'>
+Ok	NOM	ok
+.	SENT	.
+Vittoria	NPR	Vittoria
+.	SENT	.
+Me	PRO:pers	me
+lo	PRO:pers	lo
+dici	VER:pres	dire
+anche	ADV	anche
+lunedì	ADJ	unknown
+.	SENT	.
+</text>
+<text id='v576' author='Alessandro' date='2016-07-08' time='21:39:59'>
+Lo	PRO:pers	lo
+so	VER:pres	sapere
+che	PRO:rela	che
+è	NOM	unknown
+tuo	PRO:poss	tuo
+marito	NOM	marito
+.	SENT	.
+Volevo	VER:impf	volere
+sapere	VER:infi	sapere
+quanti	PRO:indef	quanto
+anni	NOM	anno
+sono	VER:pres	essere
+.	SENT	.
+</text>
+<text id='v577' author='Alessandro' date='2016-07-08' time='21:41:40'>
+Lo	PRO:pers	lo
+so	VER:pres	sapere
+che	PRO:rela	che
+è	NOM	unknown
+tuo	PRO:poss	tuo
+marito	NOM	marito
+.	SENT	.
+Volevo	VER:impf	volere
+sapere	VER:infi	sapere
+quanti	PRO:indef	quanto
+anni	NOM	anno
+fai	VER:pres	fare
+.	SENT	.
+Tuo	PRO:poss	tuo
+marito	NOM	marito
+.	SENT	.
+</text>
+<text id='v578' author='Alessandro' date='2016-07-08' time='21:42:36'>
+Che	CON	che
+oggi	ADV	oggi
+è	NOM	unknown
+il	DET:def	il
+suo	PRO:poss	suo
+compleanno	NOM	compleanno
+.	SENT	.
+</text>
+<text id='v579' author='Alessandro' date='2016-07-08' time='21:43:23'>
+🎂🎂🎂🎂	NOM	unknown
+</text>
+<text id='v580' author='Vittoria' date='2016-07-08' time='21:45:00'>
+Sono	ABR	unknown
+31	NUM	@card@
+anni	NOM	anno
+...	PON	...
+ti	PRO:refl	ti
+ringrazia	VER:pres	ringraziare
+per	PRE	per
+gli	DET:def	il
+auguri😄	ADJ	unknown
+</text>
+<text id='v581' author='Patrizio' date='2016-07-08' time='22:07:25'>
+Auguri	NOM	augurio
+</text>
+<text id='v582' author='Vittoria' date='2016-07-08' time='22:27:38'>
+Grazie	NOM	grazia
+</text>
+<text id='v583' author='Daniele' date='2016-07-10' time='12:36:23'>
+<‎immagine omessa>
+</text>
+<text id='v584' author='Vera' date='2016-07-10' time='12:37:51'>
+Tutto	NOM	tutto
+fiero	ADJ	fiero
+...	PON	...
+..e	NOM	unknown
+bravo	ADJ	bravo
+!	SENT	!
+!	PON	!
+!	SENT	!
+🖐🏼	NOM	unknown
+</text>
+<text id='v585' author='Patrizio' date='2016-07-10' time='12:38:31'>
+Qua	NOM	unknown
+si	PRO:refl	si
+ritila	VER:impe	unknown
+sempre	ADV	sempre
+</text>
+<text id='v586' author='Marta' date='2016-07-10' time='12:38:42'>
+Veramente	NOM	unknown
+!	SENT	!
+</text>
+<text id='v587' author='Marta' date='2016-07-10' time='12:39:00'>
+Solo	ADV	solo
+a	PRE	a
+ritilare	VER:infi	unknown
+stanno	VER:pres	stare
+</text>
+<text id='v588' author='Benedetta' date='2016-07-10' time='15:29:51'>
+Si	NOM	si
+chiamano	VER:pres	chiamare
+vacanze	NOM	vacanza
+e	CON	e
+di	PRE	di
+solito	NOM	solito
+si	PRO:refl	si
+fanno	VER:pres	fare
+d'	PRE	d'
+estate	NOM	estate
+.	SENT	.
+Daniele	NPR	Daniele
+divertiti	ADJ	divertito
+</text>
+<text id='v589' author='Benedetta' date='2016-07-10' time='15:30:16'>
+😜😜😜	NOM	unknown
+</text>
+<text id='v590' author='Patrizio' date='2016-07-10' time='15:32:04'>
+Daniele	NPR	Daniele
+non	ADV	non
+conosce	VER:pres	conoscere
+vacanze	NOM	vacanza
+</text>
+<text id='v591' author='Patrizio' date='2016-07-10' time='15:32:18'>
+Sono	NOM	sono
+trasferte	NOM	trasferta
+lavorative	ADJ	lavorativo
+</text>
+<text id='v592' author='Patrizio' date='2016-07-10' time='15:33:12'>
+Lui	NOM	unknown
+non	ADV	non
+riposa	VER:pres	riposare
+mai	ADV	mai
+</text>
+<text id='v593' author='Daniele' date='2016-07-10' time='15:33:27'>
+Bravo	VER:impf	unknown
+Patrizio	NPR	Patrizio
+.	SENT	.
+Corso	NOM	corso
+di	PRE	di
+formazione	NOM	formazione
+.	SENT	.
+Ci	PRO:refl	ci
+divertiamo	VER:pres	divertire
+così	ADJ	unknown
+</text>
+<text id='v594' author='Patrizio' date='2016-07-10' time='15:34:00'>
+Sì	NOM	unknown
+ma	CON	ma
+prenditi	VER:impe	prendere
+una	DET:indef	una
+vacanza	NOM	vacanza
+ogni	ADJ	ogni
+tanto	CON	tanto
+</text>
+<text id='v595' author='Daniele' date='2016-07-10' time='15:34:53'>
+Sto	NOM	unknown
+scontando	VER:geru	scontare
+il	DET:def	il
+mese	NOM	mese
+di	PRE	di
+NY	NOM	unknown
+.	SENT	.
+Ora	ADV	ora
+aspetto	VER:pres	aspettare
+una	DET:indef	una
+di	PRE	di
+questo	PRO:demo	questo
+gruppo	NOM	gruppo
+per	PRE	per
+tornarci	VER:infi	tornare
+</text>
+<text id='v596' author='Silvio' date='2016-07-10' time='15:37:48'>
+Io	NOM	unknown
+?	SENT	?
+?	PON	?
+?	SENT	?
+?😊😊	NOM	unknown
+</text>
+<text id='v597' author='Patrizio' date='2016-07-10' time='15:40:15'>
+Chiedilo	NOM	unknown
+a	PRE	a
+rossi	ADJ	rosso
+</text>
+<text id='v598' author='Marta' date='2016-07-10' time='15:50:10'>
+Se	NOM	se
+viene	VER:pres	venire
+Silvio	NPR	Silvio
+,	PON	,
+vengo	VER:pres	venire
+anch'io	VER:geru	unknown
+</text>
+<text id='v599' author='Silvio' date='2016-07-10' time='15:51:10'>
+👏👏👏👍👍👍👍	NOM	unknown
+</text>
+<text id='v600' author='Daniele' date='2016-07-10' time='15:56:20'>
+Iniziate	VER:cpre	iniziare
+ad	PRE	ad
+andare	VER:infi	andare
+.	SENT	.
+Noi	PRO:pers	noi
+vi	PRO:refl	vi
+raggiungiamo	VER:cpre	raggiungere
+</text>
+<text id='v601' author='Silvio' date='2016-07-10' time='16:01:03'>
+😢😢😢	NOM	unknown
+</text>
+<text id='v602' author='Marta' date='2016-07-10' time='16:01:31'>
+Ma	NOM	ma
+si	PRO:refl	si
+può	VER:impe	unknown
+fare	VER:infi	fare
+un	DET:indef	un
+invito	NOM	invito
+e	CON	e
+poi	ADV	poi
+rispondere	VER:infi	rispondere
+così	ADJ	unknown
+?	SENT	?
+</text>
+<text id='v603' author='Marta' date='2016-07-10' time='16:02:12'>
+Silvio	NPR	Silvio
+non	ADV	non
+piangere	VER:infi	piangere
+</text>
+<text id='v604' author='Daniele' date='2016-07-10' time='16:04:17'>
+Mica	NOM	mica
+era	VER:impf	essere
+a	PRE	a
+te	PRO:pers	te
+l'	DET:def	il
+invito	NOM	invito
+</text>
+<text id='v605' author='Marta' date='2016-07-10' time='16:04:57'>
+Che	NPR	Che
+c'	PRO:demo	c'
+entra	VER:pres	entrare
+?	SENT	?
+Io	PRO:pers	io
+mi	PRO:refl	mi
+sono	VER:pres	essere
+accodata	VER:pper	accodare
+a	PRE	a
+Silvio	NPR	Silvio
+</text>
+<text id='v606' author='Marta' date='2016-07-10' time='16:05:10'>
+Mica	VER:impe	unknown
+a	PRE	a
+te	PRO:pers	te
+</text>
+<text id='v607' author='Silvio' date='2016-07-10' time='16:10:58'>
+Andiamo	VER:impe	andare
+noi,Marta	ADJ	unknown
+.	SENT	.
+Ti	PRO:refl	ti
+passo	VER:pres	passare
+a	PRE	a
+prendere	VER:infi	prendere
+con	PRE	con
+questa	PRO:demo	questo
+.	SENT	.
+.	SENT	.
+.	SENT	.
+</text>
+<text id='v608' author='Silvio' date='2016-07-10' time='16:11:21'>
+<‎immagine omessa>
+</text>
+<text id='v609' author='Marta' date='2016-07-10' time='16:11:55'>
+😎ok	NOM	unknown
+!	SENT	!
+</text>
+<text id='v610' author='Tommaso' date='2016-07-16' time='13:11:45'>
+Auguri	NOM	augurio
+Benedetta😊😘😊🌺	NOM	unknown
+</text>
+<text id='v611' author='Patrizio' date='2016-07-16' time='16:08:37'>
+Auguri	NOM	augurio
+</text>
+<text id='v612' author='Patrizio' date='2016-07-16' time='16:08:43'>
+Cosa	PRO:inter	cosa
+si	PRO:pers	si
+festeggia	VER:pres	festeggiare
+</text>
+<text id='v613' author='Patrizio' date='2016-07-16' time='16:08:46'>
+Matrimonio	NOM	matrimonio
+</text>
+<text id='v614' author='Patrizio' date='2016-07-16' time='16:08:54'>
+Anniversari	NOM	anniversario
+vari	ADJ	vario|varo
+</text>
+<text id='v615' author='Patrizio' date='2016-07-16' time='16:09:00'>
+Onomastico	ADJ	onomastico
+</text>
+<text id='v616' author='Marta' date='2016-07-16' time='16:09:17'>
+Un	NOM	unknown
+uomo	NOM	uomo
+devoto	ADJ	devoto
+come	CON	come
+te	PRO:pers	te
+dovrebbe	VER:cond	dovere
+saperlo	VER:infi	sapere
+</text>
+<text id='v617' author='Silvio' date='2016-07-16' time='16:09:25'>
+😜😜😜	NOM	unknown
+</text>
+<text id='v618' author='Marta' date='2016-07-16' time='16:09:26'>
+Auguri	NOM	augurio
+Benedetta	NOM	benedetta
+!	SENT	!
+</text>
+<text id='v619' author='Patrizio' date='2016-07-16' time='16:09:44'>
+Vincita	NOM	vincita
+al	PRE:det	al
+super	ADJ	super
+enalotto	NOM	unknown
+</text>
+<text id='v620' author='Valeria' date='2016-07-16' time='16:09:45'>
+Auguri	NOM	augurio
+</text>
+<text id='v621' author='Patrizio' date='2016-07-16' time='16:12:54'>
+Ancora	NOM	ancora
+auguri	NOM	augurio
+</text>
+<text id='v622' author='Vera' date='2016-07-16' time='16:18:40'>
+🤔	NOM	unknown
+auguri	NOM	augurio
+</text>
+<text id='v623' author='Benedetta' date='2016-07-16' time='16:19:29'>
+Grazie	NOM	grazia
+</text>
+<text id='v624' author='Alessandro' date='2016-07-16' time='16:33:20'>
+Auguri	NOM	augurio
+anche	ADV	anche
+da	PRE	da
+me	PRO:pers	me
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v625' author='Alessandro' date='2016-07-16' time='16:34:37'>
+Auguri	NOM	augurio
+Benedetta	NOM	benedetta
+.	SENT	.
+Anche	ADV	anche
+da	PRE	da
+me	PRO:pers	me
+.	SENT	.
+Alessandro	NPR	Alessandro
+</text>
+<text id='v626' author='Benedetta' date='2016-07-16' time='16:34:49'>
+😘😘	NOM	unknown
+</text>
+<text id='v627' author='Daniele' date='2016-07-16' time='20:06:18'>
+https://www.*****	ADJ	unknown
+</text>
+<text id='v628' author='Marta' date='2016-07-16' time='20:47:30'>
+Merci	NOM	merce
+!	SENT	!
+</text>
+<text id='v629' author='Tommaso' date='2016-07-18' time='09:58:34'>
+Scusa	NOM	scusa
+Eleonora	NPR	Eleonora
+se	CON	se
+ti	PRO:refl	ti
+faccio	VER:pres	fare
+gli	DET:def	il
+AUGURI	NOM	augurio
+😘🤑😊🌺🍀🎈🍾💐🍸🌼🎂🌻🌳🍰🌷	NOM	unknown
+solo	ADV	solo
+perchè	ADJ	unknown
+me	PRO:pers	me
+lo	PRO:pers	lo
+ha	VER:pres	avere
+ricordato	VER:pper	ricordare
+fb	NOM	unknown
+.	SENT	.
+</text>
+<text id='v630' author='Filippa' date='2016-07-18' time='09:59:42'>
+Ahahah	NOM	unknown
+</text>
+<text id='v631' author='Filippa' date='2016-07-18' time='10:00:32'>
+Grazie	NOM	grazia
+Tommaso	NPR	Tommaso
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v632' author='Patrizio' date='2016-07-18' time='10:17:36'>
+A	PRE	a
+me	PRO:pers	me
+fb	NOM	unknown
+me	PRO:pers	me
+lo	PRO:pers	lo
+ha	VER:pres	avere
+ricordato	VER:pper	ricordare
+ieri	ADV	ieri
+</text>
+<text id='v633' author='Patrizio' date='2016-07-18' time='10:17:44'>
+Tommaso	NPR	Tommaso
+oggi	ADV	oggi
+</text>
+<text id='v634' author='Patrizio' date='2016-07-18' time='10:18:04'>
+Tanti	VER:ppre	unknown
+auguri	NOM	augurio
+</text>
+<text id='v635' author='Daniele' date='2016-07-18' time='10:26:48'>
+Tanti	VER:ppre	unknown
+auguri	NOM	augurio
+Eli	NOM	elio
+</text>
+<text id='v636' author='Silvio' date='2016-07-18' time='10:28:02'>
+🎉🎉🎉🎈🎈🎈🎈🎈🎈	NOM	unknown
+</text>
+<text id='v637' author='Valeria' date='2016-07-18' time='10:30:02'>
+Auguri	NOM	augurio
+!	SENT	!
+</text>
+<text id='v638' author='Filippa' date='2016-07-18' time='10:41:29'>
+😁😁😊😀😍😘	NOM	unknown
+grazie	ADV	grazie
+assaiiiiii	VER:geru	unknown
+</text>
+<text id='v639' author='Benedetta' date='2016-07-18' time='10:42:38'>
+Auguri	NOM	augurio
+...	PON	...
+...	PON	...
+.ma	NOM	unknown
+per	PRE	per
+cosa	NOM	cosa
+?	SENT	?
+</text>
+<text id='v640' author='Filippa' date='2016-07-18' time='10:43:18'>
+Per	PRE	per
+l'	DET:def	il
+età	NOM	unknown
+che	PRO:rela	che
+avanza	VER:pres	avanzare
+</text>
+<text id='v641' author='Alessandro' date='2016-07-18' time='10:43:45'>
+Auguri	NOM	augurio
+Eleonora	NPR	Eleonora
+.	SENT	.
+🎂🎂🎂	NOM	unknown
+buon	ADJ	buon
+compleanno	NOM	compleanno
+.	SENT	.
+Da	PRE	da
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v642' author='Benedetta' date='2016-07-18' time='10:44:06'>
+👏👏👏	NOM	unknown
+</text>
+<text id='v643' author='Alessandro' date='2016-07-18' time='10:45:41'>
+Che	NPR	Che
+fai	VER:pres	fare
+?	SENT	?
+Ai	PRE:det	al
+ospiti	NOM	ospite
+a	PRE	a
+casa	NOM	casa
+tua	ADJ	tuo
+.	SENT	.
+</text>
+<text id='v644' author='Alessandro' date='2016-07-18' time='10:49:09'>
+🌹🌹🌹🌹🌹	NOM	unknown
+</text>
+<text id='v645' author='Vera' date='2016-07-18' time='18:10:31'>
+🌺🙋🏻	NOM	unknown
+</text>
+<text id='v646' author='Patrizio' date='2016-07-19' time='22:42:24'>
+<‎immagine omessa>
+</text>
+<text id='v647' author='Patrizio' date='2016-07-19' time='22:42:37'>
+La	NOM	unknown
+sicurezza	NOM	sicurezza
+è	NOM	unknown
+il	DET:def	il
+mio	PRO:poss	mio
+mestiere	NOM	mestiere
+!	SENT	!
+</text>
+<text id='v648' author='Alessandro' date='2016-07-20' time='16:34:00'>
+Se	CON	se
+alzava	VER:impf	alzare
+la	DET:def	il
+testa	NOM	testa
+.	SENT	.
+Lovedevo	NOM	unknown
+meglio	ADJ	meglio
+.	SENT	.
+</text>
+<text id='v649' author='Alessandro' date='2016-07-20' time='16:35:35'>
+È	NOM	unknown
+ciuto	VER:geru	unknown
+quello	PRO:demo	quello
+che	PRO:rela	che
+lo	PRO:pers	lo
+ha	VER:pres	avere
+fatto	VER:pper	fare
+.	SENT	.
+</text>
+<text id='v650' author='Alessandro' date='2016-07-20' time='16:37:00'>
+La	DET:def	il
+foto	NOM	foto
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v651' author='Marta' date='2016-07-20' time='16:37:34'>
+😱	NOM	unknown
+</text>
+<text id='v652' author='Marta' date='2016-07-20' time='16:37:46'>
+Alessandro	NPR	Alessandro
+,	PON	,
+l'	DET:def	il
+ha	VER:pres	avere
+fatta	VER:pper	fare
+Patrizio	NPR	Patrizio
+</text>
+<text id='v653' author='Marta' date='2016-07-20' time='16:37:58'>
+Il	NOM	unknown
+principale	ADJ	principale
+</text>
+<text id='v654' author='Marta' date='2016-07-20' time='16:38:04'>
+Ora	NOM	ora
+si	PRO:pers	si
+arrabbia	VER:pres	arrabbiare
+</text>
+<text id='v655' author='Alessandro' date='2016-07-20' time='17:02:50'>
+Non	NOM	unknown
+era	VER:impf	essere
+a	PRE	a
+Patrizio	NPR	Patrizio
+ma	CON	ma
+a	PRE	a
+Alessandro	NPR	Alessandro
+andrulli	ADJ	unknown
+.	SENT	.
+</text>
+<text id='v656' author='Patrizio' date='2016-07-20' time='17:32:27'>
+Alessandro	NPR	Alessandro
+quando	CON	quando
+ci	PRO:refl	ci
+vieni	VER:pres	venire
+a	PRE	a
+trovare	VER:infi	trovare
+?	SENT	?
+</text>
+<text id='v657' author='Alessandro' date='2016-07-21' time='08:19:58'>
+Qualche	ADJ	qualche
+pomeriggio	NOM	pomeriggio
+vengo	VER:pres	venire
+.	SENT	.
+Con	PRE	con
+Benedetta	NOM	benedetta
+la	DET:def	il
+moglie	NOM	moglie
+di	PRE	di
+stacchio	NOM	unknown
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v658' author='Alessandro' date='2016-07-22' time='09:44:43'>
+Se	PRO:refl	se
+sono	VER:pres	essere
+ancora	ADV	ancora
+il	DET:def	il
+benvenuto	NOM	benvenuto
+.	SENT	.
+È	NOM	unknown
+l	ADJ	unknown
+'	PON	'
+amico	NOM	amico
+vostro	PRO:poss	vostro
+.	SENT	.
+Alessandro	NPR	Alessandro
+.	SENT	.
+👍👍👍😘😘😘😘	NOM	unknown
+</text>
+<text id='v659' author='Daniele' date='2016-07-22' time='09:45:16'>
+Alessandro	NPR	Alessandro
+tu	NOM	tu
+li	PRO:pers	li
+sei	ADJ	sei
+di	PRE	di
+casa	NOM	casa
+</text>
+<text id='v660' author='Alessandro' date='2016-07-22' time='09:48:25'>
+Grazie	NOM	grazia
+Daniele	NPR	Daniele
+.	SENT	.
+</text>
+<text id='v661' author='Marta' date='2016-07-22' time='19:47:40'>
+<‎immagine omessa>
+</text>
+<text id='v662' author='Marta' date='2016-07-22' time='19:48:00'>
+Ciao	INT	ciao
+a	PRE	a
+tutti	PRO:indef	tutto
+</text>
+<text id='v663' author='Marta' date='2016-07-22' time='19:48:36'>
+Messaggio	NOM	messaggio
+per	PRE	per
+l'	DET:def	il
+amministratore	NOM	amministratore
+del	PRE:det	del
+gruppo	NOM	gruppo
+</text>
+<text id='v664' author='Marta' date='2016-07-22' time='19:48:48'>
+Inserisci	NOM	unknown
+Valeria	NPR	Valeria
+!	SENT	!
+!	PON	!
+</text>
+<text id='v665' author='Valeria' date='2016-07-22' time='19:54:49'>
+Marta	NPR	Marta
+che	CON	che
+bel	ADJ	bel
+taglio	NOM	taglio
+</text>
+<text id='v666' author='Marta' date='2016-07-22' time='19:58:04'>
+😄😄😄grazie	NOM	unknown
+</text>
+<text id='v667' author='Patrizio' date='2016-07-24' time='13:12:54'>
+<‎immagine omessa>
+</text>
+<text id='v668' author='Patrizio' date='2016-07-24' time='13:13:06'>
+Peccato	NOM	peccato
+che	CON	che
+paolo	NOM	paolo
+non	ADV	non
+è	NOM	unknown
+in	PRE	in
+chat	ADJ	unknown
+</text>
+<text id='v669' author='Filippa' date='2016-07-24' time='13:13:46'>
+😂😂😂	NOM	unknown
+</text>
+<text id='v670' author='Silvio' date='2016-07-24' time='13:14:03'>
+😜😜😜😜😜	NOM	unknown
+</text>
+<text id='v671' author='Silvio' date='2016-07-24' time='13:15:00'>
+giralo	VER:impe	girare
+a	PRE	a
+Giulia	NPR	Giulia
+!	SENT	!
+</text>
+<text id='v672' author='Patrizio' date='2016-07-24' time='13:16:15'>
+Girato	VER:pper	girare
+su	PRE	su
+fb	NOM	unknown
+</text>
+<text id='v673' author='Silvio' date='2016-07-24' time='13:16:37'>
+😰😰😰	NOM	unknown
+</text>
+<text id='v674' author='Patrizio' date='2016-07-24' time='13:16:43'>
+Il	NOM	unknown
+video	ADJ	video
+che	PRO:rela	che
+paolo	NOM	paolo
+mette	VER:pres	mettere
+tutti	ADJ	tutto
+i	DET:def	il
+giorni	NOM	giorno
+</text>
+<text id='v675' author='Patrizio' date='2016-07-24' time='13:16:50'>
+Ha	NOM	unknown
+fatto	VER:pper	fare
+effetto	NOM	effetto
+</text>
+<text id='v676' author='Patrizio' date='2016-07-24' time='13:17:16'>
+Girato	NOM	girato
+con	PRE	con
+messaggio	NOM	messaggio
+privato	ADJ	privato
+Logicamente	NOM	unknown
+</text>
+<text id='v677' author='Marta' date='2016-07-26' time='20:45:37'>
+<‎video omesso>
+</text>
+<text id='v678' author='Filippa' date='2016-07-26' time='20:47:53'>
+Iooo	NOM	unknown
+</text>
+<text id='v679' author='Marta' date='2016-07-26' time='20:48:04'>
+Evviva	NOM	evviva
+!	SENT	!
+!	PON	!
+</text>
+<text id='v680' author='Vera' date='2016-07-26' time='20:51:06'>
+😱😱😱	NOM	unknown
+augurissimi	ADJ	unknown
+Marta	NPR	Marta
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v681' author='Vera' date='2016-07-26' time='20:51:13'>
+🌺	NOM	unknown
+</text>
+<text id='v682' author='Marta' date='2016-07-26' time='20:55:41'>
+Grazie	NOM	grazia
+</text>
+<text id='v683' author='Tommaso' date='2016-07-26' time='21:41:14'>
+È	NOM	unknown
+già	ADJ	unknown
+finita	VER:pper	finire
+?	SENT	?
+</text>
+<text id='v684' author='Marta' date='2016-07-26' time='21:45:21'>
+Nooo	ADJ	unknown
+</text>
+<text id='v685' author='Marta' date='2016-07-26' time='21:45:30'>
+Venite	NOM	unknown
+!	SENT	!
+</text>
+<text id='v686' author='Tommaso' date='2016-07-26' time='21:46:58'>
+Tra	PRE	tra
+un	DET:indef	un
+pò💐😊🍾🍀	ADJ	unknown
+</text>
+<text id='v687' author='Marta' date='2016-07-26' time='22:02:30'>
+<‎immagine omessa>
+</text>
+<text id='v688' author='Valeria' date='2016-07-26' time='22:20:26'>
+Bello	NOM	bello
+</text>
+<text id='v689' author='Patrizio' date='2016-07-27' time='14:42:35'>
+<‎immagine omessa>
+</text>
+<text id='v690' author='Patrizio' date='2016-07-27' time='14:42:42'>
+Gli	NOM	unknown
+invincibili	ADJ	invincibile
+</text>
+<text id='v691' author='Alessandro' date='2016-07-27' time='15:12:34'>
+Amico	NOM	amico
+Patrizio	NPR	Patrizio
+perché	ADJ	unknown
+.	SENT	.
+Alessandro	NPR	Alessandro
+andrulli	ADJ	unknown
+sta	VER:pres	stare
+con	PRE	con
+la	DET:def	il
+testa	NOM	testa
+in	PRE	in
+giù	NOM	unknown
+?	SENT	?
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v692' author='Alessandro' date='2016-07-27' time='15:13:28'>
+Mo	ADV	mo'
+sono	VER:pres	essere
+2	NUM	@card@
+volte	NOM	volta
+.	SENT	.
+👍👍👍👍	NOM	unknown
+</text>
+<text id='v693' author='Alessandro' date='2016-07-27' time='15:15:15'>
+Sta	NOM	unknown
+meglio	ADV	meglio
+tuo	ADJ	tuo
+figlio	NOM	figlio
+Luigi	NPR	Luigi
+che	PRO:rela	che
+lui	PRO:pers	lui
+.	SENT	.
+PM	ABR	pm
+ciao	INT	ciao
+</text>
+<text id='v694' author='Patrizio' date='2016-07-27' time='15:16:23'>
+Ma	NOM	ma
+tu	PRO:pers	tu
+quando	ADV	quando
+vieni	VER:pres	venire
+?	SENT	?
+</text>
+<text id='v695' author='Alessandro' date='2016-07-27' time='15:18:37'>
+Forse	ADV	forse
+martedì	NOM	unknown
+2	NUM	@card@
+agosto	NOM	agosto
+.	SENT	.
+Se	CON	se
+ci	PRO:refl	ci
+vediamo	VER:cpre	vedere
+al	PRE:det	al
+bar	NOM	bar
+degli	PRE:det	del
+olmi	NOM	olmo
+.	SENT	.
+</text>
+<text id='v696' author='Vera' date='2016-07-29' time='09:35:48'>
+🍾	NOM	unknown
+*tanti*	NOM	unknown
+*auguri*	NOM	unknown
+*Tommasooooo*🎂❗❗❗❗	NOM	unknown
+</text>
+<text id='v697' author='Marta' date='2016-07-29' time='09:36:07'>
+Vero	NOM	vero
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v698' author='Marta' date='2016-07-29' time='09:36:26'>
+Tanti	PRO:indef	tanto
+auguri	NOM	augurio
+!	PON	!
+!	SENT	!
+🕷🕷🐜🐜🐍🐍🐛🐛🐝🐝	NOM	unknown
+</text>
+<text id='v699' author='Tommaso' date='2016-07-29' time='09:38:11'>
+Grazieeee	NOM	unknown
+</text>
+<text id='v700' author='Tommaso' date='2016-07-29' time='09:38:57'>
+Un	NOM	unknown
+saluto	NOM	saluto
+dall'	PRE:det	dal
+alba	NOM	alba
+del	PRE:det	del
+mio	PRO:poss	mio
+59esimo	NOM	unknown
+anno	NOM	anno
+neolitico	ADJ	neolitico
+</text>
+<text id='v701' author='Tommaso' date='2016-07-29' time='09:39:50'>
+<‎immagine omessa>
+</text>
+<text id='v702' author='Tommaso' date='2016-07-29' time='09:39:51'>
+<‎immagine omessa>
+</text>
+<text id='v703' author='Tommaso' date='2016-07-29' time='09:39:51'>
+<‎immagine omessa>
+</text>
+<text id='v704' author='Filippa' date='2016-07-29' time='09:41:25'>
+Hai	NOM	unknown
+dormito	VER:pper	dormire
+nel	PRE:det	nel
+villaggio	NOM	villaggio
+?	SENT	?
+!	PON	!
+?	SENT	?
+Augurissimi	ADJ	unknown
+🎂🎁🎈💐	NOM	unknown
+</text>
+<text id='v705' author='Tommaso' date='2016-07-29' time='09:46:03'>
+Mi	NOM	unknown
+ci	PRO:refl	ci
+sono	VER:pres	essere
+trovato	VER:pper	trovare
+all'	PRE:det	al
+alba	NOM	alba
+.	SENT	.
+</text>
+<text id='v706' author='Vera' date='2016-07-29' time='09:48:25'>
+Bellissimo	ADJ	bello
+!	SENT	!
+👍🏻👍🏻	NOM	unknown
+</text>
+<text id='v707' author='Tommaso' date='2016-07-29' time='09:50:46'>
+Grazie	NOM	grazia
+.	SENT	.
+</text>
+<text id='v708' author='Tommaso' date='2016-07-29' time='09:52:35'>
+Auguri	NOM	augurio
+a	PRE	a
+Marta	NPR	Marta
+.	SENT	.
+E	CON	e
+a	PRE	a
+Benedetta	NOM	benedetta
+e	CON	e
+Stachio	NOM	unknown
+.	SENT	.
+</text>
+<text id='v709' author='Vera' date='2016-07-29' time='09:53:13'>
+💃🏼💃🏼🍡🍾Grazie	NOM	unknown
+!	SENT	!
+</text>
+<text id='v710' author='Daniele' date='2016-07-29' time='09:53:20'>
+Auguri	NOM	augurio
+a	PRE	a
+tutti	PRO:indef	tutto
+</text>
+<text id='v711' author='Marta' date='2016-07-29' time='09:54:08'>
+Auguri	NOM	augurio
+</text>
+<text id='v712' author='Marta' date='2016-07-29' time='09:54:18'>
+Marta	NPR	Marta
+,	PON	,
+Benedetta	NOM	benedetta
+e	CON	e
+stacchio	NOM	unknown
+</text>
+<text id='v713' author='Filippa' date='2016-07-29' time='10:06:19'>
+Mi	NOM	unknown
+sto	VER:pres	stare
+perdendo	VER:geru	perdere
+...	PON	...
+tutti	PRO:indef	tutto
+oggi	ADV	oggi
+siete	VER:pres	essere
+nati	VER:pper	nascere
+?	SENT	?
+</text>
+<text id='v714' author='Silvio' date='2016-07-29' time='10:25:08'>
+Matrimonio	NOM	matrimonio
+Benedetta	NOM	benedetta
+e	CON	e
+onomastico	NOM	onomastico
+Marta	NPR	Marta
+!	SENT	!
+Auguriiii	VER:impe	unknown
+</text>
+<text id='v715' author='Valeria' date='2016-07-29' time='10:25:45'>
+Auguriiii	NOM	unknown
+</text>
+<text id='v716' author='Marta' date='2016-07-29' time='10:26:13'>
+Silvio	NPR	Silvio
+,	PON	,
+hai	VER:pres	avere
+fatto	VER:pper	fare
+la	DET:def	il
+torta	NOM	torta
+neolitica	ADJ	neolitico
+?	SENT	?
+</text>
+<text id='v717' author='Benedetta' date='2016-07-29' time='10:33:57'>
+Grazieeee	ADJ	unknown
+</text>
+<text id='v718' author='Patrizio' date='2016-07-29' time='10:35:50'>
+Allora	NOM	unknown
+auguri	NOM	augurio
+a	PRE	a
+tutti	PRO:indef	tutto
+</text>
+<text id='v719' author='Benedetta' date='2016-07-29' time='10:36:05'>
+Auguri	NOM	augurio
+Tommaso	NPR	Tommaso
+</text>
+<text id='v720' author='Patrizio' date='2016-07-29' time='10:36:08'>
+Per	NOM	unknown
+le	DET:def	il
+torte	NOM	torta
+vi	PRO:refl	vi
+aspetto	VER:pres	aspettare
+martedì	VER:geru	unknown
+</text>
+<text id='v721' author='Benedetta' date='2016-07-29' time='10:36:31'>
+Il	NOM	unknown
+prossimo	ADJ	prossimo
+anno	NOM	anno
+grande	ADJ	grande
+festa	NOM	festa
+.	SENT	.
+</text>
+<text id='v722' author='Benedetta' date='2016-07-29' time='10:36:43'>
+Marta	NPR	Marta
+😘😘😘😘😘😘	NOM	unknown
+</text>
+<text id='v723' author='Silvio' date='2016-07-29' time='10:51:14'>
+Niente	NOM	niente
+torta	ADJ	torto
+oggi	ADV	oggi
+...	PON	...
+andiamo	VER:cpre	andare
+al	PRE:det	al
+mare	NOM	mare
+.	SENT	.
+Poi	ADV	poi
+dolcetti	NOM	dolcetto
+a	PRE	a
+Nova	NOM	nova
+Siri	NOM	sire
+con	PRE	con
+i	DET:def	il
+nipoti	NOM	nipote
+!	SENT	!
+!	PON	!
+!	SENT	!
+🎂🎂🎂	NOM	unknown
+</text>
+<text id='v724' author='Benedetta' date='2016-07-29' time='10:51:40'>
+👍	NOM	unknown
+</text>
+<text id='v725' author='Marta' date='2016-07-29' time='10:51:41'>
+😎😎🏊🏼🏊🏼🏄🏽🏄🏽	NOM	unknown
+</text>
+<text id='v726' author='Vittoria' date='2016-07-29' time='11:16:10'>
+Auguri	NOM	augurio
+a	PRE	a
+tutti	PRO:indef	tutto
+</text>
+<text id='v727' author='Tommaso' date='2016-07-29' time='13:39:13'>
+<‎immagine omessa>
+</text>
+<text id='v728' author='Marta' date='2016-07-29' time='13:41:53'>
+È	NOM	unknown
+un	DET:indef	un
+invito	NOM	invito
+a	PRE	a
+pranzo	NOM	pranzo
+?	SENT	?
+</text>
+<text id='v729' author='Vera' date='2016-07-29' time='13:46:24'>
+Dieta	NOM	dieta
+da	PRE	da
+Tonino	NPR	Tonino
+?	SENT	?
+</text>
+<text id='v730' author='Vera' date='2016-07-29' time='13:46:31'>
+Siete😂	ADJ	unknown
+</text>
+<text id='v731' author='Patrizio' date='2016-07-29' time='14:10:56'>
+Se	NOM	se
+sta	VER:pres	stare
+la	DET:def	il
+torta	ADJ	torto
+cengo	NOM	unknown
+</text>
+<text id='v732' author='Patrizio' date='2016-07-29' time='14:11:02'>
+Vengo	VER:pres	venire
+</text>
+<text id='v733' author='Tommaso' date='2016-07-29' time='21:11:32'>
+Chi	NOM	unknown
+vuole	VER:pres	volere
+un	DET:indef	un
+gelato	NOM	gelato
+venga	VER:cpre	venire
+al	PRE:det	al
+Lounge	NOM	unknown
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v734' author='Marta' date='2016-07-29' time='21:12:03'>
+Seeee	ADJ	unknown
+</text>
+<text id='v735' author='Marta' date='2016-07-29' time='21:12:21'>
+Tanto	NOM	unknown
+Piacere	NOM	piacere
+!	SENT	!
+</text>
+<text id='v736' author='Marta' date='2016-07-29' time='21:12:47'>
+<‎immagine omessa>
+</text>
+<text id='v737' author='Filippa' date='2016-07-29' time='21:13:08'>
+Wooow	NOM	unknown
+</text>
+<text id='v738' author='Tommaso' date='2016-07-29' time='21:17:31'>
+Ahh	NOM	unknown
+già	ADJ	unknown
+.	SENT	.
+Ai	PRE:det	al
+prossimi	ADJ	prossimo
+59	NUM	@card@
+.	SENT	.
+</text>
+<text id='v739' author='Marta' date='2016-07-29' time='21:18:06'>
+👍🏼	NOM	unknown
+</text>
+<text id='v740' author='Tommaso' date='2016-08-08' time='12:06:26'>
+<‎immagine omessa>
+</text>
+<text id='v741' author='Patrizio' date='2016-08-08' time='12:07:27'>
+Do	NOM	do
+son	VER:pres	essere
+a	PRE	a
+gì	NOM	unknown
+</text>
+<text id='v742' author='Daniele' date='2016-08-08' time='12:24:46'>
+A	NOM	unknown
+Bologna	NPR	Bologna
+mettono	VER:pres	mettere
+la	DET:def	il
+mortadella	NOM	mortadella
+</text>
+<text id='v743' author='Marta' date='2016-08-08' time='12:32:04'>
+😱😱	NOM	unknown
+</text>
+<text id='v744' author='Patrizio' date='2016-08-08' time='12:34:37'>
+Noi	NOM	unknown
+abbiamo	VER:pres	avere
+la	DET:def	il
+cialledda	ADJ	unknown
+di	PRE	di
+Benedetta	NOM	benedetta
+</text>
+<text id='v745' author='Marta' date='2016-08-08' time='12:34:53'>
+Domani	NOM	domani
+?	SENT	?
+</text>
+<text id='v746' author='Patrizio' date='2016-08-08' time='12:35:00'>
+Che	CON	che
+vi	PRO:refl	vi
+siete	VER:pres	essere
+persi	VER:pper	perdere
+martedì	NOM	unknown
+scorso	ADJ	scorso
+</text>
+<text id='v747' author='Patrizio' date='2016-08-08' time='12:35:08'>
+Mo	NOM	unknown
+vediamo	VER:pres	vedere
+</text>
+<text id='v748' author='Patrizio' date='2016-08-08' time='12:35:16'>
+Vedete	VER:impe	vedere
+previsioni	NOM	previsione
+</text>
+<text id='v749' author='Marta' date='2016-08-08' time='12:39:02'>
+Domani	NOM	domani
+sole	ADJ	solo
+</text>
+<text id='v750' author='Marta' date='2016-08-08' time='12:40:00'>
+🌞🌞🌞	NOM	unknown
+</text>
+<text id='v751' author='Silvio' date='2016-08-08' time='15:57:55'>
+<‎immagine omessa>
+</text>
+<text id='v752' author='Marta' date='2016-08-08' time='16:03:33'>
+😃	NOM	unknown
+</text>
+<text id='v753' author='Patrizio' date='2016-08-08' time='16:32:14'>
+Mi	NOM	unknown
+fai	VER:pres	fare
+una	DET:indef	una
+foto	NOM	foto
+frontale	ADJ	frontale
+che	PRO:rela	che
+devo	VER:pres	dovere
+metterla	VER:infi	mettere
+su	PRE	su
+fb	NOM	unknown
+</text>
+<text id='v754' author='Patrizio' date='2016-08-08' time='16:32:26'>
+Che	NPR	Che
+coincidenza	NOM	coincidenza
+</text>
+<text id='v755' author='Patrizio' date='2016-08-08' time='16:32:39'>
+😀😀😀😀😀	NOM	unknown
+</text>
+<text id='v756' author='Alessandro' date='2016-08-23' time='09:41:06'>
+Meno	ABR	unknown
+2	NUM	@card@
+alla	PRE:det	al
+finale	NOM	finale
+del	PRE:det	del
+parco	ADJ	parco
+Murgia	NOM	unknown
+film	NOM	film
+.	SENT	.
+Forse	ADV	forse
+verro	NOM	verro
+.	SENT	.
+il	DET:def	il
+30	NUM	@card@
+.	SENT	.
+Alessandro	NPR	Alessandro
+</text>
+<text id='v757' author='Alessandro' date='2016-08-23' time='09:44:00'>
+Meno	ABR	unknown
+2	NUM	@card@
+alla	PRE:det	al
+fine	NOM	fine
+del	PRE:det	del
+parco	ADJ	parco
+murgia	NOM	unknown
+film	NOM	film
+.	SENT	.
+Forse	ADV	forse
+verro	NOM	verro
+il	DET:def	il
+giorno	NOM	giorno
+30	NUM	@card@
+agosto	NOM	agosto
+.	SENT	.
+Alessandro	NPR	Alessandro
+</text>
+<text id='v758' author='Alessandro' date='2016-08-23' time='10:17:26'>
+Se	NOM	se
+vi	PRO:refl	vi
+siete	VER:pres	essere
+offesi	NOM	offeso
+chiedo	VER:pres	chiedere
+perdono	NOM	perdono
+.	SENT	.
+👍👍👍👍	NOM	unknown
+</text>
+<text id='v759' author='Alessandro' date='2016-08-31' time='17:46:28'>
+Amici	NOM	amico
+delle	PRE:det	del
+cea	ADJ	unknown
+.	SENT	.
+Che	CON	che
+si	PRO:refl	si
+dice	VER:pres	dire
+di	PRE	di
+bello	ADJ	bello
+.	SENT	.
+il	DET:def	il
+vostro	PRO:poss	vostro
+amico	NOM	amico
+alessandro	ADJ	unknown
+rossi	ADJ	rosso
+</text>
+<text id='v760' author='Patrizio' date='2016-08-31' time='17:47:53'>
+Che	NPR	Che
+ti	PRO:refl	ti
+aspettiamo	VER:cpre	aspettare
+</text>
+<text id='v761' author='Patrizio' date='2016-08-31' time='17:47:59'>
+Martedi	NOM	unknown
+</text>
+<text id='v762' author='Alessandro' date='2017-02-25' time='15:16:08'>
+Amico	NOM	amico
+Patrizio	NPR	Patrizio
+.	SENT	.
+Che	CON	che
+si	PRO:refl	si
+dice	VER:pres	dire
+di	PRE	di
+bello	ADJ	bello
+.	SENT	.
+È	NOM	unknown
+le	DET:def	il
+donne	NOM	donna
+singol	NOM	unknown
+.	SENT	.
+Che	CON	che
+fanno	VER:pres	fare
+.	SENT	.
+Ciao	INT	ciao
+da	PRE	da
+Alessandro	NPR	Alessandro
+.	SENT	.
+</text>
+<text id='v763' author='Alessandro' date='2017-02-25' time='15:19:15'>
+Forse	ADV	forse
+qualche	ADJ	qualche
+domenica	NOM	domenica
+vengo	VER:pres	venire
+.	SENT	.
+👍👍👍👍	NOM	unknown
+</text>
+<text id='v764' author='Patrizio' date='2017-02-25' time='15:26:13'>
+Sì	NOM	unknown
+sono	VER:pres	essere
+tutte	PRO:indef	tutto
+fidanzate	VER:impe	fidanzare
+</text>
+<text id='v765' author='Patrizio' date='2017-03-01' time='08:12:40'>
+Daniele	NPR	Daniele
+oggi	ADV	oggi
+puoi	VER:pres	potere
+scegliere	VER:infi	scegliere
+la	DET:def	il
+fidanzata	NOM	fidanzata
+che	PRO:rela	che
+vuoi	VER:pres	volere
+</text>
+<text id='v766' author='Patrizio' date='2017-03-01' time='08:12:52'>
+Buon	NOM	unknown
+compleanno	NOM	compleanno
+!	SENT	!
+</text>
+<text id='v767' author='Valeria' date='2017-03-01' time='08:22:44'>
+Auguri	NOM	augurio
+daniele	VER:geru	unknown
+</text>
+<text id='v768' author='Patrizio' date='2017-03-01' time='08:23:12'>
+Ecco	NOM	unknown
+la	DET:def	il
+prima	ADJ	primo
+a	PRE	a
+candidarsi	VER:infi	candidare
+</text>
+<text id='v769' author='Vera' date='2017-03-01' time='08:28:25'>
+Tanti	NOM	unknown
+auguri	NOM	augurio
+Daniele	NPR	Daniele
+!	SENT	!
+😻	NOM	unknown
+</text>
+<text id='v770' author='Filippa' date='2017-03-01' time='08:33:51'>
+...	PON	...
+e	CON	e
+come	CON	come
+per	PRE	per
+tradizione	NOM	tradizione
+il	DET:def	il
+giorno	NOM	giorno
+del	PRE:det	del
+suo	PRO:poss	suo
+compleanno	NOM	compleanno
+si	PRO:pers	si
+è	NOM	unknown
+dato	VER:pper	dare
+al	PRE:det	al
+Larezza	NOM	unknown
+...	PON	...
+🌼🌸	NOM	unknown
+ma	CON	ma
+noi	PRO:pers	noi
+ti	PRO:refl	ti
+vogliamo	VER:pres	volere
+bene	ADV	bene
+lo	DET:def	il
+stesso	ADJ	stesso
+,	PON	,
+auguri	NOM	augurio
+amico	ADJ	amico
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v771' author='Vittoria' date='2017-03-01' time='08:41:17'>
+Auguri	NOM	augurio
+dani	VER:geru	unknown
+</text>
+<text id='v772' author='Marta' date='2017-03-01' time='08:42:31'>
+Auguri	NOM	augurio
+!	SENT	!
+</text>
+<text id='v773' author='Silvio' date='2017-03-01' time='08:50:45'>
+Auguri	NOM	augurio
+!	SENT	!
+🎂🎂🎂	NOM	unknown
+</text>
+<text id='v774' author='Daniele' date='2017-03-01' time='09:02:58'>
+Grazie	NOM	grazia
+mille	ADJ	mille
+.	SENT	.
+Scelgo	VER:pres	scegliere
+scelgo	VER:pres	scegliere
+...	PON	...
+...	PON	...
+</text>
+<text id='v775' author='Tommaso' date='2017-03-01' time='09:03:48'>
+Ci	NOM	ci
+sono	VER:pres	essere
+anch'io	VER:impe	unknown
+.	SENT	.
+</text>
+<text id='v776' author='Daniele' date='2017-03-01' time='09:04:44'>
+Ma	CON	ma
+non	ADV	non
+sei	ADJ	sei
+tra	PRE	tra
+i	DET:def	il
+nomi	NOM	nome
+da	PRE	da
+scegliere	VER:infi	scegliere
+come	PRE	come
+fidanzata	ADJ	fidanzato
+😀	NOM	unknown
+</text>
+<text id='v777' author='Tommaso' date='2017-03-01' time='09:05:14'>
+Decidi	NOM	unknown
+tu	PRO:pers	tu
+</text>
+<text id='v778' author='Benedetta' date='2017-03-01' time='16:28:29'>
+Auguri	NOM	augurio
+Daniele	NPR	Daniele
+</text>
+<text id='v779' author='Benedetta' date='2017-03-01' time='16:28:51'>
+🍾🍾🍾🍾	NOM	unknown
+</text>
+<text id='v780' author='Daniele' date='2017-03-01' time='17:25:46'>
+Grazie	NOM	grazia
+Benedetta	NOM	benedetta
+.	SENT	.
+Io	PRO:pers	io
+inizio	VER:pres	iniziare
+solo	ADV	solo
+il	DET:def	il
+mese	NOM	mese
+😀	NOM	unknown
+</text>
+<text id='v781' author='Benedetta' date='2017-03-01' time='17:26:52'>
+😊😜	NOM	unknown
+</text>
+<text id='v782' author='Tommaso' date='2017-03-03' time='08:05:58'>
+Auguri	NOM	augurio
+a	PRE	a
+Benedetta	NOM	benedetta
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v783' author='Valeria' date='2017-03-03' time='08:09:56'>
+Auguri	NOM	augurio
+Benedetta	NOM	benedetta
+</text>
+<text id='v784' author='Vera' date='2017-03-03' time='08:11:04'>
+Tanti	VER:ppre	unknown
+auguri	NOM	augurio
+Benedetta	NOM	benedetta
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='v785' author='Daniele' date='2017-03-03' time='08:13:02'>
+Buon	ADJ	buon
+Compleanno	NOM	compleanno
+Benedetta	NOM	benedetta
+😘	NOM	unknown
+</text>
+<text id='v786' author='Silvio' date='2017-03-03' time='08:18:27'>
+Auguri	NOM	augurio
+🌷🌷🌷🌷	NOM	unknown
+</text>
+<text id='v787' author='Benedetta' date='2017-03-03' time='08:18:56'>
+😘	NOM	unknown
+</text>
+<text id='v788' author='Marta' date='2017-03-03' time='08:20:43'>
+Auguri	NOM	augurio
+!	SENT	!
+🦋	NOM	unknown
+</text>
+<text id='v789' author='Filippa' date='2017-03-03' time='08:32:57'>
+Buon	VER:pres	unknown
+compleanno	NOM	compleanno
+😃🎉	NOM	unknown
+</text>
+<text id='v790' author='Benedetta' date='2017-03-03' time='08:36:08'>
+Grazie	NOM	grazia
+a	PRE	a
+tutti	PRO:indef	tutto
+</text>
+<text id='v791' author='Vittoria' date='2017-03-03' time='09:13:57'>
+Auguri	NOM	augurio
+</text>
+<text id='v792' author='Patrizio' date='2017-03-03' time='10:14:55'>
+Auguri	NOM	augurio
+di	PRE	di
+cuore	NOM	cuore
+😘	NOM	unknown
+</text>
+<text id='v793' author='Daniele' date='2017-03-08' time='10:02:01'>
+<‎immagine omessa>
+</text>
+<text id='v794' author='Tommaso' date='2017-03-08' time='10:05:23'>
+Buona	NOM	buono
+giornata	NOM	giornata
+a	PRE	a
+tutte	ADJ	tutto
+.	SENT	.
+</text>
+<text id='v795' author='Patrizio' date='2017-03-08' time='10:06:00'>
+Vabbe	VER:cond	unknown
+daniele	VER:infi	unknown
+torna	VER:pres	tornare
+credibile	ADJ	credibile
+</text>
+<text id='v796' author='Patrizio' date='2017-03-08' time='10:06:03'>
+https://m.youtube.com/watch	NOM	unknown
+?	SENT	?
+v=IOsAyQ37jkc&feature=youtu.be	ADJ	unknown
+</text>
+<text id='v797' author='Patrizio' date='2017-03-08' time='10:06:32'>
+A	NOM	unknown
+rossi	ADJ	rosso
+piacerà	ADJ	unknown
+più	ADJ	unknown
+questa	PRO:demo	questo
+</text>
+<text id='v798' author='Daniele' date='2017-03-08' time='10:06:39'>
+Ahahah	NOM	unknown
+ero	VER:impf	essere
+indeciso	NOM	indeciso
+tra	PRE	tra
+quale	PRO:rela	quale
+mandare	VER:infi	mandare
+😀	NOM	unknown
+</text>
+<text id='v799' author='Patrizio' date='2017-03-08' time='10:06:39'>
+L	NUM	L
+avevo	VER:impf	avere
+rimossa	VER:pper	rimuovere
+</text>
+<text id='v800' author='Patrizio' date='2017-03-08' time='10:07:03'>
+A	NOM	unknown
+Sanremo	VER:futu	unknown
+è	NOM	unknown
+successo	VER:pper	succedere
+anche	ADV	anche
+questo	PRO:demo	questo
+</text>
+</corpus>

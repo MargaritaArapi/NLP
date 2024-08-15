@@ -1,0 +1,2887 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus>
+<text id='o1' author='emilia' date='2016-10-21' time='18:36:50'>
+Buonasera	NOM	buonasera
+ragazze	NOM	ragazza
+belle	ADJ	bello
+...	PON	...
+Allora	NOM	unknown
+facciamo	VER:pres	fare
+un	DET:indef	un
+po	NOM	unknown
+'	PON	'
+il	DET:def	il
+punto	NOM	punto
+della	PRE:det	del
+situation	NOM	situation
+</text>
+<text id='o2' author='emilia' date='2016-10-21' time='18:38:27'>
+Quando	VER:geru	unknown
+riusciamo	VER:pres	riuscire
+ad	PRE	ad
+incontrarci	VER:infi	incontrare
+tutte	ADJ	tutto
+?	SENT	?
+</text>
+<text id='o3' author='emilia' date='2016-10-21' time='18:38:40'>
+Ognuno	PRO:indef	ognuno
+proponga	VER:impe	proporre
+un	DET:indef	un
+paio	NOM	paio
+di	PRE	di
+date	NOM	data
+con	PRE	con
+orario	ADJ	orario
+</text>
+<text id='o4' author='sabrina' date='2016-10-21' time='18:39:02'>
+Sabato	NOM	sabato
+e/o	CON	e/o
+domenica	NOM	domenica
+</text>
+<text id='o5' author='sabrina' date='2016-10-21' time='18:39:29'>
+Domani	NOM	domani
+ci	PRO:refl	ci
+sono	VER:pres	essere
+sempre	ADV	sempre
+tranne	PRE	tranne
+dalle	PRE:det	dal
+13	NUM	@card@
+alle	PRE:det	al
+17	NUM	@card@
+circa	PRE	circa
+</text>
+<text id='o6' author='sabrina' date='2016-10-21' time='18:39:48'>
+Domenica	NOM	domenica
+sempre	ADV	sempre
+tranne	PRE	tranne
+dalle	PRE:det	dal
+20	NUM	@card@
+in	PRE	in
+poi	ADV	poi
+</text>
+<text id='o7' author='sabrina' date='2016-10-21' time='18:40:47'>
+Sabato	NOM	sabato
+29	NUM	@card@
+ci	PRO:refl	ci
+sono	VER:pres	essere
+sempre	ADV	sempre
+,	PON	,
+domenica	NOM	domenica
+30	NUM	@card@
+no	ADV	no
+perché	ADJ	unknown
+ho	VER:pres	avere
+un	DET:indef	un
+battesimo	NOM	battesimo
+!	SENT	!
+</text>
+<text id='o8' author='emilia' date='2016-10-21' time='18:41:16'>
+Il	DET:def	il
+prossimo	ADJ	prossimo
+week	NOM	unknown
+end	NOM	end
+non	ADV	non
+ci	PRO:refl	ci
+sono	VER:pres	essere
+scendo	VER:pres	scendere
+a	PRE	a
+casa	NOM	casa
+</text>
+<text id='o9' author='sabrina' date='2016-10-21' time='18:41:36'>
+👍🏼	NOM	unknown
+</text>
+<text id='o10' author='marianna' date='2016-10-21' time='19:08:58'>
+Allora	VER:pres	unknown
+vediamoci	VER:impe	vedere
+dopo	PRE	dopo
+pranzo	NOM	pranzo
+per	PRE	per
+un	DET:indef	un
+caffè	NOM	unknown
+...	PON	...
+da	PRE	da
+me	PRO:pers	me
+può	NOM	unknown
+andare	VER:infi	andare
+?	SENT	?
+🙂	NOM	unknown
+</text>
+<text id='o11' author='emilia' date='2016-10-21' time='19:12:58'>
+Quando	VER:geru	unknown
+?	SENT	?
+</text>
+<text id='o12' author='marianna' date='2016-10-21' time='19:16:11'>
+Domenica	NOM	domenica
+se	CON	se
+Sabrina	NPR	Sabrina
+non	ADV	non
+può	ADJ	unknown
+domani	ADV	domani
+</text>
+<text id='o13' author='marianna' date='2016-10-21' time='19:16:17'>
+Sennò	NOM	unknown
+ditemi	VER:impe	dire
+voi	PRO:pers	voi
+</text>
+<text id='o14' author='marianna' date='2016-10-21' time='19:16:32'>
+Vi	VER:impe	unknown
+do	NOM	do
+disponibilità	ADJ	unknown
+completa	ADJ	completo
+</text>
+<text id='o15' author='sabrina' date='2016-10-21' time='19:18:06'>
+Perfetto	NOM	perfetto
+domenica	NOM	domenica
+per	PRE	per
+me	PRO:pers	me
+!	SENT	!
+Domani	ADV	domani
+dopo	PRE	dopo
+pranzo	NOM	pranzo
+nn	ADV	non
+ci	PRO:refl	ci
+sono	VER:pres	essere
+perché	ADJ	unknown
+ho	VER:pres	avere
+l'	DET:def	il
+estetista	NOM	estetista
+e	CON	e
+poi	ADV	poi
+devo	VER:pres	dovere
+andare	VER:infi	andare
+con	PRE	con
+mia	PRO:poss	mio
+sorella	NOM	sorella
+fino	CON	fino
+a	PRE	a
+funo	NOM	unknown
+per	PRE	per
+scegliere	VER:infi	scegliere
+la	DET:def	il
+torta	NOM	torta
+per	PRE	per
+il	DET:def	il
+battesimo.	NOM	unknown
+.	SENT	.
+</text>
+<text id='o16' author='emilia' date='2016-10-21' time='19:19:59'>
+Dai	PRE:det	dal
+domenica	NOM	domenica
+ci	PRO:pers	ci
+starebbe	VER:cond	stare
+anche	ADV	anche
+per	PRE	per
+me	PRO:pers	me
+😁😂😂	NOM	unknown
+</text>
+<text id='o17' author='marie' date='2016-10-21' time='19:21:37'>
+Dovrei	VER:cond	dovere
+farcela	VER:infi	fare
+pure	ADV	pure
+io	PRO:pers	io
+😊😊😁	NOM	unknown
+</text>
+<text id='o18' author='emilia' date='2016-10-21' time='19:30:47'>
+Dopo	NOM	unknown
+pranzo	VER:pres	pranzare
+anche	ADV	anche
+le	DET:def	il
+14	NUM	@card@
+?	SENT	?
+</text>
+<text id='o19' author='marie' date='2016-10-21' time='19:32:33'>
+Per	PRE	per
+me	PRO:pers	me
+le	DET:def	il
+14	NUM	@card@
+va	VER:pres	andare
+benissimo	ADV	benissimo
+</text>
+<text id='o20' author='sabrina' date='2016-10-21' time='19:40:52'>
+👍🏼	NOM	unknown
+</text>
+<text id='o21' author='sabrina' date='2016-10-22' time='20:04:54'>
+@mari	NOM	unknown
+:	PON	:
+ciao	INT	ciao
+😊	NOM	unknown
+domani	ADV	domani
+verrei	VER:cond	venire
+da	PRE	da
+te	PRO:pers	te
+con	PRE	con
+Aleksander	NOM	unknown
+a	PRE	a
+seguito	NOM	seguito
+,	PON	,
+se	CON	se
+non	ADV	non
+è	NOM	unknown
+un	DET:indef	un
+problema	NOM	problema
+!	SENT	!
+😘	NOM	unknown
+</text>
+<text id='o22' author='emilia' date='2016-10-22' time='20:42:25'>
+Pensavamo	VER:impf	pensare
+a	PRE	a
+casa	NOM	casa
+di	PRE	di
+Mari	NOM	mare
+...	PON	...
+però	NOM	unknown
+se	CON	se
+per	PRE	per
+te	PRO:pers	te
+è	NOM	unknown
+scomodo	ADJ	scomodo
+e	CON	e
+vuoi	VER:pres	volere
+che	PRO:rela	che
+facciamo	VER:cpre	fare
+in	PRE	in
+centro	NOM	centro
+così	ADJ	unknown
+poi	ADV	poi
+fai	VER:pres	fare
+prima	ADV	prima
+ad	PRE	ad
+andare	VER:infi	andare
+al	PRE:det	al
+Lumière	NOM	unknown
+per	PRE	per
+me	PRO:pers	me
+si	PRO:refl	si
+può	VER:impe	unknown
+fare	VER:infi	fare
+anche	ADV	anche
+in	PRE	in
+centro	NOM	centro
+...	PON	...
+non	ADV	non
+so	VER:pres	sapere
+le	DET:def	il
+altre	ADJ	altro
+!	SENT	!
+</text>
+<text id='o23' author='emilia' date='2016-10-22' time='20:47:24'>
+Via	ADV	via
+***	NOM	unknown
+però	ADJ	unknown
+non	ADV	non
+ricordo	VER:pres	ricordare
+il	DET:def	il
+numero	NOM	numero
+😊🤔	NOM	unknown
+</text>
+<text id='o24' author='marianna' date='2016-10-22' time='21:11:14'>
+Ragazze	NOM	ragazza
+io	PRO:pers	io
+però	ADJ	unknown
+ho	VER:pres	avere
+un	DET:indef	un
+problemino	NOM	problemino
+dell'	PRE:det	del
+ultimo	NOM	ultimo
+minuto	ADJ	minuto
+:	PON	:
+sono	VER:pres	essere
+stata	VER:pper	essere|stare
+invitata	VER:pper	invitare
+a	PRE	a
+pranzo	NOM	pranzo
+da	PRE	da
+fede	NOM	fede
+.	SENT	.
+Andrebbe	VER:cond	andare
+bene	ADV	bene
+verso	PRE	verso
+le	DET:def	il
+15:40/	NUM	@card@
+16	PON	@card@
+?	SENT	?
+Fatemi	VER:impe	fare
+sapere	VER:infi	sapere
+.	SENT	.
+Se	CON	se
+per	PRE	per
+voi	PRO:pers	voi
+non	ADV	non
+è	NOM	unknown
+un	DET:indef	un
+problema	NOM	problema
+siete	VER:pres	essere
+le	DET:def	il
+benvenute	ADJ	benvenuto
+😘	NOM	unknown
+-	PON	-
+via	ADV	via
+***	NOM	unknown
+</text>
+<text id='o25' author='emilia' date='2016-10-22' time='21:36:50'>
+Non	NOM	unknown
+so	VER:pres	sapere
+le	DET:def	il
+altre	ADJ	altro
+ma	CON	ma
+io	PRO:pers	io
+mi	PRO:refl	mi
+ero	VER:impf	essere
+organizzata	VER:pper	organizzare
+per	PRE	per
+essere	VER:infi	essere
+alle	PRE:det	al
+18	NUM	@card@
+al	PRE:det	al
+cinemafrica	NOM	unknown
+...	SENT	...
+Per	NOM	unknown
+me	PRO:pers	me
+non	ADV	non
+è	NOM	unknown
+un	DET:indef	un
+problema	NOM	problema
+fare	VER:infi	fare
+alle	PRE:det	al
+15.30	NUM	@card@
+però	NOM	unknown
+a	PRE	a
+questo	PRO:demo	questo
+punto	NOM	punto
+vi	PRO:refl	vi
+chiederei	VER:cond	chiedere
+di	PRE	di
+fare	VER:infi	fare
+in	PRE	in
+centro	NOM	centro
+!	SENT	!
+</text>
+<text id='o26' author='emilia' date='2016-10-22' time='21:36:56'>
+Poi	ADV	poi
+non	ADV	non
+so	VER:pres	sapere
+le	DET:def	il
+altre	ADJ	altro
+😊	NOM	unknown
+</text>
+<text id='o27' author='marianna' date='2016-10-22' time='22:01:46'>
+Per	NOM	unknown
+me	PRO:pers	me
+va	VER:pres	andare
+bene	ADV	bene
+anche	ADV	anche
+in	PRE	in
+centro	NOM	centro
+</text>
+<text id='o28' author='sabrina' date='2016-10-23' time='08:07:44'>
+Ok	NOM	ok
+,	PON	,
+in	PRE	in
+centro	NOM	centro
+!	SENT	!
+Non	ADV	non
+m	VER:impe	unknown
+cambia	VER:pres	cambiare
+nulla	ADV	nulla
+!	PON	!
+!	SENT	!
+</text>
+<text id='o29' author='marie' date='2016-10-23' time='09:57:08'>
+Pure	ADV	pure
+per	PRE	per
+me	PRO:pers	me
+va	VER:pres	andare
+bene	ADV	bene
+in	PRE	in
+centro	NOM	centro
+.	SENT	.
+E	CON	e
+scusate	VER:pper	scusare
+se	CON	se
+rispondo	VER:pres	rispondere
+solo	ADV	solo
+adesso	ADV	adesso
+ma	CON	ma
+il	DET:def	il
+mio	PRO:poss	mio
+cell	NOM	unknown
+era	VER:impf	essere
+scaricato	VER:pper	scaricare
+con	PRE	con
+adesso	ADV	adesso
+...	PON	...
+😬😬	NOM	unknown
+</text>
+<text id='o30' author='marie' date='2016-10-23' time='09:58:45'>
+*fin	VER:cpre	unknown
+</text>
+<text id='o31' author='emilia' date='2016-10-23' time='10:02:26'>
+Tranquilla	NOM	unknown
+😊	NOM	unknown
+</text>
+<text id='o32' author='emilia' date='2016-10-23' time='10:02:44'>
+Scuderie	NOM	scuderia
+?	SENT	?
+15.30	NUM	@card@
+?	SENT	?
+</text>
+<text id='o33' author='emilia' date='2016-10-23' time='10:08:34'>
+Mannaggia	NOM	unknown
+...	PON	...
+mi	PRO:pers	mi
+dispiace	VER:pres	dispiacere
+!	SENT	!
+</text>
+<text id='o34' author='emilia' date='2016-10-23' time='10:08:46'>
+Tranquilla	VER:pres	tranquillare
+ti	VER:impe	torre
+diremo	VER:futu	dire
+tutto	PRO:indef	tutto
+☺	NOM	unknown
+</text>
+<text id='o35' author='marie' date='2016-10-23' time='10:09:23'>
+Per	NOM	unknown
+me	PRO:pers	me
+andrebbe	VER:cond	andare
+bene	ADV	bene
+...	PON	...
+Cmq	NOM	unknown
+,	PON	,
+poi	ADV	poi
+vado	VER:pres	andare
+con	PRE	con
+te	PRO:pers	te
+emilia	NOM	unknown
+al	PRE:det	al
+cinema	NOM	cinema
+☺️😁	NOM	unknown
+</text>
+<text id='o36' author='emilia' date='2016-10-23' time='10:10:13'>
+Bene	NPR	Bene
+!	SENT	!
+!	PON	!
+!	SENT	!
+Quel	PRO:demo	quello
+film	NOM	film
+che	PRO:rela	che
+c'	PRO:demo	c'
+è	NOM	unknown
+dopo	ADV	dopo
+dovrebbe	VER:cond	dovere
+essere	VER:infi	essere
+bellissimo	ADJ	bello
+😍	NOM	unknown
+</text>
+<text id='o37' author='marie' date='2016-10-23' time='10:10:41'>
+Figooooo	NOM	unknown
+😊😊	NOM	unknown
+</text>
+<text id='o38' author='sabrina' date='2016-10-23' time='10:29:10'>
+Anche	NOM	anca
+noi	PRO:pers	noi
+veniamo	VER:pres	venire
+a	PRE	a
+ved	VER:infi	unknown
+il	DET:def	il
+film	NOM	film
+:	PON	:
+)	PON	)
+</text>
+<text id='o39' author='marie' date='2016-10-23' time='10:30:25'>
+YAY	NOM	unknown
+!	PON	!
+!	SENT	!
+😊	NOM	unknown
+</text>
+<text id='o40' author='marianna' date='2016-10-23' time='15:23:54'>
+Arrivo	NOM	arrivo
+un	PRO:indef	un
+po	VER:impe	unknown
+'	PON	'
+in	PRE	in
+ritardo	NOM	ritardo
+!	PON	!
+!	SENT	!
+</text>
+<text id='o41' author='marie' date='2016-10-23' time='15:27:21'>
+Pure	ADV	pure
+io.	ADJ	unknown
+.	SENT	.
+Tra	PRE	tra
+10	NUM	@card@
+min	NOM	unknown
+ci	PRO:refl	ci
+sono	VER:pres	essere
+</text>
+<text id='o42' author='emilia' date='2016-11-01' time='17:38:51'>
+Belle	NPR	Belle
+donzelle	NOM	donzella
+buonasera	NOM	buonasera
+!	PON	!
+!	SENT	!
+</text>
+<text id='o43' author='emilia' date='2016-11-01' time='17:40:24'>
+Allora	ADV	allora
+volevo	VER:impf	volere
+dirvi	VER:infi	dire
+che	PRO:rela	che
+ho	VER:pres	avere
+appena	ADV	appena
+avuto	VER:pper	avere
+la	DET:def	il
+conferma	NOM	conferma
+che	PRO:rela	che
+anche	ADV	anche
+per	PRE	per
+il	DET:def	il
+gruppo	NOM	gruppo
+di	PRE	di
+amici	NOM	amico
+di	PRE	di
+casa	NOM	casa
+(	PON	(
+loro	PRO:pers	loro
+sono	VER:pres	essere
+in	PRE	in
+4	NUM	@card@
+alla	PRE:det	al
+fine	NOM	fine
+)	PON	)
+va	VER:pres	andare
+bene	ADV	bene
+reggio	NOM	unknown
+emilia	NOM	unknown
+come	PRE	come
+location	NOM	location
+e	CON	e
+va	VER:pres	andare
+bene	ADV	bene
+anche	ADV	anche
+il	DET:def	il
+week	ADJ	unknown
+end	NOM	end
+del	PRE:det	del
+3/4	NUM	@card@
+dicembre	NOM	dicembre
+</text>
+<text id='o44' author='emilia' date='2016-11-01' time='17:40:42'>
+Se	NOM	se
+noi	PRO:pers	noi
+siamo	VER:pres	essere
+ancora	ADV	ancora
+di	PRE	di
+quella	PRO:demo	quello
+idea	NOM	idea
+direi	VER:cond	dire
+che	PRO:rela	che
+possiamo	VER:pres	potere
+prenotare	VER:infi	prenotare
+!	SENT	!
+😊	NOM	unknown
+</text>
+<text id='o45' author='emilia' date='2016-11-01' time='17:40:56'>
+Mari	NOM	mare
+te	PRO:pers	te
+ne	ADV	ne
+occuperesti	VER:cond	occupare
+tu	NOM	tu
+?	SENT	?
+</text>
+<text id='o46' author='emilia' date='2016-11-01' time='17:41:11'>
+E	CON	e
+nel	PRE:det	nel
+caso	NOM	caso
+come	CON	come
+possiamo	VER:pres	potere
+organizzarci	VER:infi	organizzare
+per	PRE	per
+il	DET:def	il
+pagamento	NOM	pagamento
+?	SENT	?
+</text>
+<text id='o47' author='marianna' date='2016-11-01' time='17:58:24'>
+Io	PRO:pers	io
+andrei	VER:cond	andare
+a	PRE	a
+ricaricare	VER:infi	ricaricare
+la	DET:def	il
+carta	NOM	carta
+a	PRE	a
+questo	PRO:demo	questo
+punto	NOM	punto
+!	SENT	!
+</text>
+<text id='o48' author='marianna' date='2016-11-01' time='17:58:43'>
+Come	CON	come
+preferite	ADJ	preferito
+,	PON	,
+io	PRO:pers	io
+potrei	VER:cond	potere
+prenotare	VER:infi	prenotare
+anche	ADV	anche
+in	PRE	in
+settimana	NOM	settimana
+</text>
+<text id='o49' author='marianna' date='2016-11-01' time='17:59:11'>
+Chiamo	VER:pres	chiamare
+un'	DET:indef	un'
+altra	ADJ	altro
+volta	NOM	volta
+per	PRE	per
+conferma	NOM	conferma
+della	PRE:det	del
+conferma	NOM	conferma
+e	CON	e
+poi	ADV	poi
+procederei	VER:cond	procedere
+</text>
+<text id='o50' author='emilia' date='2016-11-01' time='18:04:46'>
+Si	NOM	si
+dobbiamo	VER:pres	dovere
+solo	ADV	solo
+scegliere	VER:infi	scegliere
+il	DET:def	il
+giorno	NOM	giorno
+definitivo	ADJ	definitivo
+.	SENT	.
+Forse	ADV	forse
+sarebbe	VER:cond	essere
+meglio	ADV	meglio
+il	DET:def	il
+3	NUM	@card@
+sabato	NOM	sabato
+</text>
+<text id='o51' author='emilia' date='2016-11-01' time='18:05:42'>
+Per	NOM	unknown
+il	DET:def	il
+pagamento	NOM	pagamento
+penso	VER:pres	pensare
+che	PRO:rela	che
+da	PRE	da
+monticelli	VER:impe	unknown
+possano	VER:cpre	potere
+fare	VER:infi	fare
+un	DET:indef	un
+bonifico	NOM	bonifico
+unico	ADJ	unico
+a	PRE	a
+te	PRO:pers	te
+e	CON	e
+poi	ADV	poi
+si	PRO:refl	si
+sistemano	VER:pres	sistemare
+loro	PRO:poss	loro
+</text>
+<text id='o52' author='emilia' date='2016-11-01' time='18:06:31'>
+E	NOM	unknown
+ti	PRO:pers	ti
+fai	VER:pres	fare
+dare	VER:infi	dare
+i	DET:def	il
+soldi	NOM	soldo
+a	PRE	a
+mano	NOM	mano
+da	PRE	da
+quelle	PRO:demo	quello
+di	PRE	di
+noi	PRO:pers	noi
+che	PRO:rela	che
+riesci	VER:pres	riuscire
+a	PRE	a
+recuperare	VER:infi	recuperare
+😊	NOM	unknown
+</text>
+<text id='o53' author='sabrina' date='2016-11-01' time='18:48:55'>
+👍🏼	NOM	unknown
+</text>
+<text id='o54' author='marie' date='2016-11-01' time='19:55:08'>
+Perfetto	NOM	perfetto
+😊	NOM	unknown
+</text>
+<text id='o55' author='marianna' date='2016-11-01' time='22:38:08'>
+Okay	NOM	okay
+!	SENT	!
+👍🏻👍🏻👍🏻	NOM	unknown
+</text>
+<text id='o56' author='emilia' date='2016-11-07' time='16:45:36'>
+Buongiorno	NOM	buongiorno
+ragazze	NOM	ragazza
+belle	ADJ	bello
+...	PON	...
+riusciamo	VER:pres	riuscire
+a	PRE	a
+far	VER:infi	fare
+avere	VER:infi	avere
+in	PRE	in
+qualche	ADJ	qualche
+modo	NOM	modo
+i	DET:def	il
+soldi	NOM	soldo
+ad	PRE	ad
+Mari	NOM	mare
+cosicché	ADJ	unknown
+lei	PRO:pers	lei
+possa	VER:cpre	potere
+prenotare	VER:infi	prenotare
+il	DET:def	il
+lancio	NOM	lancio
+?	SENT	?
+</text>
+<text id='o57' author='emilia' date='2016-11-07' time='16:45:43'>
+☺🌸	NOM	unknown
+</text>
+<text id='o58' author='emilia' date='2016-11-07' time='17:01:08'>
+Non	VER:pres	unknown
+preoccuparti	VER:infi	preoccupare
+Carla..tanto	NOM	unknown
+siamo	VER:pres	essere
+tutti	ADJ	tutto
+indietro	ADV	indietro
+.	SENT	.
+E	CON	e
+poi	ADV	poi
+sappiamo	VER:cpre	sapere
+del	PRE:det	del
+trasloco	NOM	trasloco
+💪🏻💐	NOM	unknown
+</text>
+<text id='o59' author='marie' date='2016-11-07' time='17:07:50'>
+Certo	NOM	unknown
+😊	NOM	unknown
+</text>
+<text id='o60' author='marianna' date='2016-11-07' time='18:45:09'>
+Ragazze	NOM	ragazza
+ciao	INT	ciao
+!	SENT	!
+:-	NOM	unknown
+)	PON	)
+Per	NOM	unknown
+me	PRO:pers	me
+è	NOM	unknown
+indifferente	ADJ	indifferente
+,	PON	,
+come	PRE	come
+preferite	ADJ	preferito
+voi	NOM	voi
+!	SENT	!
+</text>
+<text id='o61' author='marianna' date='2016-11-07' time='18:46:41'>
+In	PRE	in
+ogni	ADJ	ogni
+caso	NOM	caso
+questo	PRO:demo	questo
+è	NOM	unknown
+l'	DET:def	il
+iban	NOM	unknown
+per	PRE	per
+chi	PRO:rela	chi
+fosse	VER:cimp	essere
+in	PRE	in
+difficoltà	NOM	unknown
+nel	PRE:det	nel
+darmeli	VER:infi	dare
+a	PRE	a
+mano	NOM	mano
+🙂	NOM	unknown
+</text>
+<text id='o62' author='marianna' date='2016-11-07' time='18:47:27'>
+🙄🙄🙄	NOM	unknown
+</text>
+<text id='o63' author='marianna' date='2016-11-07' time='18:47:38'>
+Di	NOM	unknown
+preciso	ADJ	preciso
+preciso	ADJ	preciso
+non	ADV	non
+lo	PRO:pers	lo
+so	VER:pres	sapere
+😂	NOM	unknown
+</text>
+<text id='o64' author='marianna' date='2016-11-07' time='18:47:47'>
+Dovrebbe	VER:cond	dovere
+essere	VER:infi	essere
+sui	PRE:det	sul
+23	NUM	@card@
+</text>
+<text id='o65' author='marianna' date='2016-11-07' time='18:48:32'>
+Stasera	NOM	unknown
+appena	ADV	appena
+arrivo	NOM	arrivo
+a	PRE	a
+casa	NOM	casa
+faccio	VER:pres	fare
+i	DET:def	il
+conti	NOM	conte|conto
+e	CON	e
+vi	PRO:refl	vi
+dico	VER:pres	dire
+💃🏻💃🏻	NOM	unknown
+</text>
+<text id='o66' author='emilia' date='2016-11-07' time='19:09:18'>
+Ragazze	NOM	ragazza
+sono	VER:pres	essere
+25	NUM	@card@
+</text>
+<text id='o67' author='emilia' date='2016-11-07' time='19:09:52'>
+Sarebbero	NOM	unknown
+23.3	NUM	@card@
+ma	CON	ma
+con	PRE	con
+nicole	NOM	unknown
+abbiamo	VER:pres	avere
+deciso	VER:pper	decidere
+di	PRE	di
+arrotondare	VER:infi	arrotondare
+e	CON	e
+poi	ADV	poi
+il	DET:def	il
+resto	NOM	resto
+lo	PRO:pers	lo
+usiamo	VER:pres	usare
+per	PRE	per
+fare	VER:infi	fare
+altri	PRO:indef	altro
+acquisti	NOM	acquisto
+per	PRE	per
+la	DET:def	il
+laurea	NOM	laurea
+</text>
+<text id='o68' author='marie' date='2016-11-07' time='19:19:17'>
+Perfetto	NOM	perfetto
+</text>
+<text id='o69' author='emilia' date='2016-11-08' time='10:27:47'>
+Bene	NPR	Bene
+ragazze	NOM	ragazza
+abbiamo	VER:pres	avere
+la	DET:def	il
+data	NOM	data
+e	CON	e
+l'	DET:def	il
+ora	NOM	ora
+...	PON	...
+il	DET:def	il
+23	NUM	@card@
+alle	PRE:det	al
+10.30	NUM	@card@
+</text>
+<text id='o70' author='emilia' date='2016-11-08' time='10:29:29'>
+Buongiorno	NOM	buongiorno
+a	PRE	a
+tutte	ADJ	tutto
+e	CON	e
+impegnamoci	VER:impe	unknown
+che	PRO:rela	che
+mancano	VER:pres	mancare
+pochi	ADJ	poco
+giorni	NOM	giorno
+!	SENT	!
+!	PON	!
+!	SENT	!
+💪🏻🎉🎊🎉	NOM	unknown
+</text>
+<text id='o71' author='marie' date='2016-11-09' time='16:39:27'>
+Ciao	NOM	unknown
+mari	NOM	mare
+!	SENT	!
+Sabrina	NPR	Sabrina
+e	CON	e
+io	PRO:pers	io
+stiamo	VER:pres	stare
+facendo	VER:geru	fare
+il	DET:def	il
+bonifico	NOM	bonifico
+ma	CON	ma
+ci	PRO:refl	ci
+vuole	VER:pres	volere
+pure	ADV	pure
+il	DET:def	il
+tuo	PRO:poss	tuo
+indirizzo	NOM	indirizzo
+di	PRE	di
+residenza	NOM	residenza
+</text>
+<text id='o72' author='marie' date='2016-11-09' time='16:41:04'>
+Puoi	NOM	unknown
+mandarcelo	VER:infi	mandare
+...	PON	...
+Grazie	NOM	grazia
+</text>
+<text id='o73' author='marianna' date='2016-11-09' time='16:50:16'>
+Certo	NOM	unknown
+!	SENT	!
+</text>
+<text id='o74' author='marianna' date='2016-11-09' time='16:50:24'>
+Via	ADV	via
+****	NOM	unknown
+</text>
+<text id='o75' author='marianna' date='2016-11-09' time='16:51:08'>
+Senigallia	NOM	unknown
+</text>
+<text id='o76' author='marianna' date='2016-11-09' time='16:51:20'>
+****	NOM	unknown
+</text>
+<text id='o77' author='marianna' date='2016-11-09' time='16:51:29'>
+La	NOM	unknown
+banca	NOM	banca
+è	NOM	unknown
+la	DET:def	il
+carisbo	ADJ	unknown
+</text>
+<text id='o78' author='marie' date='2016-11-09' time='16:55:34'>
+Fatto	NOM	fatto
+!	SENT	!
+😊😊	NOM	unknown
+</text>
+<text id='o79' author='marianna' date='2016-11-09' time='16:57:32'>
+Mi	NOM	unknown
+sono	VER:pres	essere
+scordata	VER:pper	scordare
+di	PRE	di
+dirvi	VER:infi	dire
+l'	DET:def	il
+ultima	ADJ	ultimo
+cosa	NOM	cosa
+:	PON	:
+scrivetemi	VER:impe	scrivere
+il	DET:def	il
+nome	NOM	nome
+quando	CON	quando
+fate	VER:impe	fare
+il	DET:def	il
+bonifico	NOM	bonifico
+</text>
+<text id='o80' author='marianna' date='2016-11-09' time='16:57:54'>
+Tipo	NOM	tipo
+:	PON	:
+Carla	NOM	unknown
+(	PON	(
+Sabrina	NPR	Sabrina
+)	PON	)
+</text>
+<text id='o81' author='marianna' date='2016-11-09' time='16:58:03'>
+Ad	NOM	unknown
+esempio	NOM	esempio
+</text>
+<text id='o82' author='marianna' date='2016-11-09' time='16:58:22'>
+Perché	NOM	unknown
+non	ADV	non
+so	VER:pres	sapere
+se	CON	se
+mi	PRO:pers	mi
+arrivano	VER:pres	arrivare
+i	DET:def	il
+nomi	NOM	nome
+quando	CON	quando
+vado	VER:pres	andare
+a	PRE	a
+visualizzare	VER:infi	visualizzare
+</text>
+<text id='o83' author='marianna' date='2016-11-09' time='16:58:27'>
+🙄	NOM	unknown
+</text>
+<text id='o84' author='marie' date='2016-11-09' time='16:58:34'>
+L'	NOM	unknown
+abbiamo	VER:pres	avere
+fatto	VER:pper	fare
+.	SENT	.
+</text>
+<text id='o85' author='marie' date='2016-11-09' time='16:58:39'>
+😊	NOM	unknown
+</text>
+<text id='o86' author='marianna' date='2016-11-09' time='16:58:39'>
+❤	NOM	unknown
+</text>
+<text id='o87' author='marianna' date='2016-11-09' time='16:58:52'>
+Fantastico	NPR	Fantastico
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='o88' author='marianna' date='2016-11-09' time='16:59:08'>
+Comunque	ADV	comunque
+io	PRO:pers	io
+domani	ADV	domani
+sarò	ADJ	unknown
+in	PRE	in
+giro	NOM	giro
+in	PRE	in
+centro	NOM	centro
+</text>
+<text id='o89' author='marianna' date='2016-11-09' time='16:59:23'>
+Per	NOM	unknown
+chi	PRO:rela	chi
+volesse	VER:cimp	volere
+portare	VER:infi	portare
+o	CON	o
+soldi	NOM	soldo
+sono	VER:pres	essere
+strareperibile	ADJ	unknown
+</text>
+<text id='o90' author='marianna' date='2016-11-09' time='16:59:26'>
+😘	NOM	unknown
+</text>
+<text id='o91' author='emilia' date='2016-11-10' time='13:20:23'>
+Buongiorno	NOM	buongiorno
+a	PRE	a
+tutte	ADJ	tutto
+...	PON	...
+volevo	VER:impf	volere
+dirvi	VER:infi	dire
+che	PRO:rela	che
+ho	VER:pres	avere
+scritto	VER:pper	scrivere
+al	PRE:det	al
+ragazzo	NOM	ragazzo
+con	PRE	con
+cui	PRO:rela	cui
+aveva	VER:impf	avere
+parlato	VER:pper	parlare
+Mari	NOM	mare
+quel	PRO:demo	quello
+pomeriggio	NOM	pomeriggio
+e	CON	e
+gli	PRO:pers	gli
+ho	VER:pres	avere
+chiesto	VER:pper	chiedere
+di	PRE	di
+riservare	VER:infi	riservare
+un	DET:indef	un
+posto	NOM	posto
+per	PRE	per
+il	DET:def	il
+3	NUM	@card@
+dicembre	NOM	dicembre
+...	PON	...
+sabato	NOM	sabato
+alla	PRE:det	al
+mattina	NOM	mattina
+.	SENT	.
+Eravamo	VER:impf	essere
+tutte	ADJ	tutto
+d'	PRE	d'
+accordo	NOM	accordo
+giusto	ADJ	giusto
+?	SENT	?
+</text>
+<text id='o92' author='emilia' date='2016-11-10' time='13:20:57'>
+Ha	VER:pres	avere
+detto	VER:pper	dire
+che	PRO:rela	che
+ce	ADV	ce
+lo	DET:def	il
+riserva	NOM	riserva
+anche	ADV	anche
+se	CON	se
+il	DET:def	il
+pagamento	NOM	pagamento
+lo	PRO:pers	lo
+facciamo	VER:cpre	fare
+tra	PRE	tra
+qualche	ADJ	qualche
+giorno	NOM	giorno
+così	ADJ	unknown
+almeno	ADV	almeno
+siamo	VER:pres	essere
+tranquilli	ADJ	tranquillo
+!	SENT	!
+!	PON	!
+😊	NOM	unknown
+buona	ADJ	buono
+giornata	NOM	giornata
+</text>
+<text id='o93' author='marie' date='2016-11-10' time='13:22:59'>
+Sì	NOM	unknown
+,	PON	,
+per	PRE	per
+me	PRO:pers	me
+il	DET:def	il
+3	NUM	@card@
+va	VER:pres	andare
+bene	ADV	bene
+🎈	NOM	unknown
+</text>
+<text id='o94' author='sabrina' date='2016-11-13' time='20:52:21'>
+Ieri	VER:geru	unknown
+fra	PRE	fra
+ci	PRO:refl	ci
+ha	VER:pres	avere
+detto	VER:pper	dire
+che	PRO:rela	che
+a	PRE	a
+fine	ADJ	fine
+mese	NOM	mese
+va	VER:pres	andare
+in	PRE	in
+Brussels	NOM	unknown
+!	PON	!
+!	SENT	!
+Parte	NOM	parte
+il	DET:def	il
+29	NUM	@card@
+</text>
+<text id='o95' author='sabrina' date='2016-11-13' time='20:52:52'>
+Abbiamo	VER:pres	avere
+capito	VER:pper	capire
+tre	ADJ	tre
+giorni	NOM	giorno
+quindi	ADV	quindi
+dovrebbe	VER:cond	dovere
+tornare	VER:infi	tornare
+il	DET:def	il
+2.	ORD	@ord@
+.	SENT	.
+</text>
+<text id='o96' author='emilia' date='2016-11-13' time='20:53:05'>
+Si	PRO:refl	si
+l'	PRO:pers	l'
+aveva	VER:impf	avere
+detto	VER:pper	dire
+anche	ADV	anche
+a	PRE	a
+me	PRO:pers	me
+</text>
+<text id='o97' author='sabrina' date='2016-11-13' time='20:53:12'>
+Manteniamo	VER:impe	mantenere
+lo	DET:def	il
+stesso	ADJ	stesso
+la	DET:def	il
+data	NOM	data
+del	PRE:det	del
+tre	ADJ	tre
+?	PON	?
+?	SENT	?
+</text>
+<text id='o98' author='sabrina' date='2016-11-13' time='20:53:31'>
+Anche	ADV	anche
+se	PRO:refl	se
+ha	VER:pres	avere
+la	DET:def	il
+vacanza	NOM	vacanza
+prima	ADJ	primo
+?	SENT	?
+</text>
+<text id='o99' author='emilia' date='2016-11-13' time='20:54:00'>
+Direi	VER:cond	dire
+di	PRE	di
+si	PRO:pers	si
+...	PON	...
+la	PRO:pers	la
+facciamo	VER:pres	fare
+sbattere	VER:infi	sbattere
+un	PRO:indef	un
+po	VER:impe	unknown
+'	PON	'
+in	PRE	in
+quei	PRO:demo	quello
+giorni	NOM	giorno
+ma	CON	ma
+non	ADV	non
+fa	ADV	fa
+niente	ADJ	niente
+...	SENT	...
+</text>
+<text id='o100' author='emilia' date='2016-11-13' time='20:54:12'>
+È	NOM	unknown
+la	DET:def	il
+sua	PRO:poss	suo
+festa	NOM	festa
+😎🎊🎉	NOM	unknown
+</text>
+<text id='o101' author='emilia' date='2016-11-13' time='20:54:48'>
+Ahahahahaha	NOM	unknown
+esatto	ADJ	esatto
+!	PON	!
+!	SENT	!
+</text>
+<text id='o102' author='sabrina' date='2016-11-13' time='20:55:15'>
+Bene	ADV	bene
+!	PON	!
+!	SENT	!
+</text>
+<text id='o103' author='emilia' date='2016-11-15' time='21:57:49'>
+Buonasera	NOM	buonasera
+ragazze	NOM	ragazza
+belle	ADJ	bello
+...	PON	...
+secondo	PRE	secondo
+voi	NOM	voi
+prima	ADJ	primo
+di	PRE	di
+mercoledi	NOM	unknown
+(	PON	(
+magari	ADV	magari
+nel	PRE:det	nel
+week	NOM	unknown
+end	NOM	end
+)	PON	)
+riusciamo	VER:pres	riuscire
+ad	PRE	ad
+incontrarci	VER:infi	incontrare
+per	PRE	per
+definire	VER:infi	definire
+qualcosa	PRO:indef	qualcosa
+sugli	PRE:det	sul
+scherzi	NOM	scherzo
+?	PON	?
+?	SENT	?
+Per	PRE	per
+caso	NOM	caso
+qualcuna	PRO:indef	qualcuna
+di	PRE	di
+voi	PRO:pers	voi
+ha	VER:pres	avere
+pensato	VER:pper	pensare
+qualcosa	PRO:indef	qualcosa
+?	SENT	?
+</text>
+<text id='o104' author='emilia' date='2016-11-15' time='21:58:12'>
+Io	PRO:pers	io
+lo	PRO:pers	lo
+dico	VER:pres	dire
+sinceramente..il	NOM	unknown
+video	ADJ	video
+mi	PRO:pers	mi
+sta	VER:pres	stare
+assorbendo	VER:geru	assorbire
+tantissimo	ADJ	tanto
+😅	NOM	unknown
+</text>
+<text id='o105' author='sabrina' date='2016-11-15' time='21:58:22'>
+Ci	NOM	ci
+credo	NOM	credo
+!	SENT	!
+</text>
+<text id='o106' author='sabrina' date='2016-11-15' time='21:59:06'>
+Per	PRE	per
+me	PRO:pers	me
+va	VER:pres	andare
+bene	ADV	bene
+!	PON	!
+!	SENT	!
+Ci	PRO:refl	ci
+sono	VER:pres	essere
+nel	PRE:det	nel
+weekend	NOM	weekend
+altrimenti	ADV	altrimenti
+domani	ADV	domani
+primo	ADJ	primo
+pome	NOM	unknown
+,	PON	,
+volendo.	ADJ	unknown
+.	SENT	.
+</text>
+<text id='o107' author='emilia' date='2016-11-15' time='22:01:06'>
+Vediamo	VER:pres	vedere
+che	PRO:rela	che
+dicono	VER:pres	dire
+le	DET:def	il
+altre	ADJ	altro
+ma	CON	ma
+forse	ADV	forse
+è	NOM	unknown
+più	ADJ	unknown
+plausibile	ADJ	plausibile
+il	DET:def	il
+week	ADJ	unknown
+end	NOM	end
+</text>
+<text id='o108' author='marie' date='2016-11-15' time='22:45:07'>
+Il	NOM	unknown
+weekend	NOM	weekend
+va	VER:pres	andare
+bene	ADV	bene
+per	PRE	per
+me	PRO:pers	me
+.	SENT	.
+Tranne	PRE	tranne
+domenica	NOM	domenica
+sera	NOM	sera
+.	SENT	.
+Buonanotte	NOM	buonanotte
+belle	ADJ	bello
+!	SENT	!
+</text>
+<text id='o109' author='emilia' date='2016-11-15' time='23:04:29'>
+Buonanotte	NOM	buonanotte
+a	PRE	a
+te	PRO:pers	te
+</text>
+<text id='o110' author='marianna' date='2016-11-16' time='00:27:42'>
+Venerdì	NOM	unknown
+sera	NOM	sera
+sarebbe	VER:cond	essere
+fantastico	ADJ	fantastico
+</text>
+<text id='o111' author='emilia' date='2016-11-16' time='00:54:53'>
+Cazz	NOM	unknown
+io	PRO:pers	io
+lavoro	NOM	lavoro
+</text>
+<text id='o112' author='emilia' date='2016-11-18' time='15:39:28'>
+Certo	NOM	unknown
+tranquilla	ADJ	tranquillo
+...	PON	...
+il	DET:def	il
+lavoro	NOM	lavoro
+è	NOM	unknown
+lavoro	NOM	lavoro
+!	SENT	!
+☺	NOM	unknown
+</text>
+<text id='o113' author='emilia' date='2016-11-18' time='15:39:49'>
+Ragazze	NOM	ragazza
+invece	ADV	invece
+che	PRO:rela	che
+ne	ADV	ne
+dite	VER:pres	dire
+di	PRE	di
+incontrarci	VER:infi	incontrare
+domani	ADV	domani
+mattina/	ADJ	unknown
+pranzo	NOM	pranzo
+?	SENT	?
+</text>
+<text id='o114' author='marianna' date='2016-11-18' time='15:52:46'>
+Io	PRO:pers	io
+ci	PRO:refl	ci
+sono	VER:pres	essere
+!	SENT	!
+:♧	NOM	unknown
+</text>
+<text id='o115' author='emilia' date='2016-11-18' time='15:54:06'>
+Perfetto	NOM	perfetto
+</text>
+<text id='o116' author='emilia' date='2016-11-18' time='16:35:28'>
+Sabri	NOM	unknown
+e	CON	e
+marie	NOM	unknown
+?	PON	?
+?	SENT	?
+Voi	PRO:pers	voi
+ci	PRO:refl	ci
+siete	VER:pres	essere
+?	SENT	?
+</text>
+<text id='o117' author='marie' date='2016-11-18' time='16:48:05'>
+Io	PRO:pers	io
+sì	ADJ	unknown
+😊	NOM	unknown
+</text>
+<text id='o118' author='emilia' date='2016-11-18' time='16:51:04'>
+Beneeee	NOM	unknown
+!	PON	!
+!	SENT	!
+</text>
+<text id='o119' author='sabrina' date='2016-11-18' time='17:14:56'>
+Ook	NOM	unknown
+!	SENT	!
+Ci	PRO:refl	ci
+sono	VER:pres	essere
+</text>
+<text id='o120' author='sabrina' date='2016-11-18' time='17:15:06'>
+Dove	NOM	dove
+c	NOM	c
+troviamo	VER:cpre	trovare
+?	SENT	?
+Fuori	ADV	fuori
+o	CON	o
+volete	VER:pres	volere
+venire	VER:infi	venire
+da	PRE	da
+noi	PRO:pers	noi
+?	SENT	?
+</text>
+<text id='o121' author='emilia' date='2016-11-18' time='17:17:46'>
+Siiiiiiii	VER:impe	unknown
+possiamo	VER:pres	potere
+venire	VER:infi	venire
+da	PRE	da
+voi	NOM	voi
+?	PON	?
+?	SENT	?
+</text>
+<text id='o122' author='emilia' date='2016-11-18' time='17:18:06'>
+Possiamo	VER:pres	potere
+fare	VER:infi	fare
+anche	ADV	anche
+verso	PRE	verso
+le	DET:def	il
+11	NUM	@card@
+e	CON	e
+poi	ADV	poi
+pranziamo	VER:cpre	pranzare
+insieme	ADV	insieme
+...	PON	...
+</text>
+<text id='o123' author='emilia' date='2016-11-18' time='17:18:37'>
+Posso	VER:pres	potere
+portare	VER:infi	portare
+del	PRE:det	del
+sugo	NOM	sugo
+già	ADJ	unknown
+fatto	VER:pper	fare
+e	CON	e
+un	DET:indef	un
+pacco	NOM	pacco
+di	PRE	di
+pasta	NOM	pasta
+per	PRE	per
+scusarci	VER:infi	scusare
+dell'	PRE:det	del
+invasione	NOM	invasione
+</text>
+<text id='o124' author='sabrina' date='2016-11-18' time='17:18:52'>
+😂😂	NOM	unknown
+cucini	VER:pres	cucinare
+tu	NOM	tu
+?	SENT	?
+</text>
+<text id='o125' author='sabrina' date='2016-11-18' time='17:19:10'>
+Oppure	CON	oppure
+cucina	VER:pres	cucinare
+Aleksander	NOM	unknown
+:	PON	:
+)	PON	)
+</text>
+<text id='o126' author='emilia' date='2016-11-18' time='17:19:26'>
+No	NOM	no
+no	ADV	no
+io	PRO:pers	io
+lascio	VER:pres	lasciare
+spazio	NOM	spazio
+</text>
+<text id='o127' author='emilia' date='2016-11-18' time='17:19:50'>
+Però	NOM	unknown
+posso	VER:pres	potere
+portare	VER:infi	portare
+gli	DET:def	il
+ingredienti	NOM	ingrediente
+...	PON	...
+se	CON	se
+mi	PRO:pers	mi
+dici	VER:pres	dire
+cosa	NOM	cosa
+gli	PRO:pers	gli
+facciamo	VER:pres	fare
+cucinare	VER:infi	cucinare
+</text>
+<text id='o128' author='sabrina' date='2016-11-18' time='17:21:29'>
+Ok	NOM	ok
+!	PON	!
+!	SENT	!
+</text>
+<text id='o129' author='marie' date='2016-11-18' time='17:24:01'>
+Freghete	VER:impe	unknown
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+!	PON	!
+</text>
+<text id='o130' author='emilia' date='2016-11-18' time='17:24:38'>
+Ahahahaha	NOM	unknown
+marie	ADJ	unknown
+!	SENT	!
+!	PON	!
+😂😂	NOM	unknown
+</text>
+<text id='o131' author='marie' date='2016-11-18' time='17:25:25'>
+Nemmeno	NOM	unknown
+so	VER:pres	sapere
+esattamente	ADV	esattamente
+cosa	NOM	cosa
+vuol	VER:pres	volere
+dire	VER:infi	dire
+...	PON	...
+L'	NOM	unknown
+ha	VER:pres	avere
+scritto	VER:pper	scrivere
+luigi	NOM	luigi
+😜	NOM	unknown
+</text>
+<text id='o132' author='emilia' date='2016-11-18' time='17:35:34'>
+Ahahahahahahah	NOM	unknown
+</text>
+<text id='o133' author='emilia' date='2016-11-18' time='17:35:38'>
+Capisco	VER:pres	capire
+</text>
+<text id='o134' author='emilia' date='2016-11-18' time='17:35:46'>
+Ora	NOM	ora
+ha	VER:pres	avere
+più	ADJ	unknown
+senso	NOM	senso
+</text>
+<text id='o135' author='marie' date='2016-11-18' time='17:36:54'>
+😁	NOM	unknown
+</text>
+<text id='o136' author='marianna' date='2016-11-18' time='20:26:13'>
+Va	NOM	unknown
+benissimo	ADV	benissimo
+</text>
+<text id='o137' author='marianna' date='2016-11-18' time='20:26:33'>
+Io	NOM	unknown
+ho	VER:pres	avere
+fatto	VER:pper	fare
+uno	PRO:indef	uno
+sformatino	VER:impe	unknown
+di	PRE	di
+patate	NOM	patata
+ecceziunale	ADJ	unknown
+veramente	ADV	veramente
+</text>
+<text id='o138' author='marianna' date='2016-11-18' time='20:26:42'>
+Lo	NOM	unknown
+porto😎😎😎	ADJ	unknown
+</text>
+<text id='o139' author='emilia' date='2016-11-18' time='20:28:49'>
+Oooooo	NOM	unknown
+che	PRO:rela	che
+meraviglia	VER:pres	meravigliare
+</text>
+<text id='o140' author='marie' date='2016-11-18' time='20:30:12'>
+Si	NOM	si
+mangia	VER:pres	mangiare
+troppo	ADV	troppo
+bene	ADV	bene
+in	PRE	in
+Italia	NPR	Italia
+😍😍😊	NOM	unknown
+</text>
+<text id='o141' author='emilia' date='2016-11-18' time='20:30:40'>
+Ahahahaahahah	NOM	unknown
+già	ADJ	unknown
+</text>
+<text id='o142' author='marianna' date='2016-11-19' time='10:24:07'>
+Sabri	NOM	unknown
+...	PON	...
+potresti	VER:cond	potere
+ricordarmi	VER:infi	ricordare
+la	DET:def	il
+via	NOM	via
+della	PRE:det	del
+nuova	ADJ	nuovo
+casetta	NOM	casetta
+?	SENT	?
+</text>
+<text id='o143' author='marie' date='2016-11-19' time='10:25:50'>
+****	NOM	unknown
+😉	NOM	unknown
+</text>
+<text id='o144' author='marianna' date='2016-11-19' time='10:27:04'>
+Grazie	NOM	grazia
+Mari	NOM	mare
+!	SENT	!
+!	PON	!
+!	SENT	!
+😘	NOM	unknown
+Arriverò	NOM	unknown
+verso	PRE	verso
+le	DET:def	il
+11:30	NUM	@card@
+,	PON	,
+credo	NOM	credo
+.	SENT	.
+Il	DET:def	il
+mio	PRO:poss	mio
+autista	NOM	autista
+ancora	ADV	ancora
+dorme	VER:pres	dormire
+profondamente	ADV	profondamente
+🙄😳	NOM	unknown
+</text>
+<text id='o145' author='marie' date='2016-11-19' time='10:28:32'>
+😂	NOM	unknown
+</text>
+<text id='o146' author='emilia' date='2016-11-19' time='10:30:21'>
+Credo	NOM	credo
+che	CON	che
+sabrina	VER:impe	unknown
+preferisse	VER:cimp	preferire
+fare	VER:infi	fare
+leggermente	ADV	leggermente
+più	ADJ	unknown
+tardi	ADJ	tardo
+</text>
+<text id='o147' author='emilia' date='2016-11-19' time='10:30:44'>
+Me	NOM	unknown
+lo	PRO:pers	lo
+diceva	VER:impf	dire
+ieri	ADV	ieri
+sera	NOM	sera
+però	ADJ	unknown
+poi	ADV	poi
+non	ADV	non
+ha	VER:pres	avere
+scritto	VER:pper	scrivere
+niente	ADV	niente
+sul	PRE:det	sul
+gruppo	NOM	gruppo
+</text>
+<text id='o148' author='emilia' date='2016-11-19' time='10:30:59'>
+Facciamo	VER:cpre	fare
+verso	PRE	verso
+le	DET:def	il
+12.30	NUM	@card@
+☺	NOM	unknown
+</text>
+<text id='o149' author='marie' date='2016-11-19' time='10:31:23'>
+Ahh	NOM	unknown
+oki	ADJ	unknown
+.	SENT	.
+Benissimo	ADV	benissimo
+😊	NOM	unknown
+</text>
+<text id='o150' author='marianna' date='2016-11-19' time='10:36:25'>
+Ottimo	NOM	ottimo
+!	SENT	!
+Preferisco	VER:pres	preferire
+anche	ADV	anche
+io	PRO:pers	io
+🙂😂	NOM	unknown
+</text>
+<text id='o151' author='emilia' date='2016-11-20' time='17:23:56'>
+Ragazze	NOM	ragazza
+ora	ADV	ora
+mi	PRO:pers	mi
+ammazzo	VER:pres	ammazzare
+</text>
+<text id='o152' author='emilia' date='2016-11-20' time='17:24:03'>
+Mi	NOM	unknown
+si	PRO:pers	si
+è	NOM	unknown
+cancellato	VER:pper	cancellare
+il	DET:def	il
+video	ADJ	video
+</text>
+<text id='o153' author='emilia' date='2016-11-20' time='17:24:10'>
+E	NOM	unknown
+devo	VER:pres	dovere
+rifarlo	VER:infi	rifare
+da	PRE	da
+capo	NOM	capo
+</text>
+<text id='o154' author='emilia' date='2016-11-20' time='17:24:14'>
+Voglio	NOM	unknown
+morire	VER:infi	morire
+</text>
+<text id='o155' author='marianna' date='2016-11-20' time='17:24:50'>
+Che	NPR	Che
+cazzo	NOM	cazzo
+dici	VER:pres	dire
+?	SENT	?
+!😳😳	NOM	unknown
+</text>
+<text id='o156' author='marianna' date='2016-11-20' time='17:24:55'>
+Povera	NOM	povero
+!	PON	!
+!	SENT	!
+</text>
+<text id='o157' author='marianna' date='2016-11-20' time='17:25:04'>
+Non	ADV	non
+si	PRO:refl	si
+può	VER:impe	unknown
+recuperare	VER:infi	recuperare
+?	SENT	?
+</text>
+<text id='o158' author='emilia' date='2016-11-20' time='17:25:13'>
+No	ADV	no
+</text>
+<text id='o159' author='marianna' date='2016-11-20' time='17:25:20'>
+Neanche	NOM	unknown
+nel	PRE:det	nel
+cestino	NOM	cestino
+</text>
+<text id='o160' author='marianna' date='2016-11-20' time='17:25:28'>
+Niente	NOM	niente
+di	PRE	di
+niente	PRO:indef	niente
+?	SENT	?
+</text>
+<text id='o161' author='marianna' date='2016-11-20' time='17:27:31'>
+😱😱😱	NOM	unknown
+</text>
+<text id='o162' author='marianna' date='2016-11-20' time='17:27:53'>
+Povera	NOM	povero
+,	PON	,
+Windows	NOM	unknown
+infame	ADJ	infame
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='o163' author='marianna' date='2016-11-20' time='17:28:20'>
+❤	NOM	unknown
+</text>
+<text id='o164' author='marie' date='2016-11-20' time='17:30:06'>
+😳😱😱	NOM	unknown
+</text>
+<text id='o165' author='marie' date='2016-11-20' time='17:31:11'>
+Noooooooo	NOM	unknown
+😫😡	NOM	unknown
+</text>
+<text id='o166' author='sabrina' date='2016-11-20' time='23:09:39'>
+Noooo	NOM	unknown
+oddio	ADJ	unknown
+!	SENT	!
+Ma	CON	ma
+come	PRE	come
+è	NOM	unknown
+possibile	ADJ	possibile
+?	PON	?
+?	SENT	?
+</text>
+<text id='o167' author='sabrina' date='2016-11-20' time='23:10:05'>
+Tt	NOM	unknown
+quel	PRO:demo	quello
+tempo	NOM	tempo
+che	PRO:rela	che
+ci	PRO:refl	ci
+hai	VER:pres	avere
+dedicato	VER:pper	dedicare
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+🙀	NOM	unknown
+</text>
+<text id='o168' author='emilia' date='2016-11-20' time='23:10:24'>
+No	NOM	no
+ragazze..volevo	VER:impf	unknown
+rassicurarvi	VER:infi	rassicurare
+che	PRO:rela	che
+forse	ADV	forse
+e	CON	e
+dico	VER:pres	dire
+FORSE	NOM	forse
+sono	VER:pres	essere
+riuscita	VER:pper	riuscire
+a	PRE	a
+salvarlo	VER:infi	salvare
+</text>
+<text id='o169' author='sabrina' date='2016-11-20' time='23:10:59'>
+Ahhhhhhh	NOM	unknown
+per	PRE	per
+fortuna	NOM	fortuna
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='o170' author='sabrina' date='2016-11-20' time='23:11:07'>
+Dicci	VER:impe	dire
+gli	DET:def	il
+sviluppi	NOM	sviluppo
+!	SENT	!
+</text>
+<text id='o171' author='emilia' date='2016-11-20' time='23:11:26'>
+Certo	ADV	certo
+...	PON	...
+tranquille	ADJ	tranquillo
+❤	NOM	unknown
+notte	NOM	notte
+ragazze	NOM	ragazza
+</text>
+<text id='o172' author='sabrina' date='2016-11-20' time='23:12:58'>
+Notte	NPR	Notte
+!	SENT	!
+</text>
+<text id='o173' author='marie' date='2016-11-21' time='12:00:13'>
+Buongiorno	NOM	buongiorno
+ragazze	NOM	ragazza
+!	SENT	!
+Avete	VER:pres	avere
+qualche	ADJ	qualche
+idea	NOM	idea
+per	PRE	per
+le	DET:def	il
+frasi	NOM	frase
+che	PRO:rela	che
+si	PRO:pers	si
+potrebbe	VER:cond	potere
+scrivere	VER:infi	scrivere
+sotto	ADV	sotto
+le	DET:def	il
+foto	NOM	foto
+?	SENT	?
+Non	ADV	non
+facciamo	VER:pres	fare
+queste	PRO:demo	questo
+cose	NOM	cosa
+in	PRE	in
+Germania	NPR	Germania
+quindi	ADV	quindi
+sono	VER:pres	essere
+un	DET:indef	un
+po	NOM	unknown
+'	PON	'
+persa	VER:pper	perdere
+🙃🙂🙃	NOM	unknown
+</text>
+<text id='o174' author='marie' date='2016-11-21' time='12:00:39'>
+Ciao	NOM	unknown
+emilia	NOM	unknown
+,	PON	,
+non	ADV	non
+devi	VER:cpre	deviare
+pensarci	VER:infi	pensare
+solo	ADV	solo
+tu	PRO:pers	tu
+😊😊	NOM	unknown
+</text>
+<text id='o175' author='emilia' date='2016-11-21' time='12:00:42'>
+Ciao	NOM	unknown
+marie	ADJ	unknown
+...	PON	...
+scusa	NOM	scusa
+se	CON	se
+non	ADV	non
+ti	PRO:refl	ti
+ho	VER:pres	avere
+ancora	ADV	ancora
+fatto	VER:pper	fare
+sapere	VER:infi	sapere
+niebte	NOM	unknown
+</text>
+<text id='o176' author='marie' date='2016-11-21' time='12:00:53'>
+*così	NOM	unknown
+</text>
+<text id='o177' author='emilia' date='2016-11-21' time='12:00:56'>
+Stavo	NOM	unknown
+aspettando	VER:geru	aspettare
+che	PRO:rela	che
+mi	PRO:pers	mi
+desse	VER:cimp	dare
+qualche	ADJ	qualche
+idea	NOM	idea
+nicole	NOM	unknown
+</text>
+<text id='o178' author='marie' date='2016-11-21' time='12:00:58'>
+Tranqui	NOM	unknown
+</text>
+<text id='o179' author='marie' date='2016-11-21' time='12:01:40'>
+Ahh	NOM	unknown
+oki	ADJ	unknown
+certo	ADJ	certo
+😊	NOM	unknown
+cmq	NOM	unknown
+vado	VER:pres	andare
+a	PRE	a
+stampare	VER:infi	stampare
+domani	ADV	domani
+.	SENT	.
+Quindi	ADV	quindi
+c'	PRO:demo	c'
+è	NOM	unknown
+tempo	NOM	tempo
+</text>
+<text id='o180' author='emilia' date='2016-11-21' time='12:02:48'>
+Perfetto	NOM	perfetto
+...	PON	...
+allora	ADV	allora
+vedo	VER:pres	vedere
+cosa	NOM	cosa
+mi	PRO:pers	mi
+dice	VER:pres	dire
+nicole	NOM	unknown
+e	CON	e
+ti	PRO:pers	ti
+faccio	VER:pres	fare
+sapere..nel	VER:infi	unknown
+frattempo	NOM	frattempo
+sono	VER:pres	essere
+ben	ADV	ben
+accette	ADJ	accetto
+tutte	ADJ	tutto
+le	DET:def	il
+proposte	NOM	proposta
+😘	NOM	unknown
+</text>
+<text id='o181' author='marie' date='2016-11-21' time='12:03:17'>
+😊	NOM	unknown
+</text>
+<text id='o182' author='marianna' date='2016-11-21' time='19:29:24'>
+Ragazze	NOM	ragazza
+il	DET:def	il
+lancio	NOM	lancio
+è	NOM	unknown
+alle	PRE:det	al
+10	NUM	@card@
+,	PON	,
+prenotato	VER:pper	prenotare
+!	PON	!
+!	SENT	!
+</text>
+<text id='o183' author='emilia' date='2016-11-21' time='19:34:24'>
+Yeahhhhhhhh	ADJ	unknown
+</text>
+<text id='o184' author='marie' date='2016-11-21' time='19:48:50'>
+🎈🎈	NOM	unknown
+</text>
+<text id='o185' author='marianna' date='2016-11-22' time='23:35:15'>
+Questa	NOM	unknown
+è	NOM	unknown
+la	DET:def	il
+gonna	NOM	gonna
+ragazze	NOM	ragazza
+</text>
+<text id='o186' author='marianna' date='2016-11-22' time='23:35:33'>
+È	NOM	unknown
+tutto	ADV	tutto
+ciò	ADJ	unknown
+che	PRO:rela	che
+Fra	NPR	Fra
+non	ADV	non
+vorrebbe	VER:cond	volere
+mettere😂😂	VER:infi	unknown
+</text>
+<text id='o187' author='marianna' date='2016-11-22' time='23:35:43'>
+Glitter	NOM	unknown
+e	CON	e
+rosa	ADJ	rosa
+</text>
+<text id='o188' author='marie' date='2016-11-22' time='23:36:21'>
+😍😍😂	NOM	unknown
+...	PON	...
+bravaaaa	ADJ	unknown
+!	SENT	!
+</text>
+<text id='o189' author='marianna' date='2016-11-22' time='23:38:57'>
+Marie	NPR	Marie
+tu	NOM	tu
+domani	ADV	domani
+potresti	VER:cond	potere
+portare	VER:infi	portare
+la	DET:def	il
+bacchetta	NOM	bacchetta
+glitterata	NOM	unknown
+?	SENT	?
+❤	NOM	unknown
+</text>
+<text id='o190' author='marie' date='2016-11-22' time='23:39:31'>
+Sì	NOM	unknown
+certo	ADJ	certo
+!	SENT	!
+</text>
+<text id='o191' author='marie' date='2016-11-22' time='23:39:35'>
+😊	NOM	unknown
+</text>
+<text id='o192' author='emilia' date='2016-11-23' time='00:24:39'>
+Bellissimo	VER:cimp	unknown
+mariiiiii	VER:infi	unknown
+!	SENT	!
+!	PON	!
+!	SENT	!
+Davvero	ADV	davvero
+brava	ADJ	bravo
+</text>
+<text id='o193' author='emilia' date='2016-11-23' time='00:24:44'>
+Buonanotte	NOM	buonanotte
+donne	NOM	donna
+</text>
+<text id='o194' author='marianna' date='2016-11-23' time='00:56:51'>
+Grazie	NOM	grazia
+Sof	NOM	unknown
+!	SENT	!
+!	PON	!
+!	SENT	!
+Le	DET:def	il
+ali	NOM	ala
+però	ADJ	unknown
+sono	VER:pres	essere
+trash	ADJ	trash
+e	CON	e
+merda	NOM	merda
+</text>
+<text id='o195' author='marianna' date='2016-11-23' time='00:57:03'>
+In	NOM	unknown
+ogni	ADJ	ogni
+caso	NOM	caso
+notte	NOM	notte
+donzelle❤❤	NOM	unknown
+</text>
+<text id='o196' author='emilia' date='2016-11-23' time='01:03:33'>
+Ma	VER:geru	unknown
+smettila	VER:impe	smettere
+saranno	VER:futu	essere
+stupende	ADJ	stupendo
+</text>
+<text id='o197' author='marianna' date='2016-11-23' time='08:07:03'>
+Ragazze	NOM	ragazza
+potete	VER:pres	potere
+scrivermi	VER:infi	scrivere
+i	DET:def	il
+nomi	NOM	nome
+di	PRE	di
+chi	PRO:rela	chi
+ha	VER:pres	avere
+messo	VER:pper	mettere
+i	DET:def	il
+soldi	NOM	soldo
+per	PRE	per
+il	DET:def	il
+regalo	NOM	regalo
+(	PON	(
+chi	PRO:rela	chi
+l'	PRO:pers	l'
+ha	VER:pres	avere
+fatto	VER:pper	fare
+,	PON	,
+insomma	ADV	insomma
+)	PON	)
+</text>
+<text id='o198' author='marianna' date='2016-11-23' time='08:07:05'>
+?	SENT	?
+</text>
+<text id='o199' author='marianna' date='2016-11-23' time='08:07:35'>
+Che	PRO:rela	che
+lo	PRO:pers	lo
+scrivo	VER:pres	scrivere
+sia	CON	sia
+sul	PRE:det	sul
+biglietto	NOM	biglietto
+dei	PRE:det	del
+fiori	NOM	fiore
+sia	CON	sia
+su	PRE	su
+quello	PRO:demo	quello
+del	PRE:det	del
+regalo	NOM	regalo
+!	SENT	!
+</text>
+<text id='o200' author='marianna' date='2016-11-23' time='08:08:36'>
+Questo	PRO:demo	questo
+potrebbe	VER:cond	potere
+essere	VER:infi	essere
+il	DET:def	il
+biglietto	NOM	biglietto
+dei	PRE:det	del
+fiori	NOM	fiore
+</text>
+<text id='o201' author='marianna' date='2016-11-23' time='08:08:39'>
+Vi	NOM	unknown
+va	VER:pres	andare
+bene	ADV	bene
+?	SENT	?
+</text>
+<text id='o202' author='marianna' date='2016-11-23' time='08:09:40'>
+Si	PRO:pers	si
+luci	VER:pres	lucere
+,	PON	,
+cioè	ADJ	unknown
+non	ADV	non
+ho	VER:pres	avere
+letto	VER:pper	leggere
+i	DET:def	il
+nomi	NOM	nome
+perché	ADJ	unknown
+alla	PRE:det	al
+fine	NOM	fine
+non	ADV	non
+mi	PRO:pers	mi
+sono	VER:pres	essere
+arrivate	VER:pper	arrivare
+le	DET:def	il
+descrizioni	NOM	descrizione
+ma	CON	ma
+i	DET:def	il
+soldi	NOM	soldo
+corrispondevano	VER:impf	corrispondere
+quindi	ADV	quindi
+immagino	VER:pres	immaginare
+di	PRE	di
+si🙂😘	NOM	unknown
+</text>
+<text id='o203' author='marie' date='2016-11-23' time='08:39:56'>
+Sabrina	NPR	Sabrina
+e	CON	e
+Marie	NPR	Marie
+😊	NOM	unknown
+...	PON	...
+e	CON	e
+il	DET:def	il
+biglietto	NOM	biglietto
+va	VER:pres	andare
+benissimo	ADV	benissimo
+</text>
+<text id='o204' author='emilia' date='2016-11-23' time='08:40:19'>
+Ti	NOM	unknown
+faccio	VER:pres	fare
+la	DET:def	il
+lista	NOM	lista
+completa	ADJ	completo
+</text>
+<text id='o205' author='emilia' date='2016-11-23' time='08:40:22'>
+Marianna	NOM	unknown
+</text>
+<text id='o206' author='emilia' date='2016-11-23' time='08:40:28'>
+Emiliana	NOM	emiliano
+</text>
+<text id='o207' author='emilia' date='2016-11-23' time='08:40:32'>
+Sabrina	NPR	Sabrina
+</text>
+<text id='o208' author='emilia' date='2016-11-23' time='08:40:35'>
+Marie	NPR	Marie
+</text>
+<text id='o209' author='emilia' date='2016-11-23' time='08:40:37'>
+Irene	NPR	Irene
+</text>
+<text id='o210' author='emilia' date='2016-11-23' time='08:40:40'>
+Nicole	NPR	Nicole
+</text>
+<text id='o211' author='emilia' date='2016-11-23' time='08:40:42'>
+Guenda	NOM	unknown
+</text>
+<text id='o212' author='emilia' date='2016-11-23' time='08:40:45'>
+Francesco	NPR	Francesco
+</text>
+<text id='o213' author='emilia' date='2016-11-23' time='08:40:56'>
+Lucia	NPR	Lucia
+</text>
+<text id='o214' author='emilia' date='2016-11-23' time='08:41:13'>
+Buongiorno	NOM	buongiorno
+donzelle	NOM	donzella
+😎🌻	NOM	unknown
+</text>
+<text id='o215' author='marianna' date='2016-11-23' time='08:44:51'>
+Okay	NOM	okay
+,	PON	,
+ovviamente	ADV	ovviamente
+ha	VER:pres	avere
+messo	VER:pper	mettere
+i	DET:def	il
+soldi	NOM	soldo
+anche	ADV	anche
+Federico	NPR	Federico
+...	PON	...
+da	PRE	da
+qui	ADV	qui
+il	DET:def	il
+bouquet	NOM	bouquet
+!	SENT	!
+Buongiorno	NOM	buongiorno
+cuori	NOM	cuore
+</text>
+<text id='o216' author='emilia' date='2016-11-23' time='08:49:55'>
+Certo	NOM	unknown
+!	SENT	!
+!	PON	!
+!	SENT	!
+!	PON	!
+!	SENT	!
+Pardon	INT	pardon
+avevo	VER:impf	avere
+dimenticato	VER:pper	dimenticare
+!	SENT	!
+😅	NOM	unknown
+il	DET:def	il
+sonno	NOM	sonno
+😂	NOM	unknown
+</text>
+<text id='o217' author='sabrina' date='2016-11-23' time='14:37:19'>
+Ragazze	NOM	ragazza
+!	SENT	!
+Dove	ADV	dove
+siete	VER:pres	essere
+che	PRO:rela	che
+vi	PRO:refl	vi
+raggiungo	VER:pres	raggiungere
+c	NOM	c
+</text>
+<text id='o218' author='sabrina' date='2016-11-23' time='14:37:20'>
+?	SENT	?
+</text>
+<text id='o219' author='emilia' date='2016-12-02' time='08:45:09'>
+Buongiorno	NOM	buongiorno
+bellezze	NOM	bellezza
+...	PON	...
+ieri	ADV	ieri
+ho	VER:pres	avere
+sentito	VER:pper	sentire
+nicole	NOM	unknown
+che	PRO:rela	che
+mi	PRO:pers	mi
+ha	VER:pres	avere
+detto	VER:pper	dire
+che	PRO:rela	che
+loro	PRO:pers	loro
+domani	ADV	domani
+verranno	VER:futu	venire
+in	PRE	in
+macchina	NOM	macchina
+.	SENT	.
+E	CON	e
+poi	ADV	poi
+ho	VER:pres	avere
+sentito	VER:pper	sentire
+anche	ADV	anche
+Lucia	NPR	Lucia
+che	PRO:rela	che
+mi	PRO:pers	mi
+ha	VER:pres	avere
+detto	VER:pper	dire
+che	PRO:rela	che
+anche	ADV	anche
+noi	PRO:pers	noi
+possiamo	VER:pres	potere
+andare	VER:infi	andare
+con	PRE	con
+la	DET:def	il
+macchina	NOM	macchina
+sua	PRO:poss	suo
+!	PON	!
+!	SENT	!
+😍	NOM	unknown
+</text>
+<text id='o220' author='emilia' date='2016-12-02' time='08:47:05'>
+Lei	NOM	unknown
+è	NOM	unknown
+stata	VER:pper	essere|stare
+carinissima🎈	NOM	unknown
+ovviamente	ADV	ovviamente
+se	PRO:refl	se
+siete	VER:pres	essere
+d'	PRE	d'
+accordo	NOM	accordo
+noi	PRO:pers	noi
+pensiamo	VER:cpre	pensare
+alla	PRE:det	al
+benzina	NOM	benzina
+e	CON	e
+al	PRE:det	al
+biglietto	NOM	biglietto
+.	SENT	.
+Quindi	ADV	quindi
+sarà	ADJ	unknown
+tutto	ADJ	tutto
+più	NOM	unknown
+semplice	ADJ	semplice
+!	SENT	!
+🎊🎉	NOM	unknown
+</text>
+<text id='o221' author='emilia' date='2016-12-02' time='08:47:59'>
+Oggi	NOM	oggi
+pomeriggio	NOM	pomeriggio
+quando	CON	quando
+torna	VER:impe	tornare
+da	PRE	da
+Bruxelles	NPR	Bruxelles
+ci	PRO:refl	ci
+sentiamo	VER:pres	sentire
+meglio	ADV	meglio
+così	ADJ	unknown
+stabiliamo	VER:pres	stabilire
+i	DET:def	il
+dettagli..buona	ADJ	unknown
+giornata	NOM	giornata
+margheritine	NOM	margheritina
+☀	NOM	unknown
+</text>
+<text id='o222' author='marianna' date='2016-12-02' time='09:06:58'>
+Togliendo	VER:geru	togliere
+il	DET:def	il
+costo	NOM	costo
+del	PRE:det	del
+vestito	NOM	vestito
+dal	PRE:det	dal
+regalo	NOM	regalo
+di	PRE	di
+fra	PRE	fra
+dovrebbero	VER:cond	dovere
+avanzare	VER:infi	avanzare
+sui	PRE:det	sul
+5-6	NUM	@card@
+euro	NOM	euro
+...	PON	...
+non	ADV	non
+sono	VER:pres	essere
+tanti	ADJ	tanto
+ma	CON	ma
+qualcosa	PRO:indef	qualcosa
+è	NOM	unknown
+!	SENT	!
+😬	NOM	unknown
+</text>
+<text id='o223' author='emilia' date='2016-12-02' time='09:10:50'>
+Quindi	NOM	quindi
+abbiamo	VER:pres	avere
+questi	PRO:demo	questo
+5	NUM	@card@
+euro	ADJ	euro
+e	CON	e
+poi	ADV	poi
+noi	PRO:pers	noi
+ci	PRO:refl	ci
+mettiamo	VER:cpre	mettere
+il	DET:def	il
+resto	NOM	resto
+per	PRE	per
+il	DET:def	il
+pranzo	NOM	pranzo
+e	CON	e
+il	DET:def	il
+viaggio	NOM	viaggio
+!	SENT	!
+🎈	NOM	unknown
+</text>
+<text id='o224' author='emilia' date='2016-12-02' time='09:10:56'>
+Vi	NOM	unknown
+aggiorno	VER:pres	aggiornare
+più	ADJ	unknown
+tardi	ADJ	tardo
+</text>
+<text id='o225' author='sabrina' date='2016-12-02' time='13:03:01'>
+Ok	NOM	ok
+!	PON	!
+!	SENT	!
+</text>
+<text id='o226' author='emilia' date='2016-12-02' time='19:13:32'>
+Allora	ADV	allora
+ragazze	NOM	ragazza
+...	PON	...
+il	DET:def	il
+lancio	NOM	lancio
+di	PRE	di
+domani	ADV	domani
+è	NOM	unknown
+in	PRE	in
+dubbio	NOM	dubbio
+per	PRE	per
+un	DET:indef	un
+paio	NOM	paio
+di	PRE	di
+motivi	NOM	motivo
+però	ADJ	unknown
+la	DET:def	il
+fra	CON	fra
+ci	PRO:refl	ci
+tiene	VER:pres	tenere
+che	PRO:rela	che
+andiamo	VER:cpre	andare
+lo	DET:def	il
+stesso	ADJ	stesso
+perché	NOM	unknown
+dice	VER:pres	dire
+che	PRO:rela	che
+averci	VER:infi	avere
+tutti	ADJ	tutto
+e	CON	e
+dieci	ADJ	dieci
+è	NOM	unknown
+un'	DET:indef	un'
+occasione	NOM	occasione
+rara	ADJ	raro
+che	PRO:rela	che
+difficilmente	ADV	difficilmente
+si	PRO:refl	si
+ripeterà	VER:impe	unknown
+</text>
+<text id='o227' author='emilia' date='2016-12-02' time='19:14:05'>
+Però	NOM	unknown
+considerando	VER:geru	considerare
+che	PRO:rela	che
+non	ADV	non
+è	NOM	unknown
+sicuro	ADJ	sicuro
+che	PRO:rela	che
+si	PRO:refl	si
+lanci	VER:cpre	lanciare
+propone	VER:pres	proporre
+di	PRE	di
+partire	VER:infi	partire
+verso	PRE	verso
+le	DET:def	il
+10	NUM	@card@
+in	PRE	in
+modo	NOM	modo
+da	PRE	da
+essere	VER:infi	essere
+a	PRE	a
+reggio	NOM	unknown
+alle	PRE:det	al
+11	NUM	@card@
+</text>
+<text id='o228' author='emilia' date='2016-12-02' time='19:14:11'>
+Siete	NOM	unknown
+d'	PRE	d'
+accordo	NOM	accordo
+?	SENT	?
+</text>
+<text id='o229' author='emilia' date='2016-12-02' time='19:14:22'>
+Carla	NOM	unknown
+dice	VER:pres	dire
+che	PRO:rela	che
+la	DET:def	il
+macchina	NOM	macchina
+c'	PRO:demo	c'
+è	NOM	unknown
+...	PON	...
+giusto	ADJ	giusto
+?	SENT	?
+</text>
+<text id='o230' author='emilia' date='2016-12-02' time='19:14:50'>
+Quale	PRO:inter	quale
+punto	NOM	punto
+di	PRE	di
+ritrovo	NOM	ritrovo
+ci	PRO:refl	ci
+diamo	VER:pres	dare
+?	SENT	?
+</text>
+<text id='o231' author='marie' date='2016-12-02' time='19:17:33'>
+Certo	ADV	certo
+,	PON	,
+ci	PRO:refl	ci
+sto	VER:pres	stare
+😊	NOM	unknown
+se	CON	se
+alla	PRE:det	al
+fine	NOM	fine
+ale	VER:geru	unknown
+non	ADV	non
+si	PRO:pers	si
+lancia	VER:pres	lanciare
+,	PON	,
+peccato	VER:pper	peccare
+.	SENT	.
+Ma	CON	ma
+cmq	NOM	unknown
+,	PON	,
+così	ADJ	unknown
+abbiamo	VER:pres	avere
+fatto	VER:pper	fare
+una	DET:indef	una
+bella	ADJ	bello
+gita	NOM	gita
+in	PRE	in
+macchina	NOM	macchina
+🙂🙃	NOM	unknown
+</text>
+<text id='o232' author='emilia' date='2016-12-02' time='19:22:11'>
+Siiiiiiiii	NOM	unknown
+sono	VER:pres	essere
+d'	PRE	d'
+accordo	NOM	accordo
+</text>
+<text id='o233' author='marianna' date='2016-12-02' time='19:29:35'>
+Per	NOM	unknown
+me	PRO:pers	me
+va	VER:pres	andare
+benissimo	ADV	benissimo
+!	SENT	!
+!	PON	!
+!	SENT	!
+</text>
+<text id='o234' author='emilia' date='2016-12-02' time='19:30:53'>
+Dacci	NOM	unknown
+un	DET:indef	un
+punto	NOM	punto
+dove	ADV	dove
+sei	ADJ	sei
+più	NOM	unknown
+comoda	ADJ	comodo
+anche	ADV	anche
+per	PRE	per
+fermarti	VER:infi	fermare
+a	PRE	a
+caricarci	VER:infi	caricare
+...	PON	...
+noi	PRO:pers	noi
+ci	PRO:refl	ci
+adeguiamo	VER:cpre	adeguare
+☺	NOM	unknown
+</text>
+<text id='o235' author='emilia' date='2016-12-02' time='20:00:45'>
+Assolutamente	NOM	unknown
+si	PRO:pers	si
+...	PON	...
+</text>
+<text id='o236' author='marianna' date='2016-12-02' time='20:03:38'>
+Sisi	NOM	unknown
+🙂🙂	NOM	unknown
+</text>
+<text id='o237' author='emilia' date='2016-12-02' time='20:23:48'>
+Allora	NOM	unknown
+stiamo	VER:pres	stare
+dicendo	VER:geru	dire
+con	PRE	con
+fra	PRE	fra
+di	PRE	di
+andare	VER:infi	andare
+direttamente	ADV	direttamente
+alle	PRE:det	al
+11.20	NUM	@card@
+alla	PRE:det	al
+stazione	NOM	stazione
+di	PRE	di
+reggio	NOM	unknown
+ed	CON	ed
+incontrarci	VER:infi	incontrare
+lì	NOM	unknown
+al	PRE:det	al
+parcheggio	NOM	parcheggio
+per	PRE	per
+aspettare	VER:infi	aspettare
+irene	NOM	unknown
+</text>
+<text id='o238' author='emilia' date='2016-12-02' time='20:23:55'>
+Che	NPR	Che
+ne	ADV	ne
+dite	VER:pres	dire
+?	SENT	?
+</text>
+<text id='o239' author='emilia' date='2016-12-02' time='20:24:27'>
+Quindi	ADV	quindi
+a	PRE	a
+che	PRO:rela	che
+ora	ADV	ora
+dovremmo	VER:cond	dovere
+partire	VER:infi	partire
+?	SENT	?
+</text>
+<text id='o240' author='emilia' date='2016-12-02' time='20:24:41'>
+Un'	DET:indef	un'
+ora	NOM	ora
+prima	ADJ	primo
+per	PRE	per
+stare	VER:infi	stare
+tranquille	ADJ	tranquillo
+?	SENT	?
+</text>
+<text id='o241' author='marie' date='2016-12-02' time='20:27:32'>
+Porta	NOM	porta
+San	NPR	San
+Donato	NPR	Donato
+va	VER:pres	andare
+benissimo	ADV	benissimo
+😊	NOM	unknown
+</text>
+<text id='o242' author='marianna' date='2016-12-02' time='20:33:55'>
+Dieci	NOM	dieci
+e	CON	e
+venti	NOM	vento
+davanti	ADJ	davanti
+al	PRE:det	al
+mi	PRO:pers	mi
+furner	VER:impe	unknown
+?	SENT	?
+</text>
+<text id='o243' author='marianna' date='2016-12-02' time='20:34:39'>
+(	PON	(
+la	DET:def	il
+panetteria	NOM	panetteria
+proprio	ADV	proprio
+davanti	ADJ	davanti
+alla	PRE:det	al
+porta	NOM	porta
+)	PON	)
+</text>
+<text id='o244' author='emilia' date='2016-12-02' time='20:53:06'>
+Guarda	VER:pres	guardare
+per	PRE	per
+evitare	VER:infi	evitare
+intoppi	NOM	intoppo
+io	PRO:pers	io
+fare	VER:infi	fare
+dieci	ADJ	dieci
+così	NOM	unknown
+non	ADV	non
+abbiamo	VER:pres	avere
+l'	DET:def	il
+acqua	NOM	acqua
+alla	PRE:det	al
+gola	NOM	gola
+...	PON	...
+Così	NOM	unknown
+volendo	VER:geru	volere
+possiamo	VER:pres	potere
+anche	ADV	anche
+fare	VER:infi	fare
+una	DET:indef	una
+colazione	NOM	colazione
+in	PRE	in
+autogrill😉	ADJ	unknown
+</text>
+<text id='o245' author='marie' date='2016-12-02' time='21:00:53'>
+Perfetto	NOM	perfetto
+</text>
+<text id='o246' author='marianna' date='2016-12-02' time='21:14:15'>
+👍🏻👍🏻👍🏻👍🏻	NOM	unknown
+</text>
+<text id='o247' author='marianna' date='2016-12-03' time='09:43:42'>
+Buongiorno	NOM	buongiorno
+donzelle	NOM	donzella
+!	SENT	!
+</text>
+<text id='o248' author='marianna' date='2016-12-03' time='09:44:09'>
+Parto	VER:pres	partire
+ora	ADV	ora
+,	PON	,
+colazione	NOM	colazione
+già	ADJ	unknown
+fatta	VER:pper	fare
+.	SENT	.
+Voi	PRO:pers	voi
+iniziate	VER:pper	iniziare
+senza	CON	senza
+di	PRE	di
+me	PRO:pers	me
+🌻	NOM	unknown
+a	PRE	a
+tra	PRE	tra
+pochissimo	ADJ	poco
+</text>
+<text id='o249' author='emilia' date='2016-12-03' time='09:48:56'>
+Io	NOM	unknown
+sono	VER:pres	essere
+in	PRE	in
+via	NOM	via
+***	NOM	unknown
+da	PRE	da
+20	NUM	@card@
+min	VER:cpre	unknown
+ad	PRE	ad
+aspettare	VER:infi	aspettare
+il	DET:def	il
+36	NUM	@card@
+...	PON	...
+scusate	VER:pper	scusare
+!	SENT	!
+</text>
+<text id='o250' author='marianna' date='2016-12-03' time='09:56:49'>
+Arrivata	VER:pper	arrivare
+!	SENT	!
+</text>
+<text id='o251' author='emilia' date='2016-12-10' time='08:41:20'>
+Buongiorno	NOM	buongiorno
+ragazze	NOM	ragazza
+!	SENT	!
+Questa	PRO:demo	questo
+notte	NOM	notte
+si	PRO:refl	si
+è	NOM	unknown
+spenta	VER:pper	spegnere
+la	DET:def	il
+nonna	NOM	nonna
+di	PRE	di
+Fra	NPR	Fra
+!	PON	!
+!	SENT	!
+Io	PRO:pers	io
+domani	ADV	domani
+vado	VER:pres	andare
+al	PRE:det	al
+funerale	NOM	funerale
+...	PON	...
+qualcuna	PRO:indef	qualcuna
+di	PRE	di
+voi	NOM	voi
+se	CON	se
+la	PRO:pers	la
+sente	VER:pres	sentire
+di	PRE	di
+venire	VER:infi	venire
+con	PRE	con
+me	PRO:pers	me
+?	SENT	?
+</text>
+<text id='o252' author='sabrina' date='2016-12-10' time='08:53:50'>
+Io	PRO:pers	io
+ci	PRO:refl	ci
+sono	VER:pres	essere
+...	PON	...
+</text>
+<text id='o253' author='marie' date='2016-12-10' time='09:14:39'>
+potrei	VER:cond	potere
+esserci	VER:infi	essere
+anch'io	VER:geru	unknown
+.	SENT	.
+Ma	CON	ma
+non	ADV	non
+la	PRO:pers	la
+conoscevo	VER:impf	conoscere
+bene	ADV	bene
+...	PON	...
+</text>
+<text id='o254' author='emilia' date='2016-12-10' time='09:16:25'>
+Infatti	NOM	unknown
+in	PRE	in
+queste	PRO:demo	questo
+circostanze	NOM	circostanza
+non	ADV	non
+ci	PRO:refl	ci
+sono	VER:pres	essere
+obblighi.	ADJ	unknown
+.	SENT	.
+deve	VER:pres	dovere
+essere	VER:infi	essere
+solo	ADV	solo
+se	CON	se
+te	PRO:pers	te
+la	PRO:pers	la
+senti	VER:pres	sentire
+davvero	ADV	davvero
+.	SENT	.
+</text>
+<text id='o255' author='emilia' date='2016-12-10' time='09:16:53'>
+Quindi	ADV	quindi
+stai	VER:pres	stare
+tranquilla	ADJ	tranquillo
+...	PON	...
+nel	PRE:det	nel
+caso	NOM	caso
+le	PRO:pers	le
+portiamo	VER:cpre	portare
+le	DET:def	il
+condoglianze	NOM	condoglianza
+anche	ADV	anche
+da	PRE	da
+parte	NOM	parte
+tua	ADJ	tuo
+.	SENT	.
+Pensaci	VER:impe	pensare
+con	PRE	con
+calma	ADJ	calmo
+</text>
+<text id='o256' author='marianna' date='2016-12-10' time='09:37:17'>
+Io	NOM	unknown
+ci	PRO:refl	ci
+sono	VER:pres	essere
+</text>
+<text id='o257' author='emilia' date='2016-12-10' time='09:39:03'>
+Adesso	NOM	unknown
+sto	VER:pres	stare
+scrivendo	VER:geru	scrivere
+a	PRE	a
+nicole	NOM	unknown
+per	PRE	per
+sapere	VER:infi	sapere
+il	DET:def	il
+giorno	NOM	giorno
+e	CON	e
+l'	DET:def	il
+ora	ADV	ora
+</text>
+<text id='o258' author='emilia' date='2016-12-10' time='09:40:32'>
+Non	NOM	unknown
+voglio	VER:pres	volere
+scrivere	VER:infi	scrivere
+a	PRE	a
+fra	PRE	fra
+per	PRE	per
+chiederle	VER:infi	chiedere
+ste	VER:infi	unknown
+cose	NOM	cosa
+tecniche	ADJ	tecnico
+</text>
+<text id='o259' author='emilia' date='2016-12-10' time='09:40:49'>
+Appena	NOM	unknown
+so	VER:pres	sapere
+qualcosa	PRO:indef	qualcosa
+vi	PRO:refl	vi
+dico	VER:pres	dire
+e	CON	e
+ci	PRO:refl	ci
+organizziamo	VER:cpre	organizzare
+</text>
+<text id='o260' author='emilia' date='2017-02-07' time='23:35:49'>
+Ciao	NOM	unknown
+ragazze	NOM	ragazza
+...	PON	...
+scusate	VER:pper	scusare
+se	CON	se
+uso	NOM	uso
+questo	PRO:demo	questo
+spazio	NOM	spazio
+ma	CON	ma
+almeno	ADV	almeno
+non	ADV	non
+c'	PRO:demo	c'
+è	NOM	unknown
+la	DET:def	il
+fra	PRE	fra
+!	PON	!
+!	PON	!
+Che	PRO:rela	che
+dite	VER:pres	dire
+per	PRE	per
+domani	ADV	domani
+sera	NOM	sera
+passo	ADJ	passo
+a	PRE	a
+prendere	VER:infi	prendere
+una	DET:indef	una
+tortina	ADJ	unknown
+e	CON	e
+delle	PRE:det	del
+candeline	NOM	candelina
+?	SENT	?
+</text>
+<text id='o261' author='emilia' date='2017-02-07' time='23:36:08'>
+E	CON	e
+magari	ADV	magari
+anche	ADV	anche
+una	DET:indef	una
+bottiglia	NOM	bottiglia
+di	PRE	di
+spumante	NOM	spumante
+?	SENT	?
+☺	NOM	unknown
+</text>
+<text id='o262' author='emilia' date='2017-02-07' time='23:36:23'>
+Fatemi	NOM	unknown
+sapere	VER:infi	sapere
+che	PRO:rela	che
+nel	PRE:det	nel
+caso	NOM	caso
+posso	VER:pres	potere
+andarci	VER:infi	andare
+io	PRO:pers	io
+...	PON	...
+buonanotte	NOM	buonanotte
+😘	NOM	unknown
+</text>
+<text id='o263' author='emilia' date='2017-02-08' time='00:03:19'>
+Beh	NOM	unknown
+se	CON	se
+ci	PRO:refl	ci
+pensa	VER:pres	pensare
+già	NOM	unknown
+lei	PRO:pers	lei
+non	ADV	non
+voglio	VER:pres	volere
+"	PON	"
+scavalcarla	VER:infi	scavalcare
+"	PON	"
+</text>
+<text id='o264' author='emilia' date='2017-02-08' time='00:04:13'>
+Ovviamente	NOM	unknown
+possiamo	VER:pres	potere
+contribuire	VER:infi	contribuire
+</text>
+<text id='o265' author='emilia' date='2017-02-08' time='00:04:39'>
+E	NOM	unknown
+magari	ADV	magari
+prendere	VER:infi	prendere
+le	DET:def	il
+candeline	NOM	candelina
+e	CON	e
+lo	DET:def	il
+spumante	NOM	spumante
+se	CON	se
+non	ADV	non
+ci	PRO:refl	ci
+ha	VER:pres	avere
+già	NOM	unknown
+pensato	VER:pper	pensare
+lei	PRO:pers	lei
+</text>
+<text id='o266' author='emilia' date='2017-02-08' time='00:05:22'>
+Certo	NOM	unknown
+...	PON	...
+figurati	ADJ	figurato
+.	SENT	.
+buonanotte	NOM	buonanotte
+😘	NOM	unknown
+</text>
+</corpus>
