@@ -50,7 +50,6 @@ vai	ADJ	vaio
 ?	SENT	?
 </text>
 <text id='v9' author='Daniele' date='2016-02-08' time='21:53:39'>
-<‎immagine omessa>
 </text>
 <text id='v10' author='Daniele' date='2016-02-08' time='21:54:14'>
 Benedetta	ADJ	benedetto
@@ -177,7 +176,6 @@ Barak	NPR	Barak
 Soprattutto	ADV	soprattutto
 </text>
 <text id='v24' author='Daniele' date='2016-02-15' time='14:21:49'>
-<‎immagine omessa>
 </text>
 <text id='v25' author='Benedetta' date='2016-02-15' time='14:27:58'>
 Ciao	NOM	unknown
@@ -228,7 +226,7 @@ pantaloni	NOM	pantalone
 ...	PON	...
 </text>
 <text id='v34' author='Marta' date='2016-02-15' time='15:12:14'>
-<‎immagine omessa>
+
 </text>
 <text id='v35' author='Benedetta' date='2016-02-15' time='16:17:08'>
 Qui	NOM	unknown
@@ -377,7 +375,7 @@ Giulia	NPR	Giulia
 .	SENT	.
 </text>
 <text id='v49' author='Daniele' date='2016-02-27' time='23:50:48'>
-<‎immagine omessa>
+
 </text>
 <text id='v50' author='Filippa' date='2016-02-28' time='09:20:33'>
 È	NOM	unknown
@@ -416,7 +414,7 @@ ti	PRO:pers	ti
 conviene	VER:pres	convenire
 </text>
 <text id='v52' author='Vera' date='2016-03-01' time='08:15:05'>
-<‎immagine omessa>
+
 </text>
 <text id='v53' author='Vera' date='2016-03-01' time='08:16:16'>
 L'	NOM	unknown
@@ -428,7 +426,7 @@ di	PRE	di
 girarlo	VER:infi	girare
 al	PRE:det	al
 cea	ADJ	unknown
-&	PON	&
+	PON	
 co	VER:impe	unknown
 .	SENT	.
 </text>
@@ -628,7 +626,7 @@ rendi	VER:pres	rendere
 Prendi	VER:pres	prendere
 </text>
 <text id='v80' author='Daniele' date='2016-03-02' time='06:01:51'>
-<‎video omesso>
+
 </text>
 <text id='v81' author='Patrizio' date='2016-03-02' time='07:30:53'>
 Bello	NOM	bello
@@ -809,7 +807,7 @@ dei	PRE:det	del
 pipistrelli	NOM	pipistrello
 </text>
 <text id='v100' author='Tommaso' date='2016-03-04' time='13:32:36'>
-<‎immagine omessa>
+
 </text>
 <text id='v101' author='Marta' date='2016-03-04' time='13:39:04'>
 Che	NPR	Che
@@ -1277,7 +1275,7 @@ brasigliane	ADJ	unknown
 .	SENT	.
 </text>
 <text id='v168' author='Marta' date='2016-03-20' time='11:32:19'>
-<‎immagine omessa>
+
 </text>
 <text id='v169' author='Alessandro' date='2016-03-20' time='12:03:02'>
 Daniele	NPR	Daniele
@@ -1297,7 +1295,7 @@ cancellato	VER:pper	cancellare
 .	SENT	.
 </text>
 <text id='v171' author='Patrizio' date='2016-03-20' time='12:58:36'>
-<‎immagine omessa>
+
 </text>
 <text id='v172' author='Patrizio' date='2016-03-20' time='12:58:47'>
 Saluti	NOM	salute|saluto
@@ -1337,10 +1335,10 @@ prossima	ADJ	prossimo
 volta	ADJ	volto
 </text>
 <text id='v178' author='Marta' date='2016-03-20' time='15:14:57'>
-<‎immagine omessa>
+
 </text>
 <text id='v179' author='Vera' date='2016-03-27' time='15:32:34'>
-<‎immagine omessa>
+
 </text>
 <text id='v180' author='Vera' date='2016-03-27' time='15:32:44'>
 Tutto	NOM	tutto
@@ -1397,7 +1395,7 @@ Auguri🐣🐣🐣	ADJ	unknown
 Auguri	NOM	augurio
 </text>
 <text id='v189' author='Patrizio' date='2016-03-27' time='15:51:04'>
-<‎immagine omessa>
+
 </text>
 <text id='v190' author='Alessandro' date='2016-03-28' time='08:33:58'>
 Grazie	NOM	grazia
@@ -1780,10 +1778,10 @@ sono	VER:pres	essere
 !	SENT	!
 </text>
 <text id='v231' author='Silvio' date='2016-04-26' time='13:10:44'>
-<‎immagine omessa>
+
 </text>
 <text id='v232' author='Silvio' date='2016-04-26' time='13:13:19'>
-<‎immagine omessa>
+
 </text>
 <text id='v233' author='Vera' date='2016-04-26' time='13:18:04'>
 💐🌸🍸auguri	NOM	unknown
@@ -1928,7 +1926,7 @@ buoni	ADJ	buono
 💘💘	NOM	unknown
 </text>
 <text id='v257' author='Benedetta' date='2016-04-26' time='13:52:25'>
-<‎audio omesso>
+
 </text>
 <text id='v258' author='Benedetta' date='2016-04-26' time='13:52:52'>
 Silvio	NPR	Silvio
@@ -1948,7 +1946,7 @@ te	PRO:pers	te
 !	SENT	!
 </text>
 <text id='v260' author='Silvio' date='2016-04-26' time='14:24:46'>
-<‎audio omesso>
+
 </text>
 <text id='v261' author='Daniele' date='2016-04-26' time='14:30:44'>
 Il	DET:def	il
@@ -2714,7 +2712,7 @@ figlio	NOM	figlio
 Alessandro	NPR	Alessandro
 </text>
 <text id='v330' author='Patrizio' date='2016-06-05' time='20:17:24'>
-<‎immagine omessa>
+
 </text>
 <text id='v331' author='Patrizio' date='2016-06-05' time='20:17:30'>
 Io	NOM	unknown
@@ -2787,7 +2785,7 @@ Patrizio	NPR	Patrizio
 🐛🐛🐛🐛🐛	NOM	unknown
 </text>
 <text id='v342' author='Daniele' date='2016-06-06' time='11:16:52'>
-<‎immagine omessa>
+
 </text>
 <text id='v343' author='Filippa' date='2016-06-06' time='11:18:09'>
 😂😂😂	NOM	unknown
@@ -2796,10 +2794,10 @@ Patrizio	NPR	Patrizio
 😂😂😂😂	NOM	unknown
 </text>
 <text id='v345' author='Daniele' date='2016-06-06' time='12:07:47'>
-<‎immagine omessa>
+
 </text>
 <text id='v346' author='Daniele' date='2016-06-06' time='12:08:21'>
-<‎immagine omessa>
+
 </text>
 <text id='v347' author='Filippa' date='2016-06-06' time='12:09:42'>
 Ce	NOM	unknown
@@ -2877,7 +2875,7 @@ accordo	NOM	accordo
 .	SENT	.
 </text>
 <text id='v354' author='Daniele' date='2016-06-08' time='08:18:45'>
-<‎immagine omessa>
+
 </text>
 <text id='v355' author='Daniele' date='2016-06-08' time='08:19:05'>
 Sono	VER:pres	essere
@@ -3127,7 +3125,7 @@ Transumanza	NOM	transumanza
 Si	PRO:pers	si
 </text>
 <text id='v383' author='Patrizio' date='2016-06-10' time='22:21:37'>
-<‎immagine omessa>
+
 </text>
 <text id='v384' author='Daniele' date='2016-06-10' time='22:28:05'>
 😍😍😍😍	NOM	unknown
@@ -3164,7 +3162,7 @@ bello	ADJ	bello
 !	SENT	!
 </text>
 <text id='v390' author='Tommaso' date='2016-06-11' time='21:15:18'>
-<‎immagine omessa>
+
 </text>
 <text id='v391' author='Silvio' date='2016-06-11' time='22:00:20'>
 altre	PRO:indef	altro
@@ -3172,10 +3170,10 @@ foto	NOM	foto
 ?	SENT	?
 </text>
 <text id='v392' author='Tommaso' date='2016-06-11' time='22:02:51'>
-<‎immagine omessa>
+
 </text>
 <text id='v393' author='Marta' date='2016-06-11' time='22:08:14'>
-<‎immagine omessa>
+
 </text>
 <text id='v394' author='Marta' date='2016-06-11' time='22:08:21'>
 Voilà	NOM	unknown
@@ -3185,7 +3183,7 @@ Voilà	NOM	unknown
 ❤❤	NOM	unknown
 </text>
 <text id='v396' author='Tommaso' date='2016-06-11' time='22:17:14'>
-<‎immagine omessa>
+
 </text>
 <text id='v397' author='Daniele' date='2016-06-11' time='22:34:55'>
 Mi	NOM	unknown
@@ -3204,7 +3202,7 @@ di	PRE	di
 tutto	PRO:indef	tutto
 </text>
 <text id='v400' author='Tommaso' date='2016-06-11' time='23:02:23'>
-<‎immagine omessa>
+
 </text>
 <text id='v401' author='Daniele' date='2016-06-11' time='23:03:03'>
 Manca	NPR	Manca
@@ -3282,7 +3280,7 @@ di	PRE	di
 scrivere	VER:infi	scrivere
 </text>
 <text id='v409' author='Daniele' date='2016-06-12' time='09:25:23'>
-<‎immagine omessa>
+
 </text>
 <text id='v410' author='Vittoria' date='2016-06-12' time='09:26:21'>
 Tanti	NOM	unknown
@@ -3363,7 +3361,7 @@ speciale	ADJ	speciale
 😘	NOM	unknown
 </text>
 <text id='v421' author='Patrizio' date='2016-06-12' time='14:12:04'>
-<‎immagine omessa>
+
 </text>
 <text id='v422' author='Marta' date='2016-06-12' time='14:12:31'>
 😱😱😱	NOM	unknown
@@ -3884,7 +3882,7 @@ Altamurane	VER:impe	unknown
 .	SENT	.
 </text>
 <text id='v480' author='Daniele' date='2016-06-25' time='10:01:22'>
-<‎immagine omessa>
+
 </text>
 <text id='v481' author='Silvio' date='2016-06-25' time='10:02:11'>
 Di	PRE	di
@@ -4127,7 +4125,7 @@ amico	ADJ	amico
 speciale	ADJ	speciale
 </text>
 <text id='v507' author='Patrizio' date='2016-06-27' time='22:01:12'>
-<‎immagine omessa>
+
 </text>
 <text id='v508' author='Silvio' date='2016-06-27' time='22:16:54'>
 Ma	NOM	ma
@@ -4173,7 +4171,7 @@ Brunetta	NOM	brunetta
 Appost	NOM	unknown
 </text>
 <text id='v514' author='Patrizio' date='2016-06-28' time='15:23:32'>
-<‎immagine omessa>
+
 </text>
 <text id='v515' author='Patrizio' date='2016-06-28' time='15:23:43'>
 Ho	NOM	unknown
@@ -4243,7 +4241,7 @@ della	PRE:det	del
 Bruna	NOM	bruno
 </text>
 <text id='v523' author='Vera' date='2016-07-02' time='10:35:18'>
-<‎immagine omessa>
+
 </text>
 <text id='v524' author='Vera' date='2016-07-02' time='10:35:21'>
 Buona	NOM	buono
@@ -4369,10 +4367,10 @@ come	PRE	come
 Chiellini	NOM	unknown
 </text>
 <text id='v537' author='Daniele' date='2016-07-03' time='17:15:32'>
-<‎immagine omessa>
+
 </text>
 <text id='v538' author='Patrizio' date='2016-07-03' time='17:31:24'>
-<‎immagine omessa>
+
 </text>
 <text id='v539' author='Patrizio' date='2016-07-03' time='17:31:37'>
 Impegnati	NOM	unknown
@@ -4436,7 +4434,7 @@ Daniele	NPR	Daniele
 .	SENT	.
 </text>
 <text id='v545' author='Daniele' date='2016-07-03' time='18:04:42'>
-<‎immagine omessa>
+
 </text>
 <text id='v546' author='Alessandro' date='2016-07-04' time='16:34:12'>
 È	NOM	unknown
@@ -4564,7 +4562,7 @@ te	PRO:pers	te
 !	SENT	!
 </text>
 <text id='v556' author='Patrizio' date='2016-07-07' time='15:09:54'>
-<‎immagine omessa>
+
 </text>
 <text id='v557' author='Patrizio' date='2016-07-07' time='15:10:11'>
 Allacciate	VER:pper	allacciare
@@ -4770,7 +4768,7 @@ Auguri	NOM	augurio
 Grazie	NOM	grazia
 </text>
 <text id='v583' author='Daniele' date='2016-07-10' time='12:36:23'>
-<‎immagine omessa>
+
 </text>
 <text id='v584' author='Vera' date='2016-07-10' time='12:37:51'>
 Tutto	NOM	tutto
@@ -4965,7 +4963,7 @@ questa	PRO:demo	questo
 .	SENT	.
 </text>
 <text id='v608' author='Silvio' date='2016-07-10' time='16:11:21'>
-<‎immagine omessa>
+
 </text>
 <text id='v609' author='Marta' date='2016-07-10' time='16:11:55'>
 😎ok	NOM	unknown
@@ -5171,7 +5169,7 @@ tua	ADJ	tuo
 🌺🙋🏻	NOM	unknown
 </text>
 <text id='v646' author='Patrizio' date='2016-07-19' time='22:42:24'>
-<‎immagine omessa>
+
 </text>
 <text id='v647' author='Patrizio' date='2016-07-19' time='22:42:37'>
 La	NOM	unknown
@@ -5295,7 +5293,7 @@ Daniele	NPR	Daniele
 .	SENT	.
 </text>
 <text id='v661' author='Marta' date='2016-07-22' time='19:47:40'>
-<‎immagine omessa>
+
 </text>
 <text id='v662' author='Marta' date='2016-07-22' time='19:48:00'>
 Ciao	INT	ciao
@@ -5326,7 +5324,7 @@ taglio	NOM	taglio
 😄😄😄grazie	NOM	unknown
 </text>
 <text id='v667' author='Patrizio' date='2016-07-24' time='13:12:54'>
-<‎immagine omessa>
+
 </text>
 <text id='v668' author='Patrizio' date='2016-07-24' time='13:13:06'>
 Peccato	NOM	peccato
@@ -5380,7 +5378,7 @@ privato	ADJ	privato
 Logicamente	NOM	unknown
 </text>
 <text id='v677' author='Marta' date='2016-07-26' time='20:45:37'>
-<‎video omesso>
+
 </text>
 <text id='v678' author='Filippa' date='2016-07-26' time='20:47:53'>
 Iooo	NOM	unknown
@@ -5423,13 +5421,13 @@ un	DET:indef	un
 pò💐😊🍾🍀	ADJ	unknown
 </text>
 <text id='v687' author='Marta' date='2016-07-26' time='22:02:30'>
-<‎immagine omessa>
+
 </text>
 <text id='v688' author='Valeria' date='2016-07-26' time='22:20:26'>
 Bello	NOM	bello
 </text>
 <text id='v689' author='Patrizio' date='2016-07-27' time='14:42:35'>
-<‎immagine omessa>
+
 </text>
 <text id='v690' author='Patrizio' date='2016-07-27' time='14:42:42'>
 Gli	NOM	unknown
@@ -5528,13 +5526,13 @@ anno	NOM	anno
 neolitico	ADJ	neolitico
 </text>
 <text id='v701' author='Tommaso' date='2016-07-29' time='09:39:50'>
-<‎immagine omessa>
+
 </text>
 <text id='v702' author='Tommaso' date='2016-07-29' time='09:39:51'>
-<‎immagine omessa>
+
 </text>
 <text id='v703' author='Tommaso' date='2016-07-29' time='09:39:51'>
-<‎immagine omessa>
+
 </text>
 <text id='v704' author='Filippa' date='2016-07-29' time='09:41:25'>
 Hai	NOM	unknown
@@ -5696,7 +5694,7 @@ a	PRE	a
 tutti	PRO:indef	tutto
 </text>
 <text id='v727' author='Tommaso' date='2016-07-29' time='13:39:13'>
-<‎immagine omessa>
+
 </text>
 <text id='v728' author='Marta' date='2016-07-29' time='13:41:53'>
 È	NOM	unknown
@@ -5747,7 +5745,7 @@ Piacere	NOM	piacere
 !	SENT	!
 </text>
 <text id='v736' author='Marta' date='2016-07-29' time='21:12:47'>
-<‎immagine omessa>
+
 </text>
 <text id='v737' author='Filippa' date='2016-07-29' time='21:13:08'>
 Wooow	NOM	unknown
@@ -5765,7 +5763,7 @@ prossimi	ADJ	prossimo
 👍🏼	NOM	unknown
 </text>
 <text id='v740' author='Tommaso' date='2016-08-08' time='12:06:26'>
-<‎immagine omessa>
+
 </text>
 <text id='v741' author='Patrizio' date='2016-08-08' time='12:07:27'>
 Do	NOM	do
@@ -5819,7 +5817,7 @@ sole	ADJ	solo
 🌞🌞🌞	NOM	unknown
 </text>
 <text id='v751' author='Silvio' date='2016-08-08' time='15:57:55'>
-<‎immagine omessa>
+
 </text>
 <text id='v752' author='Marta' date='2016-08-08' time='16:03:33'>
 😃	NOM	unknown
@@ -6144,7 +6142,7 @@ cuore	NOM	cuore
 😘	NOM	unknown
 </text>
 <text id='v793' author='Daniele' date='2017-03-08' time='10:02:01'>
-<‎immagine omessa>
+
 </text>
 <text id='v794' author='Tommaso' date='2017-03-08' time='10:05:23'>
 Buona	NOM	buono
@@ -6162,7 +6160,7 @@ credibile	ADJ	credibile
 <text id='v796' author='Patrizio' date='2017-03-08' time='10:06:03'>
 https://m.youtube.com/watch	NOM	unknown
 ?	SENT	?
-v=IOsAyQ37jkc&feature=youtu.be	ADJ	unknown
+v=IOsAyQ37jkcfeature=youtu.be	ADJ	unknown
 </text>
 <text id='v797' author='Patrizio' date='2017-03-08' time='10:06:32'>
 A	NOM	unknown

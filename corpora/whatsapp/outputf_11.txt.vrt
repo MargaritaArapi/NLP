@@ -87,8 +87,6 @@ arrivando	VER:geru	arrivare
 💪🏻😎	NOM	unknown
 </text>
 <text id='p14' author='daniela' date='2017-01-21' time='14:42:46'>
-2017-01-21-PHOTO-00000021.jpg	NOM	unknown
-<‎angehängt>
 </text>
 <text id='p15' author='daniela' date='2017-01-21' time='14:42:56'>
 Awwww	NOM	unknown
@@ -574,11 +572,11 @@ club	NOM	club
 </text>
 <text id='p71' author='luigi' date='2017-01-28' time='20:40:26'>
 2017-01-28-AUDIO-00000102.opus	NOM	unknown
-<‎angehängt>
+
 </text>
 <text id='p72' author='luigi' date='2017-01-28' time='20:40:51'>
 2017-01-28-AUDIO-00000104.opus	NOM	unknown
-<‎angehängt>
+
 </text>
 <text id='p73' author='daniela' date='2017-01-28' time='20:44:09'>
 Ahahahahahaha	NOM	unknown
@@ -641,7 +639,7 @@ voi	PRO:pers	voi
 </text>
 <text id='p85' author='giulia' date='2017-01-29' time='09:06:39'>
 2017-01-29-PHOTO-00000125.jpg	NOM	unknown
-<‎angehängt>
+
 </text>
 <text id='p86' author='charlotte' date='2017-01-29' time='09:07:41'>
 😍😂	NOM	unknown
@@ -764,7 +762,7 @@ Abruzzo	NPR	Abruzzo
 </text>
 <text id='p98' author='giulia' date='2017-02-09' time='14:05:53'>
 2017-02-09-AUDIO-00000141.opus	NOM	unknown
-<‎angehängt>
+
 </text>
 <text id='p99' author='luigi' date='2017-02-09' time='14:11:15'>
 Ma	NOM	ma
@@ -779,18 +777,18 @@ vero	ADJ	vero
 </text>
 <text id='p101' author='daniela' date='2017-02-09' time='15:05:01'>
 2017-02-09-AUDIO-00000144.opus	NOM	unknown
-<‎angehängt>
+
 </text>
 <text id='p102' author='luigi' date='2017-02-09' time='15:07:58'>
 2017-02-09-AUDIO-00000145.opus	NOM	unknown
-<‎angehängt>
+
 </text>
 <text id='p103' author='daniela' date='2017-02-09' time='15:10:31'>
 Ahahahahahahq	NOM	unknown
 </text>
 <text id='p104' author='luigi' date='2017-02-09' time='15:14:25'>
 2017-02-09-AUDIO-00000147.opus	NOM	unknown
-<‎angehängt>
+
 </text>
 <text id='p105' author='daniela' date='2017-02-09' time='15:19:04'>
 Poi	NOM	poi
@@ -810,7 +808,7 @@ risate	NOM	risata
 </text>
 <text id='p106' author='luigi' date='2017-02-09' time='15:19:51'>
 2017-02-09-AUDIO-00000149.opus	NOM	unknown
-<‎angehängt>
+
 </text>
 <text id='p107' author='daniela' date='2017-02-09' time='15:32:24'>
 Guarda	VER:pres	guardare
@@ -831,7 +829,7 @@ patti	NOM	patto
 </text>
 <text id='p108' author='luigi' date='2017-02-09' time='15:32:46'>
 2017-02-09-AUDIO-00000151.opus	NOM	unknown
-<‎angehängt>
+
 </text>
 <text id='p109' author='luigi' date='2017-02-09' time='15:33:12'>
 Cit	NPR	Cit
@@ -858,7 +856,7 @@ meno	ADV	meno
 </text>
 <text id='p114' author='daniela' date='2017-02-12' time='14:40:21'>
 2017-02-12-PHOTO-00000157.jpg	NOM	unknown
-<‎angehängt>
+
 </text>
 <text id='p115' author='luigi' date='2017-02-16' time='16:03:20'>
 Siamo	VER:pres	essere
@@ -973,7 +971,7 @@ niente	ADV	niente
 </text>
 <text id='p133' author='giulia' date='2017-02-18' time='18:41:53'>
 2017-02-18-AUDIO-00000178.opus	NOM	unknown
-<‎angehängt>
+
 </text>
 <text id='p134' author='luigi' date='2017-02-18' time='18:45:25'>
 Minkia	NOM	unknown
