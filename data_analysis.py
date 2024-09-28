@@ -23,3 +23,15 @@ def count_input_in_dataframe(query, dataframe, lower_case=True):
 
     # Gib das Ergebnis auf der Konsole aus
     print(f'Query {query} found in {message_counter} messages. Total count of occurences: {occurrence_counter}')
+    return message_counter, occurrence_counter
+
+def count_inputs_for_list(query_list, dataframe):
+    message_counter = 0
+    occurence_counter = 0 
+    for element in query_list: 
+        element_msg_counter, element_occ_counter = count_input_in_dataframe(query=element, dataframe=dataframe, lower_case=False)
+        message_counter += element_msg_counter
+        occurence_counter += element_occ_counter
+
+    print(f'Query elements found in {message_counter} messages. Total count of occurences of all queries: {occurence_counter}')
+
